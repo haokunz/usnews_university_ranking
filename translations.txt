@@ -1,0 +1,5058 @@
+学校名称:
+Harvard University: 哈佛大学
+Massachusetts Institute of Technology (MIT): 麻省理工学院
+Stanford University: 斯坦福大学
+University of Oxford: 牛津大学
+University of California Berkeley: 加利福尼亚大学伯克利分校
+University of Cambridge: 剑桥大学
+University College London: 伦敦大学学院
+University of Washington Seattle: 华盛顿大学西雅图分校
+Columbia University: 哥伦比亚大学
+Yale University: 耶鲁大学
+University of California Los Angeles: 加利福尼亚大学洛杉矶分校
+Imperial College London: 帝国理工学院
+Johns Hopkins University: 约翰霍普金斯大学
+University of Pennsylvania: 宾夕法尼亚大学
+University of California San Francisco: 加利福尼亚大学旧金山分校
+Tsinghua University: 清华大学
+University of Toronto: 多伦多大学
+Princeton University: 普林斯顿大学
+Cornell University: 康奈尔大学
+University of Michigan: 密歇根大学
+University of California San Diego: 加利福尼亚大学圣地亚哥分校
+National University of Singapore: 新加坡国立大学
+California Institute of Technology: 加利福尼亚理工学院
+Northwestern University: 西北大学
+University of Chicago: 芝加哥大学
+Duke University: 杜克大学
+Nanyang Technological University: 南洋理工大学
+University of Melbourne: 墨尔本大学
+University of Sydney: 悉尼大学
+Washington University (WUSTL): 华盛顿大学
+Peking University: 北京大学
+Sofia University "St. Kliment Ohridski": 索菲亚大学“克里门特·奥赫里德斯基”
+New York University: 纽约大学
+ETH Zurich: 苏黎世联邦理工学院
+University of Amsterdam: 阿姆斯特丹大学
+University Massachusetts Dartmouth: 马萨诸塞大学达特茅斯分校
+Monash University: 莫纳什大学
+King's College London: 伦敦国王学院
+University of New South Wales Sydney: 新南威尔士大学悉尼分校
+University of Edinburgh: 爱丁堡大学
+University of British Columbia: 英属哥伦比亚大学
+Icahn School of Medicine at Mount Sinai: 西奈山伊坎医学院
+University of Queensland: 昆士兰大学
+Chinese University of Hong Kong: 香港中文大学
+Universite Paris Cite: 巴黎大学
+University of Copenhagen: 哥本哈根大学
+University of Hong Kong: 香港大学
+Utrecht University: 乌得勒支大学
+University of North Carolina Chapel Hill: 北卡罗来纳大学教堂山分校
+Humboldt University of Berlin: 柏林洪堡大学
+KU Leuven: 鲁汶大学
+University of Pittsburgh: 匹兹堡大学
+Karolinska Institutet: 卡罗林斯卡学院
+Zhejiang University: 浙江大学
+University of Munich: 慕尼黑大学
+Shanghai Jiao Tong University: 上海交通大学
+Ruprecht Karls University Heidelberg: 海德堡大学
+Leiden University: 莱顿大学
+McGill University: 麦吉尔大学
+Sorbonne Universite: 索邦大学
+University of Texas Austin: 得克萨斯大学奥斯汀分校
+University of Zurich: 苏黎世大学
+Ohio State University: 俄亥俄州立大学
+University of Glasgow: 格拉斯哥大学
+Emory University: 埃默里大学
+University of Minnesota Twin Cities: 明尼苏达大学双城分校
+Vanderbilt University: 范德堡大学
+Free University of Berlin: 柏林自由大学
+Hong Kong Polytechnic University: 香港理工大学
+University of Manchester: 曼彻斯特大学
+University of Chinese Academy of Sciences, CAS: 中国科学院大学
+Erasmus University Rotterdam: 鹿特丹伊拉斯姆斯大学
+Georgia Institute of Technology: 佐治亚理工学院
+University of Maryland College Park: 马里兰大学学院市分校
+Boston University: 波士顿大学
+King Abdulaziz University: 阿卜杜勒阿齐兹国王大学
+University of Wisconsin Madison: 威斯康星大学麦迪逊分校
+Universite Paris Saclay: 巴黎萨克雷大学
+University of Groningen: 格罗宁根大学
+Vrije Universiteit Amsterdam: 阿姆斯特丹自由大学
+City University of Hong Kong: 香港城市大学
+University of Barcelona: 巴塞罗那大学
+University of Southern California: 南加州大学
+Technical University of Munich: 慕尼黑工业大学
+University of Science & Technology of China, CAS: 中国科学技术大学
+University of Tokyo: 东京大学
+Australian National University: 澳大利亚国立大学
+Fudan University: 复旦大学
+University of Technology Sydney: 悉尼科技大学
+Ecole Polytechnique Federale de Lausanne: 洛桑联邦理工学院
+University of California Davis: 加利福尼亚大学戴维斯分校
+University of California Santa Barbara: 加利福尼亚大学圣巴巴拉分校
+University of Western Australia: 西澳大利亚大学
+Queen Mary University London: 伦敦玛丽女王大学
+University of Adelaide: 阿德莱德大学
+Rockefeller University: 洛克菲勒大学
+University of Birmingham: 伯明翰大学
+Pennsylvania State University: 宾夕法尼亚州立大学
+University of Bristol: 布里斯托大学
+Nanjing University: 南京大学
+University of Colorado Boulder: 科罗拉多大学博尔德分校
+Huazhong University of Science & Technology: 华中科技大学
+King Abdullah University of Science & Technology: 阿卜杜拉国王科技大学
+University of California Irvine: 加利福尼亚大学欧文分校
+University of Illinois Urbana-Champaign: 伊利诺伊大学厄巴纳-香槟分校
+University of Oslo: 奥斯陆大学
+Hong Kong University of Science & Technology: 香港科技大学
+Sun Yat Sen University: 中山大学
+University of Florida: 佛罗里达大学
+Wuhan University: 武汉大学
+Ghent University: 根特大学
+University of Texas Southwestern Medical Center Dallas: 德州大学西南医学中心
+University of Bern: 伯尔尼大学
+Universite PSL: 巴黎文理研究大学
+University of Helsinki: 赫尔辛基大学
+Wageningen University & Research: 瓦赫宁根大学与研究中心
+University of Arizona: 亚利桑那大学
+University of Cape Town: 开普敦大学
+Aarhus University: 奥胡斯大学
+Radboud University Nijmegen: 奈梅亨大学
+Hunan University: 湖南大学
+University of Geneva: 日内瓦大学
+London School of Hygiene & Tropical Medicine: 伦敦卫生与热带医学院
+University of Exeter: 埃克塞特大学
+Michigan State University: 密歇根州立大学
+University of Southampton: 南安普顿大学
+Lund University: 隆德大学
+University of Virginia: 弗吉尼亚大学
+McMaster University: 麦克马斯特大学
+Universidade de Sao Paulo: 圣保罗大学
+University of California Santa Cruz: 加利福尼亚大学圣克鲁兹分校
+University of Bologna: 博洛尼亚大学
+University of Padua: 帕多瓦大学
+University of Auckland: 奥克兰大学
+Autonomous University of Barcelona: 巴塞罗那自治大学
+Carnegie Mellon University: 卡内基梅隆大学
+Indiana University Bloomington: 印第安纳大学布卢明顿分校
+Seoul National University (SNU): 首尔大学
+Baylor College of Medicine: 贝勒医学院
+University of Liverpool: 利物浦大学
+Weizmann Institute of Science: 魏茨曼科学研究所
+Sapienza University Rome: 罗马萨皮恩扎大学
+University of Leeds: 利兹大学
+King Saud University: 沙特国王大学
+Swinburne University of Technology: 斯威本科技大学
+University of Colorado Anschutz Medical Campus: 科罗拉多大学安舒茨医学园区
+University of Nottingham: 诺丁汉大学
+University of Hamburg: 汉堡大学
+University of Milan: 米兰大学
+Oregon Health & Science University: 俄勒冈健康与科学大学
+Rutgers University New Brunswick: 罗格斯大学新不伦瑞克分校
+University of Alberta: 阿尔伯塔大学
+University of Utah: 犹他大学
+Uppsala University: 乌普萨拉大学
+Brown University: 布朗大学
+Stockholm University: 斯德哥尔摩大学
+Tongji University: 同济大学
+University of Electronic Science & Technology of China: 电子科技大学
+Southern University of Science & Technology: 南方科技大学
+University of Bonn: 波恩大学
+Newcastle University - UK: 纽卡斯尔大学
+Case Western Reserve University: 凯斯西储大学
+Harbin Institute of Technology: 哈尔滨工业大学
+University of Gothenburg: 哥德堡大学
+University of Sheffield: 谢菲尔德大学
+Cankaya University: 坎卡亚大学
+Curtin University: 科廷大学
+University of Alabama Birmingham: 阿拉巴马大学伯明翰分校
+Purdue University West Lafayette Campus: 普渡大学西拉法叶分校
+Central South University: 中南大学
+Kyoto University: 京都大学
+University of Basel: 巴塞尔大学
+Texas A&M University College Station: 德州农工大学学院站
+University of Gottingen: 哥廷根大学
+University of Warwick: 华威大学
+Universite de Montreal: 蒙特利尔大学
+University of Lausanne: 洛桑大学
+University of Massachusetts Amherst: 马萨诸塞大学阿默斯特分校
+Deakin University: 迪肯大学
+Tel Aviv University: 特拉维夫大学
+Arizona State University-Tempe: 亚利桑那州立大学坦佩分校
+Beijing Institute of Technology: 北京理工大学
+Maastricht University: 马斯特里赫特大学
+Xi'an Jiaotong University: 西安交通大学
+Southeast University - China: 东南大学
+Cardiff University: 卡迪夫大学
+Queensland University of Technology (QUT): 昆士兰科技大学
+Technical University of Denmark: 丹麦技术大学
+Delft University of Technology: 代尔夫特理工大学
+Shenzhen University: 深圳大学
+South China University of Technology: 华南理工大学
+University of Naples Federico II: 那不勒斯费德里科二世大学
+Nankai University: 南开大学
+Macquarie University: 麦考瑞大学
+University of Waterloo: 滑铁卢大学
+University of Leicester: 莱斯特大学
+Royal Melbourne Institute of Technology (RMIT): 皇家墨尔本理工大学
+Tianjin University: 天津大学
+Eberhard Karls University of Tubingen: 图宾根大学
+Xiamen University: 厦门大学
+Aix-Marseille Universite: 艾克斯-马赛大学
+University of Rochester: 罗切斯特大学
+Technische Universitat Dresden: 德累斯顿工业大学
+Universite Catholique Louvain: 天主教鲁汶大学
+Medical University of Vienna: 维也纳医科大学
+University of Wollongong: 伍伦贡大学
+Yonsei University: 延世大学
+Beijing Normal University: 北京师范大学
+Trinity College Dublin: 都柏林圣三一学院
+University of Calgary: 卡尔加里大学
+Vita-Salute San Raffaele University: 圣拉斐尔生命健康大学
+University of Cincinnati: 辛辛那提大学
+University of Freiburg: 弗赖堡大学
+University of Wurzburg: 维尔茨堡大学
+University of Antwerp: 安特卫普大学
+Zhengzhou University: 郑州大学
+National & Kapodistrian University of Athens: 雅典国立卡波迪斯特里亚大学
+University of Vienna: 维也纳大学
+Sichuan University: 四川大学
+RWTH Aachen University: 亚琛工业大学
+Universite de Montpellier: 蒙彼利埃大学
+University of Ottawa: 渥太华大学
+China University of Geosciences: 中国地质大学
+University of Turin: 都灵大学
+Rice University: 莱斯大学
+University of California Riverside: 加利福尼亚大学河滨分校
+Universidade de Lisboa: 里斯本大学
+University of Iowa: 爱荷华大学
+Beihang University: 北京航空航天大学
+Goethe University Frankfurt: 法兰克福大学
+Northeastern University: 东北大学
+State University of New York (SUNY) Stony Brook: 纽约州立大学石溪分校
+University of Southern Denmark: 南丹麦大学
+Lancaster University: 兰卡斯特大学
+Johannes Gutenberg University of Mainz: 美因茨大学
+National Taiwan University: 国立台湾大学
+University of Munster: 明斯特大学
+University of Newcastle: 纽卡斯尔大学
+China Agricultural University: 中国农业大学
+Universite Grenoble Alpes (UGA): 格勒诺布尔阿尔卑斯大学
+Griffith University: 格里菲斯大学
+London School Economics & Political Science: 伦敦政治经济学院
+Sejong University: 世宗大学
+University of Cologne: 科隆大学
+University of Miami: 迈阿密大学
+University of Tartu: 塔尔图大学
+Chongqing University: 重庆大学
+University of Florence: 佛罗伦萨大学
+University of Pisa: 比萨大学
+University of Sussex: 萨塞克斯大学
+University of Tennessee Knoxville: 田纳西大学诺克斯维尔分校
+University of York - UK: 约克大学
+Royal Institute of Technology: 皇家理工学院
+University of Valencia: 瓦伦西亚大学
+Charles University Prague: 布拉格查理大学
+East China Normal University: 华东师范大学
+Northwestern Polytechnical University: 西北工业大学
+Ton Duc Thang University: 同德大学
+University College Dublin: 都柏林大学学院
+University of Milano-Bicocca: 米兰比可卡大学
+University of Bergen: 卑尔根大学
+Universite Libre de Bruxelles: 布鲁塞尔自由大学
+University of Sharjah: 沙迦大学
+North Carolina State University: 北卡罗来纳州立大学
+University of Macau: 澳门大学
+Hebrew University of Jerusalem: 耶路撒冷希伯来大学
+Queens University Belfast: 贝尔法斯特女王大学
+University of Witwatersrand: 金山大学
+Norwegian University of Science & Technology (NTNU): 挪威科技大学
+University of Illinois Chicago: 伊利诺伊大学芝加哥分校
+Pompeu Fabra University: 庞培法布拉大学
+University of Texas Health Science Center at San Antonio: 德州大学健康科学中心圣安东尼奥
+Cairo University: 开罗大学
+George Washington University: 乔治华盛顿大学
+Tufts University: 塔夫茨大学
+Universidade do Porto: 波尔图大学
+Sungkyunkwan University (SKKU): 成均馆大学
+University of Tehran: 德黑兰大学
+Autonomous University of Madrid: 马德里自治大学
+Aalborg University: 奥尔堡大学
+Virginia Polytechnic Institute & State University: 弗吉尼亚理工大学
+Western Sydney University: 西悉尼大学
+Universite de Bordeaux: 波尔多大学
+Universiti Malaya: 马来亚大学
+University of Erlangen Nuremberg: 埃尔朗根-纽伦堡大学
+La Trobe University: 拉筹伯大学
+China Medical University Taiwan: 中国医科大学台湾
+University of Otago: 奥塔哥大学
+University of Tasmania: 塔斯马尼亚大学
+Yeshiva University: 叶史瓦大学
+COMSATS University Islamabad (CUI): 伊斯兰堡COMSATS大学
+Karlsruhe Institute of Technology: 卡尔斯鲁厄理工学院
+University of Maryland Baltimore: 马里兰大学巴尔的摩分校
+Dalian University of Technology: 大连理工大学
+Shandong University: 山东大学
+Technical University of Berlin: 柏林工业大学
+Universite Toulouse III - Paul Sabatier: 图卢兹第三大学
+Aalto University: 阿尔托大学
+Duy Tan University: 堤岸大学
+Korea Advanced Institute of Science & Technology (KAIST): 韩国科学技术院
+University of Colorado Denver: 科罗拉多大学丹佛分校
+Korea University: 高丽大学
+Linkoping University: 林雪平大学
+University of Texas Health Science Center Houston: 德州大学健康科学中心休斯敦
+Wuhan University of Technology: 武汉理工大学
+University of Southern Queensland: 南昆士兰大学
+Florida State University: 佛罗里达州立大学
+University of Duisburg Essen: 杜伊斯堡-埃森大学
+University of Pavia: 帕维亚大学
+Vrije Universiteit Brussel: 布鲁塞尔自由大学
+Durham University: 杜伦大学
+Georgetown University: 乔治城大学
+Colorado State University: 科罗拉多州立大学
+Stellenbosch University: 斯泰伦博斯大学
+Tohoku University: 东北大学
+Western University (University of Western Ontario): 西安大略大学
+Osaka University: 大阪大学
+University of Connecticut: 康涅狄格大学
+Polytechnic University of Milan: 米兰理工大学
+Soochow University - China: 苏州大学
+South Ural State University: 南乌拉尔国立大学
+Dartmouth College: 达特茅斯学院
+University of Trento: 特伦托大学
+Universite de Strasbourg: 斯特拉斯堡大学
+Complutense University of Madrid: 马德里康普顿斯大学
+King Fahd University of Petroleum & Minerals: 沙特阿卜杜拉阿齐兹石油矿物大学
+University of Kiel: 基尔大学
+University of Lagos: 拉各斯大学
+Al Azhar University: 艾资哈尔大学
+Leipzig University: 莱比锡大学
+Shanghai University: 上海大学
+State University of New York (SUNY) Buffalo: 纽约州立大学水牛城分校
+University of Surrey: 萨里大学
+University of Genoa: 热那亚大学
+University of Kansas: 堪萨斯大学
+University of South Florida: 南佛罗里达大学
+Mansoura University: 曼苏拉大学
+Temple University: 天普大学
+Beijing University of Chemical Technology: 北京化工大学
+Nanjing Agricultural University: 南京农业大学
+Qatar University: 卡塔尔大学
+Universidade Estadual de Campinas: 坎皮纳斯州立大学
+Catholic University of the Sacred Heart: 圣心天主教大学
+Chalmers University of Technology: 查尔姆斯理工大学
+Jiangsu University: 江苏大学
+Iowa State University: 爱荷华州立大学
+Jilin University: 吉林大学
+Technion Israel Institute of Technology: 以色列理工学院
+Universite Claude Bernard Lyon 1: 里昂第一大学
+Universiti Teknologi Malaysia: 马来西亚科技大学
+University of Georgia: 乔治亚大学
+St Georges University London: 圣乔治大学伦敦
+University of Ibadan: 伊巴丹大学
+Dalhousie University: 达尔豪斯大学
+University of Granada: 格拉纳达大学
+Ulm University: 乌尔姆大学
+Singapore University of Technology & Design: 新加坡科技设计大学
+University of Turku: 图尔库大学
+Kyushu University: 九州大学
+University of Johannesburg: 约翰内斯堡大学
+Pontificia Universidad Catolica de Chile: 智利天主教大学
+Queens University - Canada: 加拿大女王大学
+Taif University: 塔伊夫大学
+Australian Catholic University: 澳大利亚天主教大学
+University of Dundee: 邓迪大学
+Zagazig University: 扎加齐格大学
+Oregon State University: 俄勒冈州立大学
+Universite Cote d'Azur: 蔚蓝海岸大学
+Nagoya University: 名古屋大学
+University of Aberdeen: 阿伯丁大学
+Huazhong Agricultural University: 华中农业大学
+ShanghaiTech University: 上海科技大学
+University of Kentucky: 肯塔基大学
+University of Rome Tor Vergata: 罗马第二大学
+Medical University of Graz: 格拉茨医科大学
+Eindhoven University of Technology: 埃因霍温理工大学
+Islamic Azad University: 伊斯兰阿扎德大学
+Northwest A&F University - China: 西北农林科技大学
+University of Potsdam: 波茨坦大学
+University of Notre Dame: 圣母大学
+University of Reading: 雷丁大学
+University of South Australia: 南澳大利亚大学
+American University of Beirut: 贝鲁特美国大学
+Quaid I Azam University: 奎德·阿扎姆大学
+University of Liege: 列日大学
+University of Science & Technology Beijing: 北京科技大学
+Friedrich Schiller University of Jena: 耶拿大学
+Pohang University of Science & Technology (POSTECH): 浦项工科大学
+University of Navarra: 纳瓦拉大学
+University of Victoria: 维多利亚大学
+Changsha University of Science & Technology: 长沙理工大学
+Ruhr University Bochum: 鲁尔大学波鸿
+Jagiellonian University: 雅盖隆大学
+Ulsan National Institute of Science & Technology (UNIST): 蔚山国立科技研究所
+University of New Mexico: 新墨西哥大学
+Aristotle University of Thessaloniki: 塞萨洛尼基亚里士多德大学
+University of Oregon: 俄勒冈大学
+University of St Andrews: 圣安德鲁斯大学
+Alexandria University: 亚历山大大学
+Nanjing University of Information Science & Technology: 南京信息工程大学
+University of East Anglia: 东安格利亚大学
+Washington State University: 华盛顿州立大学
+Ain Shams University: 艾因夏姆斯大学
+Umea University: 于默奥大学
+United Arab Emirates University: 阿联酋大学
+Universite de Lille: 里尔大学
+Universiti Sains Malaysia: 马来西亚理科大学
+University of Kwazulu Natal: 夸祖鲁-纳塔尔大学
+Virginia Commonwealth University: 弗吉尼亚联邦大学
+Jinan University: 暨南大学
+Simon Fraser University: 西蒙弗雷泽大学
+Tulane University: 杜兰大学
+Westlake University: 西湖大学
+James Cook University: 詹姆斯库克大学
+Sechenov First Moscow State Medical University: 第一莫斯科国立医科大学
+Universita degli Studi di Bari Aldo Moro: 巴里阿尔多·莫罗大学
+University College Cork: 科克大学学院
+University of Twente: 特温特大学
+Central China Normal University: 华中师范大学
+Hannover Medical School: 汉诺威医学院
+Qingdao University: 青岛大学
+University of Manitoba: 曼尼托巴大学
+Flinders University South Australia: 南澳大利亚弗林德斯大学
+Humanitas University: 人文大学
+University of Houston: 休斯顿大学
+University of Oulu: 奥卢大学
+Baylor University: 贝勒大学
+Fuzhou University: 福州大学
+Louisiana State University: 路易斯安那州立大学
+Drexel University: 德雷塞尔大学
+Heinrich Heine University Dusseldorf: 杜塞尔多夫大学
+University of Delaware: 特拉华大学
+University of Mississippi: 密西西比大学
+Universidad Nacional Autonoma de Mexico: 墨西哥国立自治大学
+University of Bath: 巴斯大学
+University of Central Florida: 中佛罗里达大学
+University of Strathclyde: 思克莱德大学
+Prince Sultan University: 苏丹王子大学
+Universidade Federal do Rio Grande do Sul: 南里奥格兰德联邦大学
+Nantes Universite: 南特大学
+Hokkaido University: 北海道大学
+Laval University: 拉瓦尔大学
+Swansea University: 斯旺西大学
+Swedish University of Agricultural Sciences: 瑞典农业科学大学
+University of Belgrade: 贝尔格莱德大学
+University of Pretoria: 比勒陀利亚大学
+Hanyang University: 汉阳大学
+Medical University of Innsbruck: 因斯布鲁克医科大学
+Tokyo Institute of Technology: 东京工业大学
+Universidad de Chile: 智利大学
+University of Verona: 维罗纳大学
+Universitat Politecnica de Catalunya: 加泰罗尼亚理工大学
+King Khalid University: 哈立德国王大学
+Lomonosov Moscow State University: 莫斯科国立大学
+Renmin University of China: 中国人民大学
+Scuola Normale Superiore di Pisa: 比萨高等师范学校
+Universite de Lorraine: 洛林大学
+University of Buenos Aires: 布宜诺斯艾利斯大学
+Zhejiang Normal University: 浙江师范大学
+Edith Cowan University: 埃迪斯科文大学
+University of Trieste: 的里雅斯特大学
+Kafrelsheikh University: 开夫拉谢赫大学
+Medical University of South Carolina: 南卡罗来纳医科大学
+University of Basque Country: 巴斯克地区大学
+University of Brescia: 布雷西亚大学
+University of Catania: 卡塔尼亚大学
+University of Texas Dallas: 德州大学达拉斯分校
+University of Innsbruck: 因斯布鲁克大学
+University of Massachusetts Worcester: 马萨诸塞大学伍斯特分校
+University of Missouri Columbia: 密苏里大学哥伦比亚分校
+Wayne State University: 韦恩州立大学
+York University - Canada: 约克大学（加拿大）
+Guangzhou University: 广州大学
+Hong Kong Baptist University: 香港浸会大学
+Tampere University: 坦佩雷大学
+Jefferson University: 杰斐逊大学
+Southwestern University of Finance & Economics - China: 西南财经大学
+Universidade de Coimbra: 科英布拉大学
+Nanjing Forestry University: 南京林业大学
+University of Hawaii Manoa: 夏威夷大学马诺阿分校
+Rush University: 拉什大学
+Syracuse University: 雪城大学
+Universite de Rennes: 雷恩大学
+University of the Philippines Manila: 菲律宾大学马尼拉分校
+University of Warsaw: 华沙大学
+Wake Forest University: 维克森林大学
+Eotvos Lorand University: 罗兰大学
+Lanzhou University: 兰州大学
+Xidian University: 西安电子科技大学
+University of Tsukuba: 筑波大学
+Assiut University: 亚述大学
+Nanjing University of Science & Technology: 南京理工大学
+Florida International University: 佛罗里达国际大学
+Bogazici University: 博加齐奇大学
+Brunel University: 布鲁内尔大学
+Northeastern University - China: 东北大学（中国）
+Prince Sattam Bin Abdulaziz University: 沙特阿齐兹国王大学
+Universidade Federal do Rio de Janeiro: 里约热内卢联邦大学
+China University of Petroleum: 中国石油大学
+Jiangnan University: 江南大学
+University of Ljubljana: 卢布尔雅那大学
+University of Nebraska Lincoln: 内布拉斯加大学林肯分校
+Indiana University-Purdue University Indianapolis: 印第安纳大学-普渡大学印第安纳波利斯分校
+Moscow Institute of Physics & Technology: 莫斯科物理技术学院
+George Mason University: 乔治梅森大学
+Hohai University: 河海大学
+Ocean University of China: 中国海洋大学
+University of Oklahoma - Norman: 俄克拉荷马大学诺曼分校
+Victoria University Wellington: 惠灵顿维多利亚大学
+National Technical University of Athens: 雅典国立技术大学
+Donghua University: 东华大学
+Justus Liebig University Giessen: 吉森大学
+National Tsing Hua University: 国立清华大学
+Polytechnic University of Turin: 都灵理工大学
+Universita della Campania Vanvitelli: 坎帕尼亚大学范维泰利
+University of Luxembourg: 卢森堡大学
+University of Zagreb: 萨格勒布大学
+Kyung Hee University: 庆熙大学
+Sharif University of Technology: 沙里夫理工大学
+Tehran University of Medical Sciences: 德黑兰医科大学
+Auckland University of Technology: 奥克兰理工大学
+Northern Arizona University: 北亚利桑那大学
+Hamad Bin Khalifa University-Qatar: 哈马德国王大学-卡塔尔
+Peking Union Medical College: 北京协和医学院
+Universidade de Santiago de Compostela: 圣地亚哥-德孔波斯特拉大学
+University of Iceland: 冰岛大学
+University of Sevilla: 塞维利亚大学
+University of Tabriz: 大不里士大学
+International School for Advanced Studies (SISSA): 高级研究国际学院
+Loughborough University: 拉夫堡大学
+Southwest University - China: 西南大学
+University of Perugia: 佩鲁贾大学
+Bocconi University: 博科尼大学
+Khalifa University of Science & Technology: 哈利法大学
+Universidade Federal de Minas Gerais: 米纳斯吉拉斯联邦大学
+Boston College: 波士顿学院
+Chulalongkorn University: 朱拉隆功大学
+Keio University: 庆应义塾大学
+Murdoch University: 默多克大学
+Shandong University of Science & Technology: 山东科技大学
+Universidade Nova de Lisboa: 里斯本新大学
+Mahidol University: 玛希隆大学
+North West University - South Africa: 南非西北大学
+Universiti Kebangsaan Malaysia: 马来西亚国民大学
+University of Guelph: 圭尔夫大学
+Koc University: 科奇大学
+Universiti Putra Malaysia: 马来西亚博特拉大学
+University of Canterbury: 坎特伯雷大学
+University of Saskatchewan: 萨斯喀彻温大学
+University of Vermont: 佛蒙特大学
+Beijing University of Posts & Telecommunications: 北京邮电大学
+Beijing University of Technology: 北京工业大学
+Mekelle University: 梅克莱大学
+Technische Universitat Wien: 维也纳工业大学
+Universidade de Aveiro: 阿威罗大学
+University of Eastern Finland: 东芬兰大学
+Ollscoil na Gaillimhe-University of Galway: 爱尔兰国立高威大学
+Taylor's University: 泰莱大学
+University of Ferrara: 费拉拉大学
+University of Palermo: 巴勒莫大学
+University of Salerno: 萨勒诺大学
+Ben Gurion University: 本-古里安大学
+China University of Mining & Technology: 中国矿业大学
+Georgia State University: 乔治亚州立大学
+Martin Luther University Halle Wittenberg: 哈勒-维滕贝格马丁路德大学
+Middle East Technical University: 中东技术大学
+Nanjing Tech University: 南京工业大学
+Nanjing University of Aeronautics & Astronautics: 南京航空航天大学
+University of Dhaka: 达卡大学
+Zhejiang University of Technology: 浙江工业大学
+Institut National Polytechnique de Grenoble: 格勒诺布尔国立理工学院
+Nanjing Normal University: 南京师范大学
+South China Agricultural University: 华南农业大学
+University of Regensburg: 雷根斯堡大学
+Ahmadu Bello University: 艾哈迈杜贝洛大学
+Benha University: 班哈大学
+Liverpool John Moores University: 利物浦约翰摩尔大学
+University of Messina: 墨西拿大学
+East China University of Science & Technology: 华东理工大学
+Government College University Faisalabad: 费萨拉巴德政府学院大学
+Singapore Management University: 新加坡管理大学
+Southwest Jiaotong University: 西南交通大学
+UiT The Arctic University of Tromso: 挪威特罗姆瑟大学
+University of Kent: 肯特大学
+University of Portsmouth: 朴次茅斯大学
+HSE University (National Research University Higher School of Economics): 俄罗斯国立高等经济大学
+Leibniz University Hannover: 莱布尼茨汉诺威大学
+Guangdong University of Technology: 广东工业大学
+Universita della Svizzera Italiana: 意大利语区瑞士大学
+University of Siena: 锡耶纳大学
+Waseda University: 早稻田大学
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute): 莫斯科国立核能研究大学（莫斯科工程物理学院）
+National University of Sciences & Technology - Pakistan: 巴基斯坦国立科学技术大学
+Semmelweis University: 塞梅尔维斯大学
+Universidade Estadual Paulista: 圣保罗州立大学
+Universite Clermont Auvergne (UCA): 克莱蒙-奥弗涅大学
+University of Texas at San Antonio (UTSA): 德州大学圣安东尼奥分校
+Beijing Jiaotong University: 北京交通大学
+Medical College of Wisconsin: 威斯康星医学院
+Philipps University Marburg: 马尔堡大学
+Tanta University: 坦塔大学
+University of Parma: 帕尔马大学
+State University of New York (SUNY) Albany: 纽约州立大学奥尔巴尼分校
+Texas Tech University: 德克萨斯理工大学
+Universita di Modena e Reggio Emilia: 摩德纳和雷焦艾米利亚大学
+Universite Paris-Est-Creteil-Val-de-Marne (UPEC): 巴黎东部克雷泰伊大学
+University of Jyvaskyla: 于韦斯屈莱大学
+University of Bremen: 不来梅大学
+University of Essex: 埃塞克斯大学
+University of Konstanz: 康斯坦茨大学
+West Virginia University: 西弗吉尼亚大学
+Brandeis University: 布兰迪斯大学
+Universidade do Minho: 米尼奥大学
+Indian Institute of Science (IISC) - Bangalore: 印度科学研究所
+Masaryk University Brno: 布尔诺马萨里克大学
+Nanchang University: 南昌大学
+Nottingham Trent University: 诺丁汉特伦特大学
+Kansas State University: 堪萨斯州立大学
+Carleton University: 卡尔顿大学
+Institut Agro: 法国国立农业研究所
+University of Agriculture Faisalabad: 费萨拉巴德农业大学
+Auburn University: 奥本大学
+Universidade Federal de Sao Paulo (UNIFESP): 圣保罗联邦大学
+South China Normal University: 华南师范大学
+Imam Abdulrahman Bin Faisal University: 伊玛目阿卜杜拉赫曼·本·费萨尔大学
+National Cheng Kung University: 国立成功大学
+National Yang Ming Chiao Tung University: 国立阳明交通大学
+University of Natural Resources & Life Sciences, Vienna: 维也纳自然资源与生命科学大学
+University of Tennessee Health Science Center: 田纳西大学健康科学中心
+Minia University: 米尼亚大学
+Roma Tre University: 罗马第三大学
+Saint Louis University: 圣路易斯大学
+Rutgers University Newark: 罗格斯大学纽瓦克分校
+Tilburg University: 蒂尔堡大学
+Universidad Politecnica de Madrid: 马德里理工大学
+University of Cagliari: 卡利亚里大学
+Copenhagen Business School: 哥本哈根商学院
+Indian Institute of Technology (IIT) - Bombay: 印度理工学院孟买分校
+Indian Institute of Technology (IIT) - Madras: 印度理工学院马德拉斯分校
+Liverpool School of Tropical Medicine: 利物浦热带医学院
+Southern Medical University - China: 南方医科大学
+Universitat Politecnica de Valencia: 巴伦西亚理工大学
+University of Alabama Tuscaloosa: 阿拉巴马大学塔斯卡卢萨分校
+Sultan Qaboos University: 苏丹卡布斯大学
+University of Luebeck: 吕贝克大学
+University of Oklahoma Health Sciences Center: 俄克拉荷马大学健康科学中心
+Alfaisal University: 阿尔法萨尔大学
+Hiroshima University: 广岛大学
+Massey University: 梅西大学
+Tata Institute of Fundamental Research (TIFR): 塔塔基础研究所
+Amirkabir University of Technology: 阿米尔卡比尔理工大学
+Hacettepe University: 哈杰特佩大学
+Kobe University: 神户大学
+Umm Al Qura University: 乌姆阿尔库拉大学
+University of Bielefeld: 比勒费尔德大学
+Wenzhou University: 温州大学
+Chiang Mai University: 清迈大学
+Sabanci University: 萨班哲大学
+Tecnologico de Monterrey: 蒙特雷理工大学
+University of Plymouth: 普利茅斯大学
+Aston University: 阿斯顿大学
+King Faisal University: 法赫德国王大学
+Suez Canal University: 苏伊士运河大学
+University of Fribourg: 弗里堡大学
+Addis Ababa University: 亚的斯亚贝巴大学
+Lappeenranta-Lahti University of Technology LUT: 拉彭兰塔-拉赫蒂理工大学
+Aligarh Muslim University: 阿里格尔穆斯林大学
+Concordia University - Canada: 康考迪亚大学（加拿大）
+Ecole Normale Superieure de Lyon (ENS de LYON): 里昂高等师范学院
+Tarbiat Modares University: 塔比亚特莫达雷斯大学
+University of Lahore: 拉合尔大学
+University of North Carolina Charlotte: 北卡罗来纳大学夏洛特分校
+Palacky University Olomouc: 奥洛穆茨帕拉茨基大学
+Technical University of Darmstadt: 达姆施塔特工业大学
+University of Louisville: 路易斯维尔大学
+Zayed University: 扎耶德大学
+Bournemouth University: 伯恩茅斯大学
+Manchester Metropolitan University: 曼彻斯特城市大学
+University of Massachusetts Boston: 马萨诸塞大学波士顿分校
+Huzhou University: 湖州师范学院
+Jordan University of Science & Technology: 约旦科技大学
+Menofia University: 米努菲亚大学
+University of Cyprus: 塞浦路斯大学
+University of Haifa: 海法大学
+University of Texas Medical Branch Galveston: 德克萨斯大学医学分部加尔维斯顿
+University of Wuppertal: 伍珀塔尔大学
+Colorado School of Mines: 科罗拉多矿业学院
+Universitat Rovira i Virgili: 罗维拉·维尔吉利大学
+University of Missouri Kansas City: 密苏里大学堪萨斯城分校
+Vellore Institute of Technology (VIT): 韦洛尔理工学院
+Indian Institute of Technology (IIT) - Delhi: 印度理工学院德里分校
+Istanbul Technical University: 伊斯坦布尔技术大学
+Lulea University of Technology: 露雷亚理工大学
+Near East University: 近东大学
+University of Crete: 克里特大学
+Eastern Mediterranean University: 东地中海大学
+Oklahoma State University - Stillwater: 俄克拉荷马州立大学斯蒂尔沃特分校
+University of Canberra: 堪培拉大学
+University of Jordan: 约旦大学
+Kyungpook National University: 庆北国立大学
+North China Electric Power University: 华北电力大学
+University of California Merced: 加利福尼亚大学默塞德分校
+University of Graz: 格拉茨大学
+University of North Texas Denton: 德克萨斯大学北部丹顿分校
+Aga Khan University: 阿迦汗大学
+Clemson University: 克莱姆森大学
+Marche Polytechnic University: 马尔凯理工大学
+Shandong Normal University: 山东师范大学
+Universidad Nacional de Colombia: 哥伦比亚国立大学
+Dortmund University of Technology: 多特蒙德工业大学
+Education University of Hong Kong (EdUHK): 香港教育大学
+Hangzhou Normal University: 杭州师范大学
+San Diego State University: 圣地亚哥州立大学
+Universidad de los Andes (Colombia): 哥伦比亚安第斯大学
+Universidad de Cantabria: 坎塔布里亚大学
+University Djillali Liabes Sidi Bel Abbes: 西迪贝勒阿贝斯吉拉利·利亚比斯大学
+University of Udine: 乌迪内大学
+University of Waikato: 怀卡托大学
+University of Wisconsin Milwaukee: 威斯康星大学密尔沃基分校
+Banaras Hindu University (BHU): 贝拿勒斯印度教大学
+Comenius University Bratislava: 布拉迪斯拉发科门纽斯大学
+Jamia Millia Islamia: 贾米亚米利亚伊斯兰大学
+Pusan National University: 釜山国立大学
+Universidade Federal de Santa Catarina (UFSC): 圣卡塔琳娜联邦大学
+University of International Business & Economics: 对外经济贸易大学
+University of New Hampshire: 新罕布什尔大学
+University of Texas Arlington: 德克萨斯大学阿灵顿分校
+Peoples Friendship University of Russia: 俄罗斯人民友谊大学
+Politecnico di Bari: 巴里理工大学
+Tabriz University of Medical Science: 大不里士医科大学
+University of the Western Cape: 西开普大学
+Beijing Forestry University: 北京林业大学
+Fayoum University: 法尤姆大学
+Memorial University Newfoundland: 纽芬兰纪念大学
+Nguyen Tat Thanh University (NTTU): 阮晋勇大学
+Northwest University Xi'an: 西北大学（西安）
+University of Stirling: 斯特灵大学
+Victoria University: 维多利亚大学
+Nanjing Medical University: 南京医科大学
+Nanjing University of Posts & Telecommunications: 南京邮电大学
+Novosibirsk State University: 新西伯利亚国立大学
+Panjab University: 旁遮普大学
+University of Cape Coast: 海岸角大学
+University of Stuttgart: 斯图加特大学
+Iran University of Medical Sciences: 伊朗医科大学
+Saint Petersburg State University: 圣彼得堡国立大学
+Universitetet i Stavanger: 挪威斯塔万格大学
+University of Ulsan: 蔚山大学
+Yeungnam University: 泳南大学
+Chang'an University: 长安大学
+Fujian Agriculture & Forestry University: 福建农林大学
+Indian Institute of Technology (IIT) - Kharagpur: 印度理工学院卡拉格布尔分校
+Kwame Nkrumah University Science & Technology: 克瓦美·恩克鲁玛科技大学
+Taibah University: 泰巴大学
+University of Rhode Island: 罗德岛大学
+Utah State University: 犹他州立大学
+Asia University Taiwan: 亚洲大学（台湾）
+Babes Bolyai University from Cluj: 克卢日巴贝什-博雅依大学
+Okinawa Institute of Science & Technology Graduate University: 冲绳科学技术研究生大学
+European University Institute: 欧洲大学研究所
+Shahid Beheshti University Medical Sciences: 沙希德·贝赫什提大学医学院
+University of Shanghai for Science & Technology: 上海理工大学
+AgroParisTech: 巴黎高科农业学院
+Cranfield University: 克兰菲尔德大学
+Hasselt University: 哈瑟尔特大学
+Ihsan Dogramaci Bilkent University: 比尔肯特大学
+Lebanese American University: 黎巴嫩美国大学
+Mashhad University Medical Science: 马什哈德医科大学
+University Hohenheim: 霍恩海姆大学
+University of Quebec Montreal: 魁北克大学蒙特利尔分校
+Ankara University: 安卡拉大学
+Babol Noshirvani University of Technology: 巴博勒诺什尔瓦尼理工大学
+Chengdu University: 成都大学
+City College of New York (CUNY): 纽约城市学院（CUNY）
+Istanbul University: 伊斯坦布尔大学
+Qingdao University of Science & Technology: 青岛科技大学
+Shoolini University: 舒里尼大学
+Universitat de les Illes Balears: 巴利阿里群岛大学
+University of Salamanca: 萨拉曼卡大学
+Ural Federal University: 乌拉尔联邦大学
+Bar Ilan University: 巴伊兰大学
+Brigham Young University: 杨百翰大学
+Harbin Engineering University: 哈尔滨工程大学
+University of Mannheim: 曼海姆大学
+University of Nevada Reno: 内华达大学雷诺分校
+American University: 美利坚大学
+Shanghai University of Finance & Economics: 上海财经大学
+Universiti Teknologi Petronas: 马来西亚石油科技大学
+University of Arkansas Fayetteville: 阿肯色大学费耶特维尔分校
+University of Management & Technology (UMT): 管理与技术大学
+Czech University of Life Sciences Prague: 捷克生命科学大学布拉格
+Hefei University of Technology: 合肥工业大学
+Iran University Science & Technology: 伊朗科技大学
+ITMO University: 信息技术与光学机械大学
+Rochester Institute of Technology: 罗彻斯特理工学院
+Tomsk State University: 托木斯克国立大学
+University of Hull: 赫尔大学
+Illinois Institute of Technology: 伊利诺伊理工学院
+Istanbul Bilgi University: 伊斯坦布尔比尔吉大学
+Ohio University: 俄亥俄大学
+Szeged University: 塞格德大学
+University of Zaragoza: 萨拉戈萨大学
+Universite de Franche-Comte: 弗朗什-孔泰大学
+Universidad de la Laguna: 拉古纳大学
+University of Nevada Las Vegas: 内华达大学拉斯维加斯分校
+Makerere University: 马凯雷大学
+Manipal Academy of Higher Education (MAHE): 曼尼帕尔高等教育学院
+Shaanxi Normal University: 陕西师范大学
+Universidad de Concepcion: 康塞普西翁大学
+University of Bayreuth: 拜罗伊特大学
+Peter the Great St. Petersburg Polytechnic University: 圣彼得堡国立彼得大帝理工大学
+Universidade de Brasilia: 巴西利亚大学
+Universidad Peruana Cayetano Heredia: 秘鲁凯塔诺·埃雷迪亚大学
+University of Nairobi: 内罗毕大学
+Xi'an Jiaotong-Liverpool University: 西交利物浦大学
+Anglia Ruskin University: 安格利亚鲁斯金大学
+Edinburgh Napier University: 爱丁堡龙比亚大学
+Macau University of Science & Technology: 澳门科技大学
+Northumbria University: 诺森比亚大学
+Charles Darwin University: 查尔斯达尔文大学
+Isfahan University of Technology: 伊斯法罕理工大学
+Northeast Normal University - China: 东北师范大学
+Universidade de Vigo: 维戈大学
+Graduate University for Advanced Studies - Japan: 日本综合研究大学院大学
+Mazandaran University Medical Sciences: 马赞达兰医科大学
+Rensselaer Polytechnic Institute: 伦斯勒理工学院
+Scuola Superiore Sant'Anna: 圣安娜高等学校
+Shiraz University of Medical Science: 设拉子医科大学
+Skolkovo Institute of Science & Technology: 斯科尔科沃科学技术研究院
+University of Salento: 萨兰托大学
+University of Wyoming: 怀俄明大学
+Yunnan University: 云南大学
+Zhongnan University of Economics & Law: 中南财经政法大学
+Heriot Watt University: 赫瑞瓦特大学
+Mississippi State University: 密西西比州立大学
+Missouri University of Science & Technology: 密苏里科技大学
+Princess Nourah bint Abdulrahman University: 努拉公主大学
+Universite de Bretagne Occidentale: 西布列塔尼大学
+Universiti Brunei Darussalam: 文莱达鲁萨兰大学
+University of Murcia: 穆尔西亚大学
+AGH University of Krakow: 克拉科夫矿冶大学
+Dalian Maritime University: 大连海事大学
+Henan University: 河南大学
+University of Ghana: 加纳大学
+University of Ioannina: 伊庇鲁斯大学
+Jimma University: 吉马大学
+Northeast Agricultural University - China: 东北农业大学
+University of Calabria: 卡拉布里亚大学
+University of Delhi: 德里大学
+University of Peshawar: 白沙瓦大学
+University of Rostock: 罗斯托克大学
+Vietnam National University Hanoi: 越南国家大学河内分校
+Imam Mohammad Ibn Saud Islamic University (IMSIU): 伊玛目穆罕默德·本·沙特伊斯兰大学
+Mohammed V University in Rabat: 穆罕默德五世大学
+National Yunlin University Science & Technology: 国立云林科技大学
+Ulster University: 阿尔斯特大学
+Universidad de Antioquia: 安蒂奥基亚大学
+Hassan II University of Casablanca: 卡萨布兰卡哈桑二世大学
+Indian Institute of Technology (IIT) - Roorkee: 印度理工学院鲁尔基分校
+National Taiwan University of Science & Technology: 国立台湾科技大学
+Southwest University of Science & Technology - China: 西南科技大学
+Sunway University: 双威大学
+Dublin City University: 都柏林城市大学
+Royal Holloway, University of London: 伦敦大学皇家霍洛威学院
+University of Punjab: 旁遮普大学
+University of South Africa: 南非大学
+Fujian Normal University: 福建师范大学
+Orebro University: 厄勒布鲁大学
+Southern Methodist University: 南卫理公会大学
+Universidad de Alcala: 阿尔卡拉大学
+University of Split: 斯普利特大学
+Vietnam National University Hochiminh City: 越南国家大学胡志明市分校
+Capital Medical University: 首都医科大学
+All India Institute of Medical Sciences (AIIMS) New Delhi: 印度全印医学研究所新德里
+Beni Suef University: 贝尼苏韦夫大学
+California State University Los Angeles: 加利福尼亚州立大学洛杉矶分校
+Michigan Technological University: 密歇根理工大学
+Montana State University: 蒙大拿州立大学
+New Jersey Institute of Technology: 新泽西理工学院
+Universitat de Girona: 赫罗纳大学
+University of Alaska Fairbanks: 阿拉斯加大学费尔班克斯分校
+Athens Medical School: 雅典医学院
+INSEAD Business School: 欧洲工商管理学院
+Norwegian University of Life Sciences: 挪威生命科学大学
+Qingdao University of Technology: 青岛理工大学
+Transilvania University of Brasov: 布拉索夫特兰西瓦尼亚大学
+Universiti Malaysia Terengganu: 马来西亚登嘉楼大学
+University of West Scotland: 西苏格兰大学
+Yangzhou University: 扬州大学
+Czech Technical University Prague: 捷克技术大学布拉格
+Hainan University: 海南大学
+Indian Institute of Technology (IIT) - Kanpur: 印度理工学院坎普尔分校
+Open University - UK: 英国开放大学
+University of Maryland Baltimore County: 马里兰大学巴尔的摩县分校
+University of Thessaly: 塞萨利大学
+Chiba University: 千叶大学
+China Pharmaceutical University: 中国药科大学
+Kent State University: 肯特州立大学
+London Business School: 伦敦商学院
+University of Patras: 帕特雷大学
+Villanova University: 维拉诺瓦大学
+Bangor University: 班戈大学
+Dongguk University: 东国大学
+Ewha Womans University: 梨花女子大学
+Keele University: 基尔大学
+Otto von Guericke University: 奥托冯格里克大学
+State University of New York (SUNY) Upstate Medical Center: 纽约州立大学上州医科中心
+University of Agder: 阿格德尔大学
+University of Debrecen: 德布勒森大学
+University of New England: 新英格兰大学
+American University Cairo: 开罗美国大学
+Carol Davila University of Medicine & Pharmacy: 卡罗尔·达维拉医药大学
+Parthenope University Naples: 那不勒斯帕特诺佩大学
+University of the Free State: 自由州大学
+Babol University of Medical Sciences: 巴博勒医科大学
+Qufu Normal University: 曲阜师范大学
+University of Montana: 蒙大拿大学
+University of Seoul: 首尔市立大学
+Charles Sturt University: 查尔斯特大学
+Tokyo Medical & Dental University (TMDU): 东京医科齿科大学
+Tomsk Polytechnic University: 托木斯克理工大学
+Wuhan Institute of Technology: 武汉工程大学
+Jeonbuk National University: 全北国立大学
+Vilnius University: 维尔纽斯大学
+Birkbeck University London: 伦敦大学伯贝克学院
+Islamia University of Bahawalpur: 巴哈瓦尔布尔伊斯兰大学
+Shiraz University: 设拉子大学
+Sichuan Agricultural University: 四川农业大学
+Universite de Bourgogne: 勃艮第大学
+University of New Brunswick: 新不伦瑞克大学
+University of Oviedo: 奥维耶多大学
+Guangzhou Medical University: 广州医科大学
+Shanghai Maritime University: 上海海事大学
+Universidade Federal do Parana: 巴拉那联邦大学
+Universite de Poitiers: 普瓦捷大学
+Universidad de Malaga: 马拉加大学
+Adam Mickiewicz University: 亚当·密茨凯维奇大学
+City University London: 伦敦城市大学
+Free University of Bozen-Bolzano: 博尔扎诺自由大学
+Guangxi University: 广西大学
+Universitat Ramon Llull: 拉蒙·尤利大学
+University of Mons: 蒙斯大学
+University of Regina: 里贾纳大学
+Braunschweig University of Technology: 布伦瑞克工业大学
+Okayama University: 冈山大学
+University of Indonesia: 印度尼西亚大学
+University of Limerick: 利默里克大学
+Chonnam National University: 全南国立大学
+Kuwait University: 科威特大学
+Taipei Medical University: 台北医学大学
+Vienna University of Economics & Business: 维也纳经济与商业大学
+Warsaw University of Technology: 华沙理工大学
+UCSI University: UCSI大学
+Universidad de la Republica, Uruguay: 乌拉圭共和国大学
+Augusta University: 奥古斯塔大学
+Bahcesehir University: 巴赫谢希尔大学
+Loma Linda University: 洛马琳达大学
+Loyola University Chicago: 洛约拉大学芝加哥分校
+Rhodes University: 罗德斯大学
+Universidad Carlos III de Madrid: 马德里卡洛斯三世大学
+Universidade Federal do Rio Grande do Norte: 北里奥格兰德联邦大学
+Wroclaw Medical University: 弗罗茨瓦夫医科大学
+Xi'an University of Architecture & Technology: 西安建筑科技大学
+Anhui University: 安徽大学
+Brno University of Technology: 布尔诺理工大学
+Firat University: 菲拉特大学
+Hunan Agricultural University: 湖南农业大学
+Lehigh University: 里海大学
+Tribhuvan University: 特里布胡凡大学
+Universidade Federal de Sao Carlos: 圣卡洛斯联邦大学
+Universite de Sfax: 斯法克斯大学
+National Taiwan Normal University: 国立台湾师范大学
+New York Medical College: 纽约医学院
+Thapar Institute of Engineering & Technology: 塔帕尔工程技术学院
+Christian Medical College & Hospital (CMCH) Vellore: 韦洛尔基督教医学院
+New Mexico State University: 新墨西哥州立大学
+Old Dominion University: 老道明大学
+Yokohama City University: 横滨市立大学
+Bohai University: 渤海大学
+Universite Paul-Valery: 保尔-瓦莱里大学
+University of Brighton: 布莱顿大学
+University of Bucharest: 布加勒斯特大学
+University of Greenwich: 格林尼治大学
+University of Texas Rio Grande Valley: 德克萨斯大学里奥格兰德河谷分校
+University of the West of England: 西英格兰大学
+Wuhan University of Science & Technology: 武汉科技大学
+Bahauddin Zakariya University: 巴哈乌丁·扎卡里亚大学
+Central Queensland University: 中央昆士兰大学
+Johannes Kepler University Linz: 林茨约翰内斯·开普勒大学
+National University of La Plata: 拉普拉塔国立大学
+Shanxi University: 山西大学
+University of Kragujevac: 克拉古耶瓦茨大学
+Yerevan Physics Institute: 埃里温物理研究所
+Abdul Wali Khan University: 阿卜杜勒·瓦利·汗大学
+King Mongkut's University of Technology Thonburi: 国王科技大学
+Universidade Federal do ABC (UFABC): ABC联邦大学
+Guangdong University of Foreign Studies: 广东外语外贸大学
+National Central University: 国立中央大学
+Tallinn University of Technology: 塔林理工大学
+Universite d'Angers: 昂热大学
+University of Opole: 奥波莱大学
+Magna Graecia University of Catanzaro: 卡坦扎罗马格纳希腊大学
+Oxford Brookes University: 牛津布鲁克斯大学
+University of Lincoln: 林肯大学
+University of Sulimanyah: 苏莱曼尼亚大学
+Ecole des Ponts ParisTech: 巴黎综合理工大学
+Embry-Riddle Aeronautical University: 安柏瑞德航空大学
+Federation University Australia: 联邦大学澳大利亚
+Ferdowsi University Mashhad: 马什哈德费尔多西大学
+Howard University: 霍华德大学
+Kazan Federal University: 喀山联邦大学
+Universidad Costa Rica: 哥斯达黎加大学
+Universidad de Cordoba: 科尔多瓦大学
+Universidad Pablo de Olavide: 巴勃罗·德·奥拉维德大学
+Air University Islamabad: 伊斯兰堡空军大学
+Al Jouf University: 朱夫大学
+Carl von Ossietzky Universitat Oldenburg: 卡尔·冯·奥西茨基大学奥尔登堡
+Khon Kaen University: 孔敬大学
+National University of Science & Technology (MISIS): 俄罗斯国立科技大学
+Salzburg University: 萨尔茨堡大学
+Saveetha Institute of Medical & Technical Science: 萨维塔医学与技术科学研究所
+California Polytechnic State University San Luis Obispo: 加州理工州立大学圣路易斯奥比斯波
+G d'Annunzio University of Chieti-Pescara: 基耶蒂-佩斯卡拉·加布里埃尔·旦南遮大学
+Royal College of Surgeons - Ireland: 爱尔兰皇家外科学院
+TOBB University of Economics and Technology: 土耳其经济技术大学
+Universidad de Castilla-La Mancha: 卡斯蒂利亚-拉曼查大学
+Universidade Federal de Pernambuco: 伯南布哥联邦大学
+Universitat d'Alacant: 阿利坎特大学
+University Campus Bio-Medico - Rome Italy: 罗马生物医学大学校园
+University of South Bohemia Ceske Budejovice: 捷克布杰约维采南波西米亚大学
+Bond University: 邦德大学
+Harbin Medical University: 哈尔滨医科大学
+Universite de Tunis-El-Manar: 突尼斯-埃尔马纳尔大学
+University of the Sunshine Coast: 阳光海岸大学
+Belarusian State University: 白俄罗斯国立大学
+British University in Egypt: 埃及英国大学
+Graz University of Technology: 格拉茨理工大学
+Istanbul Aydin University: 伊斯坦布尔艾登大学
+Universite de Caen Normandie: 卡昂大学
+An Najah National University: 纳贾赫国立大学
+Foshan University: 佛山大学
+Ilia State University: 伊利亚州立大学
+IMT Atlantique: 大西洋理工学院
+International Islamic University, Pakistan: 巴基斯坦国际伊斯兰大学
+Shahid Beheshti University: 沙希德·贝赫什提大学
+Sohag University: 索哈杰大学
+University of Camerino: 卡梅里诺大学
+University of Denver: 丹佛大学
+Western Norway University of Applied Sciences: 挪威西部应用科学大学
+Chung Ang University: 中央大学
+IHE Delft Institute for Water Education: 荷兰代尔夫特水教育研究所
+South Valley University Egypt: 埃及南谷大学
+Universidade do Estado do Rio de Janeiro: 里约热内卢州立大学
+University of Wroclaw: 弗罗茨瓦夫大学
+William & Mary: 威廉与玛丽学院
+Amity University Noida: 诺伊达阿米提大学
+Gwangju Institute of Science & Technology (GIST): 光州科学技术研究院
+State University of New York (SUNY) Binghamton: 纽约州立大学宾厄姆顿分校
+Toronto Metropolitan University: 多伦多都会大学
+Universite de Rouen Normandie: 鲁昂诺曼底大学
+Arizona State University-Downtown Phoenix: 亚利桑那州立大学凤凰城市中心校区
+Catholic University of America: 美国天主教大学
+Coventry University: 考文垂大学
+Universidad San Francisco de Quito: 基多圣弗朗西斯科大学
+University of Gondar: 冈德尔大学
+University of Insubria: 因苏布里亚大学
+Jinan University: 济南大学
+Aberystwyth University: 阿伯里斯特威斯大学
+California State University Fullerton: 加利福尼亚州立大学富勒顿分校
+Florida Atlantic University: 佛罗里达大西洋大学
+National Sun Yat Sen University: 国立中山大学
+Universita Ca Foscari Venezia: 威尼斯卡福斯卡里大学
+Zhejiang Gongshang University: 浙江工商大学
+Birla Institute of Technology & Science Pilani (BITS Pilani): 皮拉尼比尔拉理工学院
+K. N. Toosi University of Technology: 托西技术大学
+University of Texas El Paso: 德克萨斯大学埃尔帕索分校
+Indian Institute of Technology (IIT) - Hyderabad: 印度理工学院海得拉巴分校
+Leuphana University Luneburg: 吕讷堡大学
+University of Rajshahi: 拉杰沙希大学
+Ajman University: 阿治曼大学
+Gdansk University of Technology: 格但斯克理工大学
+Jawaharlal Nehru University, New Delhi: 新德里贾瓦哈拉尔·尼赫鲁大学
+Medical University Sofia: 索菲亚医科大学
+Obafemi Awolowo University: 奥巴费米·阿沃洛沃大学
+Polytechnic University of Bucharest: 布加勒斯特理工大学
+Shanghai Normal University: 上海师范大学
+Universidad de Extremadura: 埃斯特雷马杜拉大学
+Universite Gustave-Eiffel: 古斯塔夫艾菲尔大学
+University of London Royal Veterinary College: 伦敦大学皇家兽医学院
+Jiangsu University of Science & Technology: 江苏科技大学
+Kermanshah University of Medical Sciences: 克尔曼沙阿医科大学
+National University of Cordoba: 科尔多瓦国立大学
+Sanjay Gandhi Postgraduate Institute of Medical Sciences: 桑贾伊·甘地医科研究所
+Shandong Agricultural University: 山东农业大学
+Stevens Institute of Technology: 史蒂文斯理工学院
+Universidade Federal da Bahia: 巴伊亚联邦大学
+Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA): 马来西亚彭亨大学阿卜杜拉苏丹校区
+University Ha'il: 哈伊勒大学
+University of Eastern Piedmont Amedeo Avogadro: 东皮埃蒙特阿梅迪奥·阿沃加德罗大学
+University of Salford: 索尔福德大学
+University of Yaounde I: 雅温得第一大学
+Chandigarh University: 昌迪加尔大学
+Universite de Picardie Jules Verne (UPJV): 皮卡第儒勒·凡尔纳大学
+University of Hertfordshire: 赫特福德大学
+University of Huddersfield: 哈德斯菲尔德大学
+University of Tabuk: 塔布克大学
+Abo Akademi University: 阿博学术大学
+Airlangga University: 艾尔朗加大学
+Cyprus University of Technology: 塞浦路斯科技大学
+Helwan University: 海尔万大学
+Kumamoto University: 熊本大学
+Universidad Autonoma de Chile: 智利自治大学
+University of St. Gallen: 圣加仑大学
+University of Toledo: 托莱多大学
+Army Medical University: 陆军军医大学
+De Montfort University: 德蒙福特大学
+Isfahan University Medical Science: 伊斯法罕医科大学
+Maynooth University: 梅努斯大学
+Nicolaus Copernicus University: 尼古拉·哥白尼大学
+Sofia University "St. Kliment Ohridski": 索非亚大学"克里门特·奥赫里德斯基"
+Universidad Tecnica Federico Santa Maria: 费德里科·圣玛丽亚理工大学
+Beijing Technology & Business University: 北京工商大学
+Cadi Ayyad University of Marrakech: 马拉喀什卡迪·阿雅德大学
+Chongqing University of Posts & Telecommunications: 重庆邮电大学
+Institut National des Sciences Appliquees de Lyon - INSA Lyon: 里昂国立应用科学学院
+Tokyo Metropolitan University: 东京都立大学
+Universidad Rey Juan Carlos: 胡安卡洛斯国王大学
+University of Peradeniya: 佩拉德尼亚大学
+Jazan University: 贾赞大学
+King Saud Bin Abdulaziz University for Health Sciences: 沙特阿卜杜拉齐兹国王健康科学大学
+University of Malta: 马耳他大学
+University of Maribor: 马里博尔大学
+Institut National Polytechnique de Toulouse: 图卢兹国立理工学院
+Jamia Hamdard University: 哈姆达德大学
+Oslo Metropolitan University (OsloMet): 奥斯陆城市大学
+Southern Cross University: 南十字星大学
+Tokai University: 东海大学
+Juntendo University: 顺天堂大学
+Lincoln University - New Zealand: 新西兰林肯大学
+SRM Institute of Science & Technology Chennai: 金奈SRM理工学院
+Xiangtan University: 湘潭大学
+Air Force Military Medical University: 空军军医大学
+Henan Polytechnic University: 河南理工大学
+Marmara University: 马尔马拉大学
+Pontificia Universidade Catolica do Rio Grande do Sul: 天主教大学里奥格兰德南
+Universidade Federal de Santa Maria (UFSM): 圣玛丽亚联邦大学
+Universitat Jaume I: 哈梅一世大学
+Universiti Teknologi MARA: 马来西亚玛拉工艺大学
+University Diego Portales: 迭戈波塔莱斯大学
+University of Maine Orono: 缅因大学奥罗诺分校
+Konkuk University: 建国大学
+Port Said University: 塞得港大学
+University of Nigeria: 尼日利亚大学
+Aswan University: 阿斯旺大学
+Chang Gung University: 长庚大学
+China Medical University: 中国医科大学
+Kunming University of Science & Technology: 昆明理工大学
+Northeast Forestry University - China: 东北林业大学
+Portland State University: 波特兰州立大学
+Tianjin University of Technology: 天津理工大学
+Universidade Federal Fluminense: 弗卢米嫩塞联邦大学
+Universitat Kassel: 卡塞尔大学
+University of Windsor: 温莎大学
+Wenzhou Medical University: 温州医科大学
+Ataturk University: 阿塔图尔克大学
+Bahir Dar University: 巴赫达尔大学
+Fordham University: 福特汉姆大学
+Guizhou University: 贵州大学
+Jonkoping University: 延雪平大学
+Marquette University: 马凯特大学
+Nanjing University of Finance & Economics: 南京财经大学
+Universidade Federal de Pelotas: 佩洛塔斯联邦大学
+Universidade Federal do Ceara: 塞阿拉联邦大学
+Universite de Orleans: 奥尔良大学
+Universite de Tours: 图尔大学
+University of Latvia: 拉脱维亚大学
+University of Zambia: 赞比亚大学
+Instituto Politecnico do Porto: 波尔图理工学院
+Niigata University: 新泻大学
+Ningbo University: 宁波大学
+University of Akron: 阿克伦大学
+Kanazawa University: 金泽大学
+Middlesex University: 密德萨斯大学
+National University of Defense Technology - China: 国防科技大学
+Northern Illinois University: 北伊利诺伊大学
+Tshwane University of Technology: 茨瓦内理工大学
+University Institute of Lisbon: 里斯本大学学院
+University of Novi Sad: 诺维萨德大学
+Zhejiang A&F University: 浙江农林大学
+Florida Institute of Technology: 佛罗里达理工学院
+Inha University: 仁荷大学
+Nagasaki University: 长崎大学
+Pontificia Universidad Catolica del Peru: 秘鲁天主教大学
+Pontificia Universidad Catolica de Valparaiso: 瓦尔帕莱索天主教大学
+University of Engineering & Technology Lahore: 拉合尔工程技术大学
+University of North Carolina Greensboro: 北卡罗来纳大学格林斯博罗分校
+Bucharest University of Economic Studies: 布加勒斯特经济研究大学
+King Mongkut's University of Technology North Bangkok: 国王科技大学北曼谷分校
+Medical University of Warsaw: 华沙医科大学
+Post Graduate Institute of Medical Education & Research (PGIMER), Chandigarh: 医学教育和研究生院（PGIMER），昌迪加尔
+Universite Paris 13: 巴黎第十三大学
+University of Neuchatel: 纳沙泰尔大学
+Xi'an University of Science & Technology: 西安科技大学
+Jiangsu Normal University: 江苏师范大学
+Osaka Metropolitan University: 大阪市立大学
+Ajou University: 亚洲大学
+Glasgow Caledonian University: 格拉斯哥喀里多尼亚大学
+Universite de Monastir: 莫纳斯提尔大学
+University of Massachusetts Lowell: 马萨诸塞大学洛厄尔分校
+West University of Timisoara: 蒂米什瓦拉西大学
+Jadavpur University: 贾达夫布尔大学
+Universitat Siegen: 齐根大学
+University of Kashan: 卡尚大学
+University of Foggia: 福贾大学
+University of Jeddah: 吉达大学
+Imam Khomeini International University: 伊玛目霍梅尼国际大学
+Mendel University in Brno: 布尔诺门德尔大学
+University of Arkansas Medical Sciences: 阿肯色大学医学院
+Chungnam National University: 忠南国立大学
+Nazarbayev University: 纳扎尔巴耶夫大学
+Universidad Andres Bello: 安德烈斯·贝洛大学
+University of Aegean: 爱琴海大学
+University of Idaho: 爱达荷大学
+Durban University of Technology: 德班理工大学
+National Taipei University of Technology: 台北科技大学
+Tiangong University: 天津工业大学
+University of A Coruna: 拉科鲁尼亚大学
+University of Sassari: 萨萨里大学
+California State University Sacramento: 加利福尼亚州立大学萨克拉门托分校
+Lahore University of Management Sciences: 拉合尔管理科学大学
+Medical University Gdansk: 格但斯克医科大学
+Paracelsus Private Medical University: 帕拉塞尔苏斯私立医科大学
+Saarland University: 萨尔大学
+Shantou University: 汕头大学
+Universidade Catolica Portuguesa: 葡萄牙天主教大学
+Universitat de Lleida: 莱里达大学
+University of Bradford: 布拉德福德大学
+University of Engineering & Technology Taxila: 塔克西拉工程技术大学
+University of Memphis: 孟菲斯大学
+Ege University: 爱琴大学
+Indian Institute of Science Education & Research (IISER) Pune: 印度科学教育与研究所浦那
+Indian Institute of Technology (IIT) - Guwahati: 印度理工学院瓜哈提分校
+Pontificia Universidad Javeriana: 哈韦里亚纳天主教大学
+Tuscia University: 土西娅大学
+University of Basilicata: 巴西利卡塔大学
+University of Colombo: 科伦坡大学
+University of the West Indies Mona Jamaica: 牙买加西印度群岛大学莫纳校区
+Shinshu University: 信州大学
+Estonian University of Life Sciences: 爱沙尼亚生命科学大学
+Tianjin Medical University: 天津医科大学
+Uniformed Services University of the Health Sciences - USA: 美国制服服务大学健康科学学院
+Universite de Carthage: 迦太基大学
+Istanbul University - Cerrahpasa: 伊斯坦布尔大学-哲拉哈帕沙
+Kerman University of Medical Sciences: 克尔曼医科大学
+Medical University Lodz: 罗兹医科大学
+University of Cassino: 卡西诺大学
+University of L'Aquila: 拉奎拉大学
+Xi'an University of Technology: 西安理工大学
+Yildiz Technical University: 耶尔德兹技术大学
+Ball State University: 鲍尔州立大学
+International Medical University Malaysia: 马来西亚国际医药大学
+Prince of Songkla University: 宋卡王子大学
+University of Alabama Huntsville: 阿拉巴马大学亨茨维尔分校
+Urmia University: 乌尔米亚大学
+Ecole de Technologie Superieure - Canada: 高等技术学校-加拿大
+Ontario Tech University: 安大略理工大学
+Universitat Greifswald: 格赖夫斯瓦尔德大学
+University of Zielona Gora: 绿山大学
+Nelson Mandela University: 纳尔逊·曼德拉大学
+Shaanxi University of Science & Technology: 陕西科技大学
+University of Massachusetts Dartmouth: 马萨诸塞大学达特茅斯分校
+University of Veterinary Medicine Vienna: 维也纳兽医大学
+Benemerita Universidad Autonoma de Puebla: 普埃布拉自治大学
+Central University of Finance & Economics: 中央财经大学
+Gazi University: 加济大学
+International Islamic University Malaysia: 马来西亚国际伊斯兰大学
+Jiangxi University of Science & Technology: 江西理工大学
+Mohammed First University of Oujda: 乌季达第一大学
+Riga Technical University: 里加理工大学
+Universidad Austral de Chile: 智利南方大学
+Universidad de Jaen: 哈恩大学
+Universidad de Santiago de Chile: 圣地亚哥大学
+Universiti Tunku Abdul Rahman (UTAR): 拉曼大学
+Yarmouk University: 亚穆克大学
+Qilu University of Technology: 齐鲁工业大学
+Tokyo Medical University: 东京医科大学
+Zurich University of Applied Sciences: 苏黎世应用科学大学
+Al-Farabi Kazakh National University: 哈萨克国立法拉比大学
+Henan University of Science & Technology: 河南科技大学
+Sheffield Hallam University: 谢菲尔德哈勒姆大学
+Universidade Federal de Goias: 戈亚斯联邦大学
+Alexandru Ioan Cuza University: 亚历山德鲁·伊万·库扎大学
+Birmingham City University: 伯明翰城市大学
+Shiraz University of Technology: 设拉子理工大学
+Suzhou University of Science & Technology: 苏州科技大学
+Tokyo University of Science: 东京理科大学
+University of Pecs: 佩奇大学
+Catholic University of Korea: 韩国加图立大学
+Gyeongsang National University: 庆尚国立大学
+Indian Institute of Technology (IIT) - Indore: 印度理工学院印多尔分校
+Shanghai Ocean University: 上海海洋大学
+Southern Illinois University: 南伊利诺伊大学
+Universidad de Valladolid: 瓦拉多利德大学
+University of Baghdad: 巴格达大学
+Kaohsiung Medical University: 高雄医学大学
+London South Bank University: 伦敦南岸大学
+Universidad de Cadiz: 加的斯大学
+University of Mohaghegh Ardabili: 阿尔达比勒莫哈格赫大学
+Anhui Medical University: 安徽医科大学
+Qassim University: 卡西姆大学
+Wilfrid Laurier University: 威尔弗里德·劳里尔大学
+Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi): 印度理工学院瓦拉纳西分校
+Lakehead University: 湖首大学
+Pontificia Universidade Catolica do Rio de Janeiro: 里约热内卢天主教大学
+University of Hyderabad: 海得拉巴大学
+Warsaw University of Life Sciences: 华沙生命科学大学
+Worcester Polytechnic Institute: 伍斯特理工学院
+Eastern Virginia Medical School: 东弗吉尼亚医学院
+Instituto Politecnico Nacional - Mexico: 墨西哥国立理工学院
+Kindai University (Kinki University): 近畿大学
+Xinjiang University: 新疆大学
+Budapest University of Technology & Economics: 布达佩斯科技经济大学
+Dokuz Eylul University: 九月九日大学
+Kasetsart University: 卡塞萨特大学
+University of Augsburg: 奥格斯堡大学
+Erciyes University: 厄尔吉耶斯大学
+Universidad Publica de Navarra: 纳瓦拉公共大学
+University of Science & Technology (UST): 科技大学
+Capital Normal University: 首都师范大学
+Central Michigan University: 中密歇根大学
+Dongguan University of Technology: 东莞理工学院
+Gachon University: 加昌大学
+Universidade Federal de Vicosa: 维索萨联邦大学
+Universite de Limoges: 利摩日大学
+University of Zimbabwe: 津巴布韦大学
+Ecole nationale superieure de chimie de Montpellier: 蒙彼利埃国立高等化学学院
+Hamburg University of Technology: 汉堡工业大学
+Homi Bhabha National Institute: 霍米·巴巴国家研究所
+Hubei University of Technology: 湖北工业大学
+Lingnan University: 岭南大学
+Nanjing University of Chinese Medicine: 南京中医药大学
+Selcuk University: 塞尔柱大学
+Universidad de Las Palmas de Gran Canaria: 大加那利岛拉斯帕尔马斯大学
+University of Ilorin: 伊洛林大学
+Agricultural University of Athens: 雅典农业大学
+East Carolina University: 东卡罗来纳大学
+Nord University: 诺德大学
+North Dakota State University: 北达科他州立大学
+Anhui Agricultural University: 安徽农业大学
+Cukurova University: 乔库罗瓦大学
+Hangzhou Dianzi University: 杭州电子科技大学
+State University of New York (SUNY) College of Environmental Science & Forestry: 纽约州立大学环境科学与林业学院
+Universidade do Algarve: 阿尔加维大学
+Universidade Federal de Juiz de Fora: 茹伊斯迪福拉联邦大学
+Zhejiang Sci-Tech University: 浙江理工大学
+Greifswald Medical School: 格赖夫斯瓦尔德医学院
+Henan Normal University: 河南师范大学
+Hubei University: 湖北大学
+Lovely Professional University: 洛夫利专业大学
+University of Gdansk: 格但斯克大学
+Brandenburg University of Technology Cottbus: 科特布斯勃兰登堡理工大学
+Chitkara University, Punjab: 旁遮普奇特卡拉大学
+Majmaah University: 玛吉玛大学
+Nantong University: 南通大学
+National Chung Hsing University: 国立中兴大学
+National Taras Shevchenko University of Kyiv: 基辅塔拉斯·舍甫琴科国立大学
+Silesian University of Technology: 西里西亚理工大学
+Universidade Federal de Uberlandia: 乌贝兰迪亚联邦大学
+University of Tulsa: 塔尔萨大学
+Chengdu University of Technology: 成都理工大学
+Daegu Gyeongbuk Institute of Science & Technology (DGIST): 大邱庆北科学技术研究所
+University of Isfahan: 伊斯法罕大学
+University of Koblenz & Landau: 科布伦茨-兰道大学
+University of North Dakota Grand Forks: 北达科他大学大福克斯
+UOC Universitat Oberta de Catalunya: 加泰罗尼亚开放大学
+Indian Institute of Technology (IIT) - Gandhinagar: 印度理工学院甘地讷格尔分校
+Malaviya National Institute of Technology Jaipur: 马拉维亚国家技术学院斋浦尔
+National Institute of Technology Rourkela: 劳尔克拉国家理工学院
+Universite de la Manouba: 马努巴大学
+Universite de Sousse: 苏塞大学
+University of Calcutta: 加尔各答大学
+University of Urbino: 乌尔比诺大学
+Wroclaw University of Science & Technology: 弗罗茨瓦夫科技大学
+Heilongjiang University: 黑龙江大学
+Universidad del Desarrollo: 发展大学
+University of Hradec Kralove: 赫拉德茨克拉洛韦大学
+American University of Sharjah: 沙迦美国大学
+Gadjah Mada University: 玛达加大学
+Indian Institute of Technology (IIT) - Bhubaneswar: 印度理工学院布巴内斯瓦尔分校
+Institute of Tropical Medicine (ITM): 热带医学研究所
+Tianjin University of Science & Technology: 天津科技大学
+California State University Fresno: 加利福尼亚州立大学弗雷斯诺分校
+Izmir Yuksek Teknoloji Enstitusu: 伊兹密尔高等技术研究所
+Sichuan Normal University: 四川师范大学
+Tamkang University: 淡江大学
+University of Paderborn: 帕德博恩大学
+Bangladesh University of Engineering & Technology (BUET): 孟加拉国工程技术大学
+Chungbuk National University: 忠北国立大学
+Ehime University: 爱媛大学
+Goldsmiths University London: 伦敦大学金史密斯学院
+Hashemite University: 哈希姆大学
+Hebei University of Technology: 河北工业大学
+Ibn Tofail University of Kenitra: 肯尼特拉伊本图菲勒大学
+Kingston University: 金斯顿大学
+Saints Cyril & Methodius University of Skopje: 斯科普里圣西里尔和圣梅托迪大学
+Sakarya University: 萨卡里亚大学
+University of Bialystok: 比亚韦斯托克大学
+Yanshan University: 燕山大学
+Akdeniz University: 地中海大学
+Damietta University: 达米埃塔大学
+Hunan Normal University: 湖南师范大学
+Kangwon National University: 江原国立大学
+Naval Medical University: 海军军医大学
+Ozyegin University: 奥齐金大学
+Beijing University of Civil Engineering & Architecture: 北京建筑大学
+Chongqing Medical University: 重庆医科大学
+Jahangirnagar University: 贾汉吉尔纳加尔大学
+Kwangwoon University: 光云大学
+
+Nova Southeastern University: 新东南大学
+Universidad Catolica del Norte: 北方天主教大学
+University of Derby: 德比大学
+Future University in Egypt: 埃及未来大学
+Hunan University of Science & Technology: 湖南科技大学
+Miami University: 迈阿密大学
+Pontificia Universidade Catolica do Parana: 巴拉那天主教大学
+Shandong University of Technology: 山东理工大学
+Creighton University: 克雷顿大学
+Hunan University of Technology: 湖南工业大学
+Ivane Javakhishvili Tbilisi State University: 伊万·贾瓦希什维利第比利斯国立大学
+Liaocheng University: 聊城大学
+Minjiang University: 闽江学院
+Suez University: 苏伊士大学
+Taiyuan University of Technology: 太原理工大学
+University of Kaiserslautern: 凯泽斯劳滕大学
+Al-Balqa Applied University: 巴勒斯坦应用大学
+Democritus University of Thrace: 色雷斯德谟克利特大学
+Technical University Freiberg: 弗赖贝格工业大学
+University of Toyama: 富山大学
+Western Washington University: 西华盛顿大学
+Centrale Lille: 里尔中央理工大学
+Indian Institute of Science Education & Research (IISER) - Kolkata: 印度科学教育与研究所加尔各答
+Nara Institute of Science & Technology: 奈良科学技术学院
+Sogang University: 西江大学
+University Cheikh Anta Diop Dakar: 达喀尔谢赫安塔迪奥普大学
+University of Rijeka: 里耶卡大学
+Guangzhou University of Chinese Medicine: 广州中医药大学
+Indian Statistical Institute Kolkata: 印度统计研究所加尔各答
+South Dakota State University: 南达科他州立大学
+Universidad de Almeria: 阿尔梅里亚大学
+Universidade Federal de Lavras: 拉夫拉斯联邦大学
+Universite Polytechnique Hauts-de-France: 法国上法兰西理工大学
+University of Central Lancashire: 中央兰开夏大学
+University of Petroleum & Energy Studies (UPES): 石油与能源研究大学
+University of Technology- Iraq: 伊拉克科技大学
+Gifu University: 岐阜大学
+Linnaeus University: 林奈大学
+Pakistan Institute of Engineering & Applied Science: 巴基斯坦工程与应用科学研究所
+Universidade Federal do Espirito Santo: 圣埃斯皮里图联邦大学
+Guangdong Ocean University: 广东海洋大学
+Institute Technology of Bandung: 万隆理工学院
+Jiangxi Normal University: 江西师范大学
+Tokyo University of Agriculture & Technology: 东京农业技术大学
+Universidad de Leon: 莱昂大学
+Western Michigan University: 西密歇根大学
+Chapman University: 查普曼大学
+Fujita Health University: 藤田健康大学
+Huaqiao University: 华侨大学
+Qingdao Agricultural University: 青岛农业大学
+Roskilde University: 罗斯基勒大学
+Shahid Bahonar University of Kerman (SBUK): 克尔曼沙希德巴霍纳尔大学
+University of Guilan: 吉兰大学
+Linyi University: 临沂大学
+Universitat Trier: 特里尔大学
+University of Tun Hussein Onn Malaysia: 马来西亚敦胡先翁大学
+University of Yazd: 亚兹德大学
+University Osnabruck: 奥斯纳布吕克大学
+University of Lodz: 罗兹大学
+Amrita Vishwa Vidyapeetham: 阿姆利塔维什瓦大学
+Montclair State University: 蒙特克莱尔州立大学
+Shaoxing University: 绍兴文理学院
+Taiyuan University of Science & Technology: 太原科技大学
+Thammasat University: 法政大学
+Tunghai University: 东海大学
+Universidad Autonoma Metropolitana - Mexico: 墨西哥国立自治大学
+Zhongkai University of Agriculture & Engineering: 仲恺农业工程学院
+Anhui University of Technology: 安徽工业大学
+Shanghai University of Traditional Chinese Medicine: 上海中医药大学
+Wuhan Textile University: 武汉纺织大学
+Jeju National University: 济州国立大学
+Lebanese University: 黎巴嫩大学
+Universidad del Rosario: 罗萨里奥大学
+Universidad de Valparaiso: 瓦尔帕莱索大学
+University of Sargodha: 萨戈达大学
+Chongqing Technology & Business University: 重庆工商大学
+Karlstad University: 卡尔斯塔德大学
+Leeds Beckett University: 利兹贝克特大学
+Pukyong National University: 釜庆国立大学
+San Francisco State University: 旧金山州立大学
+Universidad de Guadalajara: 瓜达拉哈拉大学
+University of Chemistry & Technology, Prague: 布拉格化工技术大学
+Anna University Chennai: 安娜大学钦奈
+Beijing University of Chinese Medicine: 北京中医药大学
+Hebei Agricultural University: 河北农业大学
+Kyushu Institute of Technology: 九州工业大学
+Najran University: 纳吉兰大学
+Southwest Petroleum University: 西南石油大学
+Universidade Federal do Para: 帕拉联邦大学
+University of Madras: 马德拉斯大学
+University of South Wales: 南威尔士大学
+Arid Agriculture University: 干旱农业大学
+Boise State University: 博伊西州立大学
+National Institute of Pharmaceutical Education & Research (NIPER): 国家药学教育与研究学院
+National Institute of Technology Tiruchirappalli: 蒂鲁吉拉帕利国家理工学院
+Poznan University of Technology: 波兹南工业大学
+Universidad de La Frontera: 边疆大学
+Universite Savoie Mont Blanc: 萨瓦-勃朗峰大学
+Henan Agricultural University: 河南农业大学
+Malmo University: 马尔默大学
+Pomeranian Medical University: 波美拉尼亚医科大学
+Poznan University of Medical Sciences: 波兹南医科大学
+University College of Southeast Norway: 挪威东南大学学院
+Bingol University: 宾格尔大学
+California State University Northridge: 加利福尼亚州立大学北岭分校
+Damanhour University: 达曼胡尔大学
+Lodz University of Technology: 罗兹工业大学
+State University of New York (SUNY) Downstate Medical Center: 纽约州立大学下州医疗中心
+Universidad Autonoma de Nuevo Leon: 新莱昂自治大学
+Universidad de Talca: 塔尔卡大学
+University of the Philippines Diliman: 菲律宾大学迪里曼校区
+Bowling Green State University: 博林格林州立大学
+Central South University of Forestry & Technology: 中南林业科技大学
+Nihon University: 日本大学
+Shanghai University of Electric Power: 上海电力大学
+University of London School Oriental & African Studies (SOAS): 伦敦大学亚非学院
+Conservatoire National Arts & Metiers (CNAM): 国立工艺学院
+Gebze Technical University: 格布泽技术大学
+Guru Nanak Dev University: 古鲁纳纳克德夫大学
+Hazara University: 哈扎拉大学
+Mersin University: 梅尔辛大学
+Necmettin Erbakan University: 内杰梅丁埃尔巴坎大学
+Shandong University of Finance & Economics: 山东财经大学
+Universidade Federal da Paraiba: 帕拉伊巴联邦大学
+University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca: 克卢日-纳波卡农业与兽医大学
+University of Malawi: 马拉维大学
+Zhejiang University of Finance & Economics: 浙江财经大学
+Siberian Federal University: 西伯利亚联邦大学
+Universidad de Tarapaca: 塔拉帕卡大学
+Universidad Miguel Hernandez de Elche: 埃尔切米格尔·赫尔南德斯大学
+Universite Ferhat Abbas Setif: 费尔哈特·阿巴斯·塞提夫大学
+University of Sannio: 桑尼奥大学
+Avignon Universite: 阿维尼翁大学
+Georgia Southern University: 乔治亚南方大学
+Shahrekord University: 沙赫里库尔德大学
+Universitas Padjadjaran: 帕贾贾兰大学
+University of Missouri Saint Louis: 密苏里大学圣路易斯分校
+University of South Alabama: 南阿拉巴马大学
+Urmia University of Medical Sciences: 乌尔米亚医科大学
+Incheon National University: 仁川国立大学
+Istanbul Medeniyet University: 伊斯坦布尔文明大学
+Iuliu Hatieganu University of Medicine & Pharmacy: 尤利乌·哈齐埃甘努医药大学
+National Kaohsiung University of Science & Technology: 国立高雄科技大学
+Hunter College (CUNY): 亨特学院（纽约市立大学）
+Jiangxi University of Finance & Economics: 江西财经大学
+Kalinga Institute of Industrial Technology (KIIT): 基灵工业技术学院
+Shanghai University of Engineering Science: 上海工程技术大学
+Sidi Mohamed Ben Abdellah University of Fez: 非斯西迪穆罕默德本阿卜杜拉大学
+Technical University of Ostrava: 俄斯特拉发技术大学
+Universidade Federal de Sergipe: 塞尔希培联邦大学
+Universita Mediterranea di Reggio Calabria: 卡拉布里亚大学地中海分校
+Visva Bharati University: 西印度大学
+Anadolu University: 阿纳多卢大学
+Delhi Technological University: 德里技术大学
+Florida A&M University: 佛罗里达农工大学
+University of Nicosia: 尼科西亚大学
+Indian Institute of Technology (Indian School of Mines) Dhanbad: 印度理工学院（印度矿业学院）丹巴德
+Jacobs University: 雅各布大学
+Slovak University of Technology Bratislava: 斯洛伐克科技大学布拉迪斯拉发
+Technical University of Cluj Napoca: 克卢日-纳波卡技术大学
+Universite de Reims Champagne-Ardenne: 兰斯香槟-阿登大学
+Gaziantep University: 加济安泰普大学
+Ho Chi Minh City University of Technology (HCMCUT): 胡志明市技术大学
+Rikkyo University: 立教大学
+Saint John's University: 圣约翰大学
+University of Warmia & Mazury: 瓦尔米亚与马祖里大学
+Bu Ali Sina University: 布阿里西纳大学
+Dalian Polytechnic University: 大连工业大学
+Harbin Normal University: 哈尔滨师范大学
+Opole University of Technology: 奥波莱理工大学
+Texas State University San Marcos: 德州州立大学圣马科斯分校
+Universidad Politecnica de Cartagena: 卡塔赫纳理工大学
+Bharathiar University: 巴拉特亚尔大学
+Kharazmi University: 哈拉兹米大学
+Mohammed VI Polytechnic University: 穆罕默德六世理工大学
+National Institute of Technology Patna: 巴特那国家理工学院
+Shahid Chamran University of Ahvaz: 阿瓦士沙希德·查姆兰大学
+Universite Toulouse 1 Capitole: 图卢兹第一大学
+University of Namur: 那慕尔大学
+University of Southern Mississippi: 南密西西比大学
+Bharathidasan University: 巴拉特达森大学
+Dalian Medical University: 大连医科大学
+Liaoning University: 辽宁大学
+University of Occupational & Environmental Health - Japan: 日本职业与环境健康大学
+University of West Bohemia: 捷克西波希米亚大学
+Jikei University: 自庆大学
+Seoul National University of Science & Technology: 首尔科技大学
+Shahrood University of Technology: 沙赫罗德理工大学
+University of Pavol Jozef Safarik Kosice: 科希策帕沃尔·约瑟夫·沙法里克大学
+Harbin University of Science & Technology: 哈尔滨理工大学
+Malardalen University: 马拉德伦大学
+Ritsumeikan University: 立命馆大学
+Semnan University: 塞姆南大学
+Tokushima University: 德岛大学
+University of Sarajevo: 萨拉热窝大学
+China Three Gorges University: 中国三峡大学
+Kagoshima University: 鹿儿岛大学
+Karadeniz Technical University: 黑海理工大学
+San Jose State University: 圣何塞州立大学
+Suleyman Demirel University: 苏莱曼·德米雷尔大学
+Universite Perpignan Via Domitia: 佩皮尼昂-多米蒂亚大学
+Zhejiang Ocean University: 浙江海洋大学
+Far Eastern Federal University: 远东联邦大学
+Hamadan University of Medical Sciences: 哈马丹医科大学
+Laurentian University: 劳伦森大学
+Santa Clara University: 圣克拉拉大学
+European University of Madrid: 马德里欧洲大学
+Government College University Lahore: 拉合尔政府学院大学
+Oakland University: 奥克兰大学
+Savitribai Phule Pune University: 萨维特里巴伊·普尔·普纳大学
+Suranaree University of Technology: 素兰纳瑞理工大学
+Universidad Autonoma de San Luis Potosi: 圣路易斯波托西自治大学
+University of Westminster: 威斯敏斯特大学
+North Carolina A&T State University: 北卡罗来纳州A&T州立大学
+Poznan University of Life Sciences: 波兹南生命科学大学
+Tianjin Normal University: 天津师范大学
+Universidad Industrial de Santander: 桑坦德工业大学
+University of Veterinary Medicine Hannover: 汉诺威兽医大学
+Anhui Normal University: 安徽师范大学
+Chongqing Normal University: 重庆师范大学
+Showa University: 昭和大学
+Universite de Haute-Alsace (UHA): 上阿尔萨斯大学
+University of Veterinary & Animal Science - Pakistan: 巴基斯坦兽医与动物科学大学
+Yantai University: 烟台大学
+Harran University: 哈兰大学
+Kaunas University of Technology: 考纳斯技术大学
+Razi University: 拉齐大学
+Shenyang Agricultural University: 沈阳农业大学
+Uludag University: 乌鲁达大学
+University of Wolverhampton: 伍尔弗汉普顿大学
+Alagappa University: 阿拉加帕大学
+Ecole Nationale Veterinaire d'Alfort (ENVA): 阿尔福尔国立兽医学院
+Jiangxi Agricultural University: 江西农业大学
+Universidade Federal de Sao Joao del-Rei: 圣若昂-德尔雷联邦大学
+Universidade Federal do Rio Grande: 里约格兰德联邦大学
+National Taiwan Ocean University: 国立台湾海洋大学
+The University of Notre Dame Australia: 澳大利亚圣母大学
+Universidad de Antofagasta: 安托法加斯塔大学
+Universidade da Beira Interior: 内贝拉大学
+Guangxi Normal University: 广西师范大学
+Ibn Zohr University of Agadir: 阿加迪尔伊本佐尔大学
+Kyoto Prefectural University of Medicine: 京都府立医科大学
+Texas Christian University: 德克萨斯基督教大学
+Universidade Estadual de Londrina: 伦德里纳州立大学
+University of South Dakota: 南达科他大学
+Xuzhou Medical University: 徐州医科大学
+Yamagata University: 山形大学
+Bundeswehr University Munich: 慕尼黑联邦国防军大学
+Guangdong University of Petrochemical Technology: 广东石油化工学院
+Hebei University: 河北大学
+Kagawa University: 香川大学
+Otto Friedrich University Bamberg: 班贝格大学
+University of Abomey Calavi: 阿波美卡拉维大学
+University of JJ Strossmayer Osijek: 奥西耶克约瑟普·于拉吉·斯特罗斯马耶尔大学
+DePaul University: 德保罗大学
+Universiti Malaysia Sabah: 马来西亚沙巴大学
+University of Teesside: 提赛德大学
+Bogor Agricultural University: 茂物农业大学
+Clarkson University: 克拉克森大学
+University of Deusto: 德乌斯托大学
+Baqiyatallah University of Medical Sciences (BMSU): 巴吉亚塔拉医科大学
+Henan University of Technology: 河南工业大学
+Taizhou University: 台州学院
+Witten Herdecke University: 维滕赫尔德克大学
+Maria Curie-Sklodowska University: 玛丽亚·居里-斯克洛多夫斯卡大学
+Southern Federal University: 南方联邦大学
+University of Gujrat: 古吉拉特大学
+Chung Yuan Christian University: 中原大学
+Shanmugha Arts, Science, Technology & Research Academy (SASTRA): 山穆迦艺术、科学、技术与研究学院（SASTRA）
+Toho University: 东邦大学
+Yasouj University: 亚苏大学
+Azarbaijan Shahid Madani University: 阿塞拜疆沙希德·马达尼大学
+Hanoi University of Science & Technology (HUST): 河内科技大学
+Universidad de La Rioja: 拉里奥哈大学
+University of Louisiana Lafayette: 路易斯安那大学拉法叶分校
+Yokohama National University: 横滨国立大学
+Universidade Federal de Mato Grosso do Sul: 南马托格罗索联邦大学
+Universidad Nacional de Educacion a Distancia (UNED): 西班牙国家远程教育大学
+University of Mazandaran: 马赞达兰大学
+University of Nis: 尼什大学
+Universite de Gabes: 加贝斯大学
+University of Khartoum: 喀土穆大学
+University of the Ryukyus: 琉球大学
+Fukuoka University: 福冈大学
+Guilin University of Technology: 桂林理工大学
+Istinye University: 伊斯坦布尔伊斯丁耶大学
+University of Electro-Communications - Japan: 日本电气通信大学
+Wuhan Polytechnic University: 武汉轻工大学
+Anhui University of Science & Technology: 安徽理工大学
+Arts et Metiers Institute of Technology: 工艺与技术学院
+National University of Rosario: 罗萨里奥国立大学
+University of Oradea: 奥拉迪亚大学
+University of Quebec Trois Rivieres: 魁北克大学三河市分校
+VetAgro Sup: 法国国家兽医农业与食品学院
+Yamaguchi University: 山口大学
+Hallym University: 翰林大学
+Shandong First Medical University & Shandong Academy of Medical Sciences: 山东第一医科大学
+Shenyang Pharmaceutical University: 沈阳药科大学
+Northeast Electric Power University: 东北电力大学
+Polytechnic University of Timisoara: 蒂米什瓦拉理工大学
+Technische Universitat Ilmenau: 伊尔梅瑙工业大学
+Universidad del Norte Colombia: 哥伦比亚北方大学
+University of Rwanda: 卢旺达大学
+Duzce University: 杜兹杰大学
+Moulay Ismail University of Meknes: 梅克内斯穆莱伊·伊斯梅尔大学
+Ondokuz Mayis University: 十九梅伊斯大学
+Universidade Estadual de Maringa: 马林加州立大学
+Wright State University Dayton: 赖特州立大学代顿分校
+Xi'an Technological University: 西安工业大学
+Zhejiang University of Science & Technology: 浙江科技学院
+China Jiliang University: 中国计量大学
+Indian Institute of Technology (IIT) - Ropar: 印度理工学院罗帕尔分校
+Karamanoglu Mehmetbey University: 卡拉曼梅赫迈特贝大学
+Saga University: 佐贺大学
+Universidad Nacional Mayor de San Marcos: 秘鲁圣马尔科斯国立大学
+Kyorin University: 杏林大学
+Pondicherry University: 本地治里大学
+Trent University: 特伦特大学
+Universidad Autonoma de Sinaloa: 锡那罗亚自治大学
+Universidad de Huelva: 韦尔瓦大学
+University of Dayton: 代顿大学
+California State University Long Beach: 加利福尼亚州立大学长滩分校
+Cracow University of Technology: 克拉科夫理工大学
+East Tennessee State University: 东田纳西州立大学
+Huaiyin Institute of Technology: 淮阴工学院
+Kitasato University: 北里大学
+National Institute of Technology Silchar: 希尔丘尔国家理工学院
+University of Leoben: 勒奥本大学
+University of Rzeszow: 热舒夫大学
+University of South China: 南华大学
+Vilnius Gediminas Technical University: 维尔纽斯格迪米纳斯技术大学
+Wuyi University: 武夷学院
+Chongqing University of Technology: 重庆理工大学
+Universidad Catolica de Murcia: 穆尔西亚天主教大学
+Universitat Internacional de Catalunya: 加泰罗尼亚国际大学
+University Nacional Cuyo Mendoza: 门多萨国立库约大学
+Claremont Graduate School: 克莱蒙研究生院
+Gunma University: 群马大学
+Illinois State University: 伊利诺伊州立大学
+Rowan University: 罗文大学
+University of Molise: 莫利塞大学
+Istanbul Medipol University: 伊斯坦布尔梅迪波尔大学
+Kocaeli University: 科贾埃利大学
+Teikyo University: 帝京大学
+Ariel University: 阿里尔大学
+Fujian University of Technology: 福建工程学院
+Nagoya Institute of Technology: 名古屋工业大学
+Universidade Tecnologica Federal do Parana: 巴拉那联邦技术大学
+Zhengzhou University of Light Industry: 郑州轻工业大学
+Fujian Medical University: 福建医科大学
+Hankuk University Foreign Studies: 韩国外国语大学
+Kurume University: 久留米大学
+Tianjin University of Commerce: 天津商业大学
+University of Kashmir: 克什米尔大学
+Vytautas Magnus University: 维陶塔斯大帝大学
+CY Cergy Paris Universite: 塞尔吉巴黎大学
+Ecole Centrale de Lyon: 里昂中央理工学院
+Mahatma Gandhi University, Kerala: 喀拉拉邦圣雄甘地大学
+Tomas Bata University Zlin: 托马斯·巴塔大学兹林
+University of Medicine & Pharmacy of Craiova: 克拉约瓦医药大学
+Chongqing Jiaotong University: 重庆交通大学
+Dankook University: 韩国檀国大学
+South Central Minzu University: 中南民族大学
+Arab Academy for Science, Technology & Maritime Transport: 阿拉伯科学技术与海事运输学院
+East China University of Technology: 华东理工大学
+Inner Mongolia University: 内蒙古大学
+Louisiana State University Health Sciences Center at Shreveport: 路易斯安那州立大学什里夫波特健康科学中心
+Punjab Agricultural University: 旁遮普农业大学
+Fu Jen Catholic University: 辅仁大学
+GLA University: GLA大学
+Medical University Silesia: 西里西亚医科大学
+North Minzu University: 北方民族大学
+Tokyo University of Marine Science & Technology: 东京海洋科技大学
+Hungarian University of Agriculture & Life Sciences: 匈牙利农业与生命科学大学
+Mie University: 三重大学
+Universite de Technologie de Belfort-Montbeliard (UTBM): 贝尔福-蒙贝利亚尔科技大学
+Cleveland State University: 克利夫兰州立大学
+Shenzhen Technology University: 深圳技术大学
+Sookmyung Women's University: 淑明女子大学
+Universite Badji Mokhtar - Annaba: 巴德吉·莫克塔尔大学-安纳巴
+Wroclaw University of Environmental & Life Sciences: 弗罗茨瓦夫环境与生命科学大学
+Giresun University: 吉雷松大学
+Nanjing Audit University: 南京审计大学
+Nagaoka University of Technology: 长冈技术大学
+Samara National Research University: 萨马拉国立研究型大学
+Sinop University: 锡诺普大学
+Universite de Technologie de Compiegne: 孔皮埃涅科技大学
+Minzu University of China: 中央民族大学
+West Pomeranian University of Technology: 西波美拉尼亚技术大学
+Binzhou Medical University: 滨州医学院
+Shaqra University: 沙克拉大学
+Shizuoka University: 静冈大学
+Tottori University: 鸟取大学
+Capital University of Economics & Business: 首都经济贸易大学
+Inje University: 仁济大学
+Jimei University: 集美大学
+Birla Institute of Technology Mesra: 比尔拉理工学院梅斯拉
+Bozok University: 博兹约克大学
+Ecole Nationale Veterinaire de Toulouse: 图卢兹国立兽医学院
+Kochi University: 高知大学
+University of Bergamo: 贝加莫大学
+University of Ostrava: 奥斯特拉发大学
+Yeditepe University: 耶迪特派大学
+Anhui Polytechnic University: 安徽工程大学
+Hubei Normal University: 湖北师范大学
+Institute of Chemical Technology - Mumbai: 孟买化工技术研究所
+Northeast Petroleum University: 东北石油大学
+University of Yamanashi: 山梨大学
+Chengdu University of Traditional Chinese Medicine: 成都中医药大学
+Indian Institute of Science Education & Research (IISER) - Mohali: 印度科学教育与研究所莫哈利
+Soongsil University: 崇实大学
+Universidad Nacional del Comahue: 科马尤国家大学
+Appalachian State University: 阿巴拉契亚州立大学
+Eskisehir Osmangazi University: 埃斯基谢希尔奥斯曼加齐大学
+Guangzhou Medical University: 广州医科大学
+Universidade Federal do Triangulo Mineiro: 三角洲联邦大学
+Duquesne University: 杜肯大学
+Huaibei Normal University: 淮北师范大学
+Instituto Politecnico de Braganca: 布拉干萨理工学院
+Lanzhou University of Technology: 兰州理工大学
+National Chung Cheng University: 国立中正大学
+North China University of Science & Technology: 华北理工大学
+Universidade Federal de Alagoas: 阿拉戈阿斯联邦大学
+Universidade Federal Rural de Pernambuco (UFRPE): 伯南布哥联邦农村大学
+East China Jiaotong University: 华东交通大学
+Gheorghe Asachi Technical University: 格奥尔基·阿萨基技术大学
+Kansai Medical University: 关西医科大学
+Kunming Medical University: 昆明医科大学
+National Chengchi University: 国立政治大学
+Nippon Medical School: 日本医科大学
+Universite de Toulouse - Jean Jaures: 图卢兹大学让·饶勒斯校区
+Changchun University of Science & Technology: 长春理工大学
+Bauman Moscow State Technical University: 鲍曼莫斯科国立技术大学
+Ludong University: 鲁东大学
+Universidad Catolica de la Santisima Concepcion: 圣母无玷始胎天主教大学
+University of Quebec Chicoutimi: 魁北克大学希库蒂米分校
+University Science & Technology Houari Boumediene: 胡阿里·布迈丁科技大学
+National University of the Littoral: 利托拉尔国立大学
+Universidade Federal de Mato Grosso: 南马托格罗索联邦大学
+University of Allahabad: 阿拉哈巴德大学
+University of Science & Technology Liaoning: 辽宁科技大学
+Xinxiang Medical University: 新乡医学院
+China West Normal University: 西华师范大学
+Feng Chia University: 逢甲大学
+Universidad Autonoma de Baja California: 下加利福尼亚自治大学
+University of Burdwan: 布尔德旺大学
+Yancheng Institute of Technology: 盐城工学院
+Jilin Agricultural University: 吉林农业大学
+Mid-Sweden University: 瑞典中部大学
+Shimane University: 岛根大学
+Wakayama Medical University: 和歌山医科大学
+Kwansei Gakuin University: 关西学院大学
+Jichi Medical University: 自治医科大学
+Northwest Normal University - China: 西北师范大学
+Southwest Medical University: 西南医科大学
+SSN College of Engineering: SSN工程学院
+Technical University Liberec: 利贝雷茨技术大学
+Universidad de la Habana: 哈瓦那大学
+Universite de Pau et des Pays de l'Adour: 波城-阿杜尔河大学
+Indian Institute of Technology (IIT) - Mandi: 印度理工学院曼迪分校
+Lorestan University: 洛雷斯坦大学
+Lublin University of Technology: 卢布林工业大学
+Meiji University: 明治大学
+National Institute of Technology Karnataka: 卡纳塔克邦国家理工学院
+Shenyang University of Technology: 沈阳理工大学
+Siksha 'O' Anusandhan University: 锡克沙-阿努桑丹大学
+Universidade do Estado de Santa Catarina: 圣卡塔琳娜州立大学
+Xi'an University of Posts & Telecommunications: 西安邮电大学
+Civil Aviation University of China: 中国民航大学
+National Dong Hwa University: 国立东华大学
+National University of the South: 南方国立大学
+TU Clausthal: 克劳斯塔尔工业大学
+Universidade Federal de Amazonas: 亚马逊联邦大学
+University of Szczecin: 什切青大学
+Chongqing University of Science & Technology: 重庆科技学院
+Jain University: 贾因大学
+Periyar University: 佩里亚尔大学
+Sardar Vallabhbhai National Institute of Technology: 萨达尔瓦拉巴伊国家理工学院
+Universidad Mayor: 梅耶尔大学
+Gauhati University: 高哈蒂大学
+Roehampton University: 罗汉普顿大学
+Gaziosmanpasa University: 加齐奥斯曼帕夏大学
+Huaiyin Normal University: 淮阴师范学院
+Saitama University: 埼玉大学
+Shenzhen Polytechnic University: 深圳职业技术学院
+University of Miyazaki: 宫崎大学
+Chung Shan Medical University: 中山医科大学
+Ecole Nationale Veterinaire, Agroalimentaire et de l'Alimentation Nantes-Atlantique: 南特大西洋国立兽医、农产食品与营养学院
+Graduate University of Advanced Technology: 高级技术研究生大学
+Guizhou Medical University: 贵州医科大学
+I-Shou University: 义守大学
+Jilin Normal University: 吉林师范大学
+Universidade Federal do Triangulo Mineiro: 米纳斯三角联邦大学
+Chongqing University of Arts & Sciences: 重庆文理学院
+Maharshi Dayanand University: 马哈希·达雅南德大学
+Payame Noor University: 帕亚姆诺尔大学
+Sichuan University of Science & Engineering: 四川理工学院
+Southwest Minzu University: 西南民族大学
+University of Lethbridge: 莱斯布里奇大学
+Abdelmalek Essaadi University of Tetouan: 得土安阿卜杜勒·马利克·阿萨迪大学
+Changchun University of Technology: 长春工业大学
+Chengdu University of Information Technology: 成都信息工程大学
+Manisa Celal Bayar University: 马尼萨哲拉勒·拜亚尔大学
+Beijing Information Science & Technology University: 北京信息科技大学
+Jiaxing University: 嘉兴学院
+University of La Reunion: 留尼汪大学
+University of Teramo: 特拉莫大学
+Shibaura Institute of Technology: 芝浦工业大学
+Ningxia University: 宁夏大学
+Xihua University: 西华大学
+Hebei Medical University: 河北医科大学
+Nanjing Institute of Technology: 南京工程学院
+International University of Health & Welfare: 国际医疗福利大学
+Osmania University: 奥斯马尼亚大学
+Universidad Veracruzana: 韦拉克鲁斯大学
+Izmir Katip Celebi University: 伊兹密尔卡提普·切莱比大学
+Punjabi University: 旁遮普大学
+Rzeszow University of Technology: 热舒夫理工大学
+Universidade Federal de Campina Grande: 大坎皮纳联邦大学
+Universidad Michoacana de San Nicolas de Hidalgo: 米却肯圣尼古拉斯·伊达尔戈大学
+Hue University: 顺化大学
+Pochon Cha University: 坡州茶大学
+California State University Chico: 加利福尼亚州立大学奇科分校
+China Medical University Taiwan: 台湾中国医药大学
+Ecole Nationale d'Ingenieurs de Brest: 布雷斯特国立工程师学校
+Federal University of Rio de Janeiro: 里约热内卢联邦大学
+Florida Gulf Coast University: 佛罗里达海湾沿岸大学
+Hohai University: 河海大学
+Hokkaido University: 北海道大学
+Islamic Azad University Science and Research Branch: 伊斯兰阿扎德大学科学与研究分校
+Jawaharlal Nehru Technological University: 贾瓦哈拉尔·尼赫鲁技术大学
+Jordan University of Science and Technology: 约旦科技大学
+King Faisal University: 费萨尔国王大学
+Kitasato University: 北里大学
+Korea University of Technology and Education: 韩国技术与教育大学
+Kyungpook National University: 庆北国立大学
+Lanzhou University: 兰州大学
+Liaoning Normal University: 辽宁师范大学
+Mahidol University: 玛希敦大学
+Mashhad University of Medical Sciences: 马什哈德医科大学
+Moscow Institute of Physics and Technology: 莫斯科物理技术学院
+Nagoya City University: 名古屋市立大学
+Nankai University: 南开大学
+National Cheng Kung University: 国立成功大学
+National Chiao Tung University: 国立交通大学
+National Taiwan University: 国立台湾大学
+Ningbo University: 宁波大学
+Northwest Agriculture and Forestry University: 西北农林科技大学
+Peking University: 北京大学
+Polytechnic University of Valencia: 瓦伦西亚理工大学
+Pontifical Catholic University of Rio de Janeiro: 里约热内卢天主教大学
+Qassim University: 卡西姆大学
+Qingdao University of Science and Technology: 青岛科技大学
+Renmin University of China: 中国人民大学
+Rochester Institute of Technology: 罗彻斯特理工学院
+Seoul National University: 首尔大学
+Shanghai International Studies University: 上海外国语大学
+Shanghai University of Sport: 上海体育学院
+Shenzhen University: 深圳大学
+Shibaura Institute of Technology: 芝浦工业大学
+Sichuan University: 四川大学
+Soochow University: 苏州大学
+Southern Medical University: 南方医科大学
+Southwest University: 西南大学
+Sultan Qaboos University: 苏丹卡布斯大学
+Sun Yat-sen University: 中山大学
+Technische Universitat Berlin: 柏林工业大学
+Technische Universitat Munchen: 慕尼黑工业大学
+Tianjin University: 天津大学
+Tongji University: 同济大学
+Tsinghua University: 清华大学
+University of Amsterdam: 阿姆斯特丹大学
+University of Buenos Aires: 布宜诺斯艾利斯大学
+University of California Berkeley: 加利福尼亚大学伯克利分校
+University of California Irvine: 加利福尼亚大学欧文分校
+University of California Los Angeles: 加利福尼亚大学洛杉矶分校
+University of California San Diego: 加利福尼亚大学圣地亚哥分校
+University of California Santa Barbara: 加利福尼亚大学圣塔芭芭拉分校
+University of Cape Town: 开普敦大学
+University of Chile: 智利大学
+University of Chinese Academy of Sciences: 中国科学院大学
+University of Copenhagen: 哥本哈根大学
+University of Edinburgh: 爱丁堡大学
+University of Electronic Science and Technology of China: 电子科技大学
+University of Florida: 佛罗里达大学
+University of Hong Kong: 香港大学
+University of Illinois at Urbana-Champaign: 伊利诺伊大学厄巴纳-香槟分校
+University of Lausanne: 洛桑大学
+University of Leeds: 利兹大学
+University of Macau: 澳门大学
+University of Melbourne: 墨尔本大学
+University of Michigan: 密歇根大学
+University of Minnesota: 明尼苏达大学
+University of Montpellier: 蒙彼利埃大学
+University of Nairobi: 内罗毕大学
+University of Naples Federico II: 那不勒斯费德里科二世大学
+University of New South Wales: 新南威尔士大学
+University of North Carolina at Chapel Hill: 北卡罗来纳大学教堂山分校
+University of Notre Dame: 圣母大学
+University of Nottingham: 诺丁汉大学
+University of Oslo: 奥斯陆大学
+University of Otago: 奥塔哥大学
+University of Oxford: 牛津大学
+University of Queensland: 昆士兰大学
+University of Rochester: 罗切斯特大学
+University of Sao Paulo: 圣保罗大学
+University of Science and Technology Beijing: 北京科技大学
+University of Science and Technology of China: 中国科学技术大学
+University of Shanghai for Science and Technology: 上海理工大学
+University of South Australia: 南澳大利亚大学
+University of Southern California: 南加州大学
+University of St Andrews: 圣安德鲁斯大学
+University of Stellenbosch: 斯泰伦博斯大学
+University of Sydney: 悉尼大学
+University of Tehran: 德黑兰大学
+University of Texas at Austin: 德克萨斯大学奥斯汀分校
+University of Tokyo: 东京大学
+University of Toronto: 多伦多大学
+University of Tsukuba: 筑波大学
+University of Utah: 犹他大学
+University of Vienna: 维也纳大学
+University of Warsaw: 华沙大学
+University of Warwick: 华威大学
+University of Western Australia: 西澳大利亚大学
+University of Wisconsin-Madison: 威斯康星大学麦迪逊分校
+University of Wollongong: 卧龙岗大学
+Uppsala University: 乌普萨拉大学
+Vienna University of Technology: 维也纳技术大学
+Vrije Universiteit Amsterdam: 阿姆斯特丹自由大学
+Waseda University: 早稻田大学
+Wuhan University: 武汉大学
+Xiamen University: 厦门大学
+Xi'an Jiaotong University: 西安交通大学
+Yale University: 耶鲁大学
+Yunnan University: 云南大学
+Zhejiang University: 浙江大学
+Zhengzhou University: 郑州大学
+Zhongnan University of Economics and Law: 中南财经政法大学
+Heriot-Watt University: 赫瑞瓦特大学
+Mississippi State University: 密西西比州立大学
+Missouri University of Science & Technology: 密苏里科技大学
+Princess Nourah bint Abdulrahman University: 努拉公主大学
+Université de Bretagne Occidentale: 西布列塔尼大学
+Universiti Brunei Darussalam: 文莱达鲁萨兰大学
+University of Murcia: 穆尔西亚大学
+AGH University of Science & Technology: 克拉科夫科技大学
+Dalian Maritime University: 大连海事大学
+Henan University: 河南大学
+University of Ghana: 加纳大学
+University of Ioannina: 约阿尼纳大学
+Jimma University: 吉马大学
+Northeast Agricultural University - China: 东北农业大学
+University of Calabria: 卡拉布里亚大学
+University of Delhi: 德里大学
+University of Peshawar: 白沙瓦大学
+University of Rostock: 罗斯托克大学
+Vietnam National University Hanoi: 河内越南国家大学
+Imam Mohammad Ibn Saud Islamic University (IMSIU): 穆罕默德·伊本·苏德伊斯兰大学
+Mohammed V University in Rabat: 拉巴特穆罕默德五世大学
+National Yunlin University of Science & Technology: 国立云林科技大学
+Ulster University: 阿尔斯特大学
+Universidad de Antioquia: 安蒂奥基亚大学
+Hassan II University of Casablanca: 卡萨布兰卡哈桑二世大学
+Indian Institute of Technology (IIT) - Roorkee: 印度理工学院鲁尔基分校
+National Taiwan University of Science & Technology: 国立台湾科技大学
+Southwest University of Science & Technology - China: 西南科技大学
+Sunway University: 双威大学
+Dublin City University: 都柏林城市大学
+Royal Holloway, University of London: 伦敦大学皇家霍洛威学院
+University of Punjab: 旁遮普大学
+University of South Africa: 南非大学
+Fujian Normal University: 福建师范大学
+Örebro University: 厄勒布鲁大学
+Southern Methodist University: 南卫理公会大学
+Universidad de Alcalá: 阿尔卡拉大学
+University of Split: 斯普利特大学
+Vietnam National University Ho Chi Minh City: 胡志明市越南国家大学
+Capital Medical University: 首都医科大学
+All India Institute of Medical Sciences (AIIMS) New Delhi: 印度新德里全印医学科学研究所
+Beni Suef University: 贝尼苏韦夫大学
+California State University Los Angeles: 加利福尼亚州立大学洛杉矶分校
+Michigan Technological University: 密歇根理工大学
+Montana State University: 蒙大拿州立大学
+New Jersey Institute of Technology: 新泽西理工学院
+Universitat de Girona: 赫罗纳大学
+University of Alaska Fairbanks: 阿拉斯加大学费尔班克斯分校
+Athens Medical School: 雅典医学院
+INSEAD Business School: 欧洲工商管理学院
+Norwegian University of Life Sciences: 挪威生命科学大学
+Qingdao University of Technology: 青岛理工大学
+Transilvania University of Brasov: 布拉索夫特兰西瓦尼亚大学
+Universiti Malaysia Terengganu: 马来西亚登嘉楼大学
+University of the West of Scotland: 苏格兰西部大学
+Yangzhou University: 扬州大学
+Czech Technical University Prague: 布拉格捷克技术大学
+Hainan University: 海南大学
+Indian Institute of Technology (IIT) - Kanpur: 印度理工学院坎普尔分校
+Open University - UK: 英国开放大学
+University of Maryland Baltimore County: 马里兰大学巴尔的摩郡分校
+University of Thessaly: 色萨利大学
+Chiba University: 千叶大学
+China Pharmaceutical University: 中国药科大学
+Kent State University: 肯特州立大学
+London Business School: 伦敦商学院
+University of Patras: 帕特雷大学
+Villanova University: 维拉诺瓦大学
+Bangor University: 班戈大学
+Dongguk University: 东国大学
+Ewha Womans University: 梨花女子大学
+Keele University: 基尔大学
+Otto von Guericke University Magdeburg: 马格德堡奥托·冯·格里克大学
+State University of New York (SUNY) Upstate Medical Center: 纽约州立大学上州医学中心
+University of Agder: 阿格德尔大学
+University of Debrecen: 德布勒森大学
+University of New England: 新英格兰大学
+American University in Cairo: 开罗美国大学
+Carol Davila University of Medicine & Pharmacy: 卡罗尔·达维拉医药大学
+Parthenope University Naples: 那不勒斯帕特诺普大学
+University of the Free State: 自由州大学
+Babol University of Medical Sciences: 巴博尔医科大学
+Qufu Normal University: 曲阜师范大学
+University of Montana: 蒙大拿大学
+University of Seoul: 首尔市立大学
+Charles Sturt University: 查尔斯特大学
+Tokyo Medical & Dental University (TMDU): 东京医科齿科大学
+Tomsk Polytechnic University: 托木斯克理工大学
+Wuhan Institute of Technology: 武汉理工大学
+Jeonbuk National University: 全北国立大学
+Vilnius University: 维尔纽斯大学
+Birkbeck, University of London: 伦敦大学伯贝克学院
+Islamia University of Bahawalpur: 巴哈瓦尔布尔伊斯兰大学
+Shiraz University: 设拉子大学
+Sichuan Agricultural University: 四川农业大学
+Université de Bourgogne: 勃艮第大学
+University of New Brunswick: 新不伦瑞克大学
+University of Oviedo: 奥维耶多大学
+Guangzhou Medical University: 广州医科大学
+Shanghai Maritime University: 上海海事大学
+Universidade Federal do Parana: 巴拉那联邦大学
+Université de Poitiers: 普瓦捷大学
+Universidad de Malaga: 马拉加大学
+Adam Mickiewicz University: 亚当·密茨凯维奇大学
+City, University of London: 伦敦城市大学
+Free University of Bozen-Bolzano: 波尔扎诺自由大学
+Guangxi University: 广西大学
+Universitat Ramon Llull: 拉蒙·柳利大学
+University of Mons: 蒙斯大学
+University of Regina: 里贾纳大学
+Braunschweig University of Technology: 布伦瑞克工业大学
+Okayama University: 冈山大学
+University of Indonesia: 印度尼西亚大学
+University of Limerick: 利默里克大学
+Chonnam National University: 全南国立大学
+Kuwait University: 科威特大学
+Taipei Medical University: 台北医科大学
+Vienna University of Economics & Business: 维也纳经济与商业大学
+Warsaw University of Technology: 华沙工业大学
+UCSI University: UCSI大学
+Universidad de la Republica, Uruguay: 乌拉圭共和国大学
+Augusta University: 奥古斯塔大学
+Bahcesehir University: 巴赫谢希尔大学
+Loma Linda University: 洛马琳达大学
+Loyola University Chicago: 芝加哥洛约拉大学
+Rhodes University: 罗德大学
+Universidad Carlos III de Madrid: 马德里卡洛斯三世大学
+Universidade Federal do Rio Grande do Norte: 北里奥格兰德联邦大学
+Wroclaw Medical University: 弗罗茨瓦夫医科大学
+Xi'an University of Architecture & Technology: 西安建筑科技大学
+Anhui University: 安徽大学
+Brno University of Technology: 布尔诺理工大学
+Firat University: 菲拉特大学
+Hunan Agricultural University: 湖南农业大学
+Lehigh University: 里海大学
+Tribhuvan University: 特里布胡凡大学
+Universidade Federal de Sao Carlos: 圣卡洛斯联邦大学
+Université de Sfax: 斯法克斯大学
+National Taiwan Normal University: 国立台湾师范大学
+New York Medical College: 纽约医学院
+Thapar Institute of Engineering & Technology: 塔帕尔工程技术学院
+Christian Medical College & Hospital (CMCH) Vellore: 韦洛尔基督教医学院
+New Mexico State University: 新墨西哥州立大学
+Old Dominion University: 老道明大学
+Yokohama City University: 横滨市立大学
+Bohai University: 渤海大学
+Université Paul-Valéry: 保尔-瓦莱里大学
+University of Brighton: 布莱顿大学
+University of Bucharest: 布加勒斯特大学
+University of Greenwich: 格林尼治大学
+University of Texas Rio Grande Valley: 德克萨斯大学里奥格兰德河谷分校
+University of the West of England: 西英格兰大学
+Wuhan University of Science & Technology: 武汉科技大学
+Bahauddin Zakariya University: 巴哈乌丁·扎卡里亚大学
+Central Queensland University: 中央昆士兰大学
+Johannes Kepler University Linz: 约翰内斯·开普勒大学林茨
+National University of La Plata: 拉普拉塔国立大学
+Shanxi University: 山西大学
+University of Kragujevac: 克拉古耶瓦茨大学
+Yerevan Physics Institute: 埃里温物理研究所
+Abdul Wali Khan University: 阿卜杜勒瓦利汗大学
+King Mongkut's University of Technology Thonburi: 孟固国王科技大学通武里
+Universidade Federal do ABC (UFABC): ABC联邦大学
+Guangdong University of Foreign Studies: 广东外语外贸大学
+National Central University: 国立中央大学
+Tallinn University of Technology: 塔林理工大学
+Université d'Angers: 昂热大学
+University of Opole: 奥波莱大学
+Magna Graecia University of Catanzaro: 卡坦扎罗玛格纳格拉西亚大学
+Oxford Brookes University: 牛津布鲁克斯大学
+University of Lincoln: 林肯大学
+University of Sulaymaniyah: 苏莱曼尼亚大学
+École des Ponts ParisTech: 巴黎高科桥路学院
+Embry-Riddle Aeronautical University: 安柏瑞德航空大学
+Federation University Australia: 澳大利亚联邦大学
+Ferdowsi University of Mashhad: 马什哈德费尔道斯大学
+Howard University: 霍华德大学
+Kazan Federal University: 喀山联邦大学
+Universidad de Costa Rica: 哥斯达黎加大学
+Universidad de Córdoba: 科尔多瓦大学
+Universidad Pablo de Olavide: 巴勃罗·德·奥拉维德大学
+Air University Islamabad: 伊斯兰堡空军大学
+Al Jouf University: 朱夫大学
+Carl von Ossietzky University of Oldenburg: 奥尔登堡卡尔·冯·奥西茨基大学
+Khon Kaen University: 孔敬大学
+National University of Science & Technology (MISiS): 国立科技大学MISiS
+Salzburg University: 萨尔茨堡大学
+Saveetha Institute of Medical & Technical Science: 萨维塔医学院与技术学院
+California Polytechnic State University San Luis Obispo: 加州理工州立大学圣路易斯奥比斯波分校
+G. d'Annunzio University of Chieti-Pescara: 基耶蒂-佩斯卡拉G.丹努齐奥大学
+Royal College of Surgeons in Ireland: 爱尔兰皇家外科学院
+TOBB University of Economics and Technology: TOBB经济技术大学
+Universidad de Castilla-La Mancha: 卡斯蒂利亚-拉曼查大学
+Universidade Federal de Pernambuco: 伯南布哥联邦大学
+Universitat d'Alacant: 阿利坎特大学
+University Campus Bio-Medico - Rome Italy: 罗马大学生物医学校区
+University of South Bohemia Ceske Budejovice: 南波希米亚大学
+Bond University: 邦德大学
+Harbin Medical University: 哈尔滨医科大学
+Université de Tunis-El-Manar: 突尼斯埃尔马纳大学
+University of the Sunshine Coast: 阳光海岸大学
+Belarusian State University: 白俄罗斯国立大学
+British University in Egypt: 埃及英国大学
+Graz University of Technology: 格拉茨技术大学
+Istanbul Aydin University: 伊斯坦布尔阿伊丁大学
+Université de Caen Normandie: 卡昂诺曼底大学
+An-Najah National University: 纳贾赫国立大学
+Foshan University: 佛山大学
+Ilia State University: 伊利亚州立大学
+IMT Atlantique: IMT大西洋
+International Islamic University, Pakistan: 巴基斯坦国际伊斯兰大学
+Shahid Beheshti University: 沙希德·贝赫什提大学
+Sohag University: 索哈格大学
+University of Camerino: 卡梅里诺大学
+University of Denver: 丹佛大学
+Western Norway University of Applied Sciences: 西挪威应用科学大学
+Chung-Ang University: 中央大学
+IHE Delft Institute for Water Education: IHE代尔夫特水教育学院
+South Valley University Egypt: 埃及南方大学
+Universidade do Estado do Rio de Janeiro: 里约热内卢州立大学
+University of Wroclaw: 弗罗茨瓦夫大学
+William & Mary: 威廉与玛丽学院
+Amity University Noida: 诺伊达阿米蒂大学
+Gwangju Institute of Science & Technology (GIST): 光州科学技术学院
+State University of New York (SUNY) Binghamton: 纽约州立大学宾汉姆顿分校
+Toronto Metropolitan University: 多伦多都会大学
+Université de Rouen Normandie: 鲁昂诺曼底大学
+Arizona State University-Downtown Phoenix: 亚利桑那州立大学凤凰城校区
+Catholic University of America: 美国天主教大学
+Coventry University: 考文垂大学
+Universidad San Francisco de Quito: 圣弗朗西斯科基多大学
+University of Gondar: 冈德尔大学
+University of Insubria: 英苏比里亚大学
+University of Jinan: 济南大学
+Aberystwyth University: 亚伯大学
+California State University Fullerton: 加州州立大学富勒顿分校
+Florida Atlantic University: 佛罗里达大西洋大学
+National Sun Yat-Sen University: 国立中山大学
+Università Ca' Foscari Venezia: 威尼斯卡福斯卡里大学
+Zhejiang Gongshang University: 浙江工商大学
+Birla Institute of Technology & Science Pilani (BITS Pilani): 比尔拉技术与科学学院皮拉尼
+K. N. Toosi University of Technology: 哈基姆·纳赛尔·托西技术大学
+University of Texas El Paso: 德克萨斯大学埃尔帕索分校
+Indian Institute of Technology (IIT) - Hyderabad: 印度理工学院海得拉巴分校
+Leuphana University Lüneburg: 吕讷堡莱奥法纳大学
+University of Rajshahi: 拉杰沙希大学
+Ajman University: 阿治曼大学
+Gdańsk University of Technology: 格但斯克工业大学
+Jawaharlal Nehru University, New Delhi: 新德里贾瓦哈拉尔·尼赫鲁大学
+Medical University Sofia: 索非亚医科大学
+Obafemi Awolowo University: 奥巴费米·阿沃洛沃大学
+Polytechnic University of Bucharest: 布加勒斯特理工大学
+Shanghai Normal University: 上海师范大学
+Universidad de Extremadura: 埃斯特雷马杜拉大学
+Université Gustave Eiffel: 古斯塔夫·艾菲尔大学
+Royal Veterinary College, University of London: 伦敦大学皇家兽医学院
+Jiangsu University of Science & Technology: 江苏科技大学
+Kermanshah University of Medical Sciences: 克尔曼沙阿医科大学
+National University of Córdoba: 科尔多瓦国立大学
+Sanjay Gandhi Postgraduate Institute of Medical Sciences: 桑贾伊甘地医学院
+Shandong Agricultural University: 山东农业大学
+Stevens Institute of Technology: 史蒂文斯理工学院
+Universidade Federal da Bahia: 巴伊亚联邦大学
+Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA): 马来西亚彭亨理工大学
+University of Ha'il: 海尔大学
+University of Eastern Piedmont Amedeo Avogadro: 东皮埃蒙特阿梅迪奥·阿沃加德罗大学
+University of Salford: 索尔福德大学
+University of Yaounde I: 雅温得第一大学
+Chandigarh University: 昌迪加尔大学
+Université de Picardie Jules Verne (UPJV): 皮卡第儒勒·凡尔纳大学
+University of Hertfordshire: 哈特福德大学
+University of Huddersfield: 哈德斯菲尔德大学
+University of Tabuk: 塔布克大学
+Åbo Akademi University: 奥博学术大学
+Airlangga University: 艾尔朗加大学
+Cyprus University of Technology: 塞浦路斯科技大学
+Helwan University: 赫尔万大学
+Kumamoto University: 熊本大学
+Universidad Autónoma de Chile: 智利自治大学
+University of St. Gallen: 圣加仑大学
+University of Toledo: 托莱多大学
+Army Medical University: 陆军军医大学
+De Montfort University: 德蒙福特大学
+Isfahan University of Medical Sciences: 伊斯法罕医科大学
+Maynooth University: 梅努斯大学
+Nicolaus Copernicus University: 尼古拉·哥白尼大学
+Sofia University St. Kliment Ohridski: 索非亚大学圣克利门特·奥赫里德斯基
+Universidad Técnica Federico Santa María: 圣玛丽亚技术大学
+Beijing Technology & Business University: 北京工商大学
+Cadi Ayyad University of Marrakech: 马拉喀什卡迪·阿亚德大学
+Chongqing University of Posts & Telecommunications: 重庆邮电大学
+Institut National des Sciences Appliquées de Lyon - INSA Lyon: 里昂国家应用科学学院
+Tokyo Metropolitan University: 东京都立大学
+Universidad Rey Juan Carlos: 胡安卡洛斯国王大学
+University of Peradeniya: 佩拉德尼亚大学
+Jazan University: 贾赞大学
+King Saud bin Abdulaziz University for Health Sciences: 沙特国王大学
+University of Malta: 马耳他大学
+University of Maribor: 马里博尔大学
+Institut National Polytechnique de Toulouse: 图卢兹国家理工学院
+Jamia Hamdard University: 哈姆达德大学
+Oslo Metropolitan University (OsloMet): 奥斯陆城市大学
+Southern Cross University: 南十字星大学
+Tokai University: 东海大学
+Juntendo University: 顺天堂大学
+Lincoln University - New Zealand: 林肯大学 - 新西兰
+SRM Institute of Science & Technology Chennai: 金奈SRM科技学院
+Xiangtan University: 湘潭大学
+Air Force Military Medical University: 空军军医大学
+Henan Polytechnic University: 河南理工大学
+Marmara University: 马尔马拉大学
+Pontificia Universidade Catolica do Rio Grande do Sul: 南里奥格兰德天主教大学
+Universidade Federal de Santa Maria (UFSM): 圣玛丽亚联邦大学
+Universitat Jaume I: 哈梅一世大学
+Universiti Teknologi MARA: 马来西亚玛拉工艺大学
+University Diego Portales: 迭戈波塔莱斯大学
+University of Maine Orono: 缅因大学奥罗诺分校
+Konkuk University: 建国大学
+Port Said University: 塞得港大学
+University of Nigeria: 尼日利亚大学
+Aswan University: 阿斯旺大学
+Chang Gung University: 长庚大学
+China Medical University: 中国医科大学
+Kunming University of Science & Technology: 昆明理工大学
+Northeast Forestry University - China: 东北林业大学
+Portland State University: 波特兰州立大学
+Tianjin University of Technology: 天津理工大学
+Universidade Federal Fluminense: 弗卢米嫩塞联邦大学
+Universität Kassel: 卡塞尔大学
+University of Windsor: 温莎大学
+Wenzhou Medical University: 温州医科大学
+Ataturk University: 阿塔图尔克大学
+Bahir Dar University: 巴赫达尔大学
+Fordham University: 福特汉姆大学
+Guizhou University: 贵州大学
+Jonkoping University: 延雪平大学
+Marquette University: 马凯特大学
+Nanjing University of Finance & Economics: 南京财经大学
+Universidade Federal de Pelotas: 佩洛塔斯联邦大学
+Universidade Federal do Ceara: 塞阿拉联邦大学
+Université de Orleans: 奥尔良大学
+Université de Tours: 图尔大学
+University of Latvia: 拉脱维亚大学
+University of Zambia: 赞比亚大学
+Instituto Politécnico do Porto: 波尔图理工学院
+Niigata University: 新泻大学
+Ningbo University: 宁波大学
+University of Akron: 阿克伦大学
+Kanazawa University: 金泽大学
+Middlesex University: 密德萨斯大学
+National University of Defense Technology - China: 国防科技大学
+Northern Illinois University: 北伊利诺伊大学
+Tshwane University of Technology: 茨瓦尼理工大学
+University Institute of Lisbon: 里斯本大学学院
+University of Novi Sad: 诺维萨德大学
+Zhejiang A&F University: 浙江农林大学
+Florida Institute of Technology: 佛罗里达理工学院
+Inha University: 仁荷大学
+Nagasaki University: 长崎大学
+Pontificia Universidad Católica del Perú: 秘鲁天主教大学
+Pontificia Universidad Católica de Valparaíso: 瓦尔帕莱索天主教大学
+University of Engineering & Technology Lahore: 拉合尔工程技术大学
+University of North Carolina Greensboro: 北卡罗来纳大学格林斯博罗分校
+Bucharest University of Economic Studies: 布加勒斯特经济研究大学
+King Mongkut's University of Technology North Bangkok: 孟固国王科技大学北曼谷分校
+Medical University of Warsaw: 华沙医科大学
+Post Graduate Institute of Medical Education & Research (PGIMER), Chandigarh: 昌迪加尔医学院
+Université Paris 13: 巴黎第十三大学
+University of Neuchâtel: 纳沙泰尔大学
+Xi'an University of Science & Technology: 西安科技大学
+Jiangsu Normal University: 江苏师范大学
+Osaka Metropolitan University: 大阪市立大学
+Ajou University: 亚洲大学
+Glasgow Caledonian University: 格拉斯哥喀里多尼亚大学
+Université de Monastir: 莫纳斯提尔大学
+University of Massachusetts Lowell: 马萨诸塞大学洛厄尔分校
+West University of Timișoara: 蒂米什瓦拉西大学
+Jadavpur University: 贾达夫普尔大学
+Universität Siegen: 齐根大学
+University of Kashan: 卡尚大学
+University of Foggia: 福贾大学
+University of Jeddah: 吉达大学
+Imam Khomeini International University: 霍梅尼国际大学
+Mendel University in Brno: 布尔诺门德尔大学
+University of Arkansas for Medical Sciences: 阿肯色大学医学科学分校
+Chungnam National University: 忠南国立大学
+Nazarbayev University: 纳扎尔巴耶夫大学
+Universidad Andres Bello: 安德烈斯·贝洛大学
+University of the Aegean: 爱琴海大学
+University of Idaho: 爱达荷大学
+Durban University of Technology: 德班理工大学
+National Taipei University of Technology: 国立台北科技大学
+Tiangong University: 天津工业大学
+University of A Coruña: 拉科鲁尼亚大学
+University of Sassari: 萨萨里大学
+California State University Sacramento: 加利福尼亚州立大学萨克拉门托分校
+Lahore University of Management Sciences: 拉合尔管理科学大学
+Medical University of Gdańsk: 格但斯克医科大学
+Paracelsus Private Medical University: 帕拉塞尔苏私人医科大学
+Saarland University: 萨尔大学
+Shantou University: 汕头大学
+Universidade Católica Portuguesa: 葡萄牙天主教大学
+Universitat de Lleida: 莱里达大学
+University of Bradford: 布拉德福德大学
+University of Engineering & Technology Taxila: 塔克西拉工程技术大学
+University of Memphis: 孟菲斯大学
+Ege University: 爱琴大学
+Indian Institute of Science Education & Research (IISER) Pune: 印度科学教育与研究所普纳
+Indian Institute of Technology (IIT) - Guwahati: 印度理工学院瓜哈提分校
+Pontificia Universidad Javeriana: 哈维里亚纳天主教大学
+Tuscia University: 图西亚大学
+University of Basilicata: 巴西利卡塔大学
+University of Colombo: 科伦坡大学
+University of the West Indies at Mona, Jamaica: 牙买加莫纳西印度群岛大学
+Shinshu University: 信州大学
+Estonian University of Life Sciences: 爱沙尼亚生命科学大学
+Tianjin Medical University: 天津医科大学
+Uniformed Services University of the Health Sciences - USA: 美国国防健康科学大学
+Université de Carthage: 迦太基大学
+Istanbul University - Cerrahpaşa: 伊斯坦布尔大学 - 塞拉帕沙
+Kerman University of Medical Sciences: 克尔曼医科大学
+Medical University of Łódź: 罗兹医科大学
+University of Cassino: 卡西诺大学
+University of L'Aquila: 拉奎拉大学
+Xi'an University of Technology: 西安工业大学
+Yildiz Technical University: 耶尔德兹技术大学
+Ball State University: 鲍尔州立大学
+International Medical University Malaysia: 马来西亚国际医科大学
+Prince of Songkla University: 宋卡王子大学
+University of Alabama in Huntsville: 阿拉巴马大学亨茨维尔分校
+Urmia University: 乌尔米亚大学
+École de Technologie Supérieure - Canada: 加拿大高等技术学校
+Ontario Tech University: 安大略理工大学
+Universität Greifswald: 格赖夫斯瓦尔德大学
+University of Zielona Góra: 绿山大学
+Nelson Mandela University: 纳尔逊·曼德拉大学
+Shaanxi University of Science & Technology: 陕西科技大学
+University of Massachusetts Dartmouth: 马萨诸塞大学达特茅斯分校
+University of Veterinary Medicine Vienna: 维也纳兽医大学
+Benemérita Universidad Autónoma de Puebla: 普埃布拉自治大学
+Central University of Finance & Economics: 中央财经大学
+Gazi University: 加济大学
+International Islamic University Malaysia: 马来西亚国际伊斯兰大学
+Jiangxi University of Science & Technology: 江西理工大学
+Mohammed First University of Oujda: 乌季达第一穆罕默德大学
+Riga Technical University: 里加理工大学
+Universidade Austral de Chile: 智利澳大利亚大学
+Universidad de Jaén: 哈恩大学
+Universidad de Santiago de Chile: 智利圣地亚哥大学
+Universiti Tunku Abdul Rahman (UTAR): 拉曼大学
+Yarmouk University: 叶尔穆克大学
+Qilu University of Technology: 齐鲁工业大学
+Tokyo Medical University: 东京医科大学
+Zurich University of Applied Sciences: 苏黎世应用科技大学
+Al-Farabi Kazakh National University: 法拉比哈萨克国立大学
+Henan University of Science & Technology: 河南科技大学
+Sheffield Hallam University: 谢菲尔德哈勒姆大学
+Universidade Federal de Goiás: 戈亚斯联邦大学
+Alexandru Ioan Cuza University: 亚历山德鲁·约安·库扎大学
+Birmingham City University: 伯明翰城市大学
+Shiraz University of Technology: 设拉子技术大学
+Suzhou University of Science & Technology: 苏州科技大学
+Tokyo University of Science: 东京理科大学
+University of Pécs: 佩奇大学
+Catholic University of Korea: 韩国天主教大学
+Gyeongsang National University: 庆尚国立大学
+Indian Institute of Technology (IIT) - Indore: 印度理工学院印多尔分校
+Shanghai Ocean University: 上海海洋大学
+Southern Illinois University: 南伊利诺伊大学
+Universidad de Valladolid: 巴利亚多利德大学
+University of Baghdad: 巴格达大学
+Kaohsiung Medical University: 高雄医科大学
+London South Bank University: 伦敦南岸大学
+Universidad de Cádiz: 加的斯大学
+University of Mohaghegh Ardabili: 阿尔达比勒穆哈格大学
+Anhui Medical University: 安徽医科大学
+Qassim University: 卡西姆大学
+Wilfrid Laurier University: 威尔弗里德·劳里尔大学
+Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi): 印度理工学院瓦拉纳西分校
+Lakehead University: 莱克黑德大学
+Pontifícia Universidade Católica do Rio de Janeiro: 里约热内卢天主教大学
+University of Hyderabad: 海得拉巴大学
+Warsaw University of Life Sciences: 华沙生命科学大学
+Worcester Polytechnic Institute: 伍斯特理工学院
+Eastern Virginia Medical School: 东弗吉尼亚医学院
+Instituto Politécnico Nacional - Mexico: 墨西哥国立理工学院
+Kindai University (Kinki University): 近畿大学
+Xinjiang University: 新疆大学
+Budapest University of Technology & Economics: 布达佩斯技术经济大学
+Dokuz Eylul University: 九月九日大学
+Kasetsart University: 泰国农业大学
+University of Augsburg: 奥格斯堡大学
+Erciyes University: 厄尔吉耶斯大学
+Universidad Pública de Navarra: 纳瓦拉公立大学
+University of Science & Technology (UST): 科技大学
+Capital Normal University: 首都师范大学
+Central Michigan University: 中密歇根大学
+Dongguan University of Technology: 东莞理工学院
+Gachon University: 伽倻大学
+Universidade Federal de Viçosa: 维索萨联邦大学
+Université de Limoges: 利摩日大学
+University of Zimbabwe: 津巴布韦大学
+École Nationale Supérieure de Chimie de Montpellier: 蒙彼利埃国立高等化学学校
+Hamburg University of Technology: 汉堡工业大学
+Homi Bhabha National Institute: 霍米巴巴国家研究所
+Hubei University of Technology: 湖北工业大学
+Lingnan University: 岭南大学
+Nanjing University of Chinese Medicine: 南京中医药大学
+Selçuk University: 瑟尔丘克大学
+Universidad de Las Palmas de Gran Canaria: 大加那利岛拉斯帕尔马斯大学
+University of Ilorin: 伊洛林大学
+Agricultural University of Athens: 雅典农业大学
+East Carolina University: 东卡罗来纳大学
+Nord University: 北极大学
+North Dakota State University: 北达科他州立大学
+Anhui Agricultural University: 安徽农业大学
+Çukurova University: 丘库罗瓦大学
+Hangzhou Dianzi University: 杭州电子科技大学
+State University of New York (SUNY) College of Environmental Science & Forestry: 纽约州立大学环境科学与林业学院
+Universidade do Algarve: 阿尔加维大学
+Universidade Federal de Juiz de Fora: 茹伊斯迪福拉联邦大学
+Zhejiang Sci-Tech University: 浙江理工大学
+Greifswald Medical School: 格赖夫斯瓦尔德医学院
+Henan Normal University: 河南师范大学
+Hubei University: 湖北大学
+Lovely Professional University: 洛夫利职业大学
+University of Gdańsk: 格但斯克大学
+Brandenburg University of Technology Cottbus-Senftenberg: 布兰登堡工业大学科特布斯-森夫滕贝格
+Chitkara University, Punjab: 旁遮普奇特卡拉大学
+Majmaah University: 马吉马大学
+Nantong University: 南通大学
+National Chung Hsing University: 国立中兴大学
+Taras Shevchenko National University of Kyiv: 基辅塔拉斯舍甫琴科国立大学
+Silesian University of Technology: 西里西亚工业大学
+Universidade Federal de Uberlândia: 乌贝兰迪亚联邦大学
+University of Tulsa: 塔尔萨大学
+Chengdu University of Technology: 成都理工大学
+Daegu Gyeongbuk Institute of Science & Technology (DGIST): 庆北科学技术学院
+University of Isfahan: 伊斯法罕大学
+University of Koblenz & Landau: 科布伦茨-朗道大学
+University of North Dakota Grand Forks: 北达科他大学大福克斯分校
+Universitat Oberta de Catalunya: 加泰罗尼亚开放大学
+Indian Institute of Technology (IIT) - Gandhinagar: 印度理工学院甘地纳加尔分校
+Malaviya National Institute of Technology Jaipur: 马拉维亚国家理工学院
+National Institute of Technology Rourkela: 努尔克拉国家理工学院
+Université de la Manouba: 马努巴大学
+Université de Sousse: 苏塞大学
+University of Calcutta: 加尔各答大学
+University of Urbino: 乌尔比诺大学
+Wrocław University of Science & Technology: 弗罗茨瓦夫科技大学
+Heilongjiang University: 黑龙江大学
+Universidad del Desarrollo: 发展大学
+University of Hradec Králové: 赫拉德茨-克拉洛韦大学
+American University of Sharjah: 沙迦美国大学
+Gadjah Mada University: 伽查马达大学
+Indian Institute of Technology (IIT) - Bhubaneswar: 印度理工学院布巴内斯瓦尔分校
+Institute of Tropical Medicine (ITM): 热带医学研究所
+Tianjin University of Science & Technology: 天津科技大学
+California State University Fresno: 加利福尼亚州立大学弗雷斯诺分校
+İzmir Institute of Technology: 伊兹密尔理工学院
+Sichuan Normal University: 四川师范大学
+Tamkang University: 淡江大学
+University of Paderborn: 帕德博恩大学
+Bangladesh University of Engineering & Technology (BUET): 孟加拉工程技术大学
+Chungbuk National University: 忠北国立大学
+Ehime University: 爱媛大学
+Goldsmiths, University of London: 伦敦大学金史密斯学院
+Hashemite University: 哈希姆大学
+Hebei University of Technology: 河北工业大学
+Ibn Tofail University of Kenitra: 肯尼特拉伊本·托菲勒大学
+Kingston University: 金斯顿大学
+Saints Cyril & Methodius University of Skopje: 斯科普里圣西里尔与圣美多迪大学
+Sakarya University: 萨卡里亚大学
+University of Białystok: 比亚韦斯托克大学
+Yanshan University: 燕山大学
+Akdeniz University: 地中海大学
+Damietta University: 达米埃塔大学
+Hunan Normal University: 湖南师范大学
+Kangwon National University: 江原国立大学
+Naval Medical University: 海军军医大学
+Özyeğin University: 奥兹耶因大学
+Beijing University of Civil Engineering & Architecture: 北京建筑大学
+Chongqing Medical University: 重庆医科大学
+Jahangirnagar University: 贾汉吉尔纳加尔大学
+Kwangwoon University: 光云大学
+Louisiana State University Health Sciences Center New Orleans: 路易斯安那州立大学新奥尔良健康科学中心
+Abant Izzet Baysal University: 阿班特·伊泽特·巴伊萨尔大学
+Acibadem University: 阿西巴德姆大学
+Adiyaman University: 阿迪亚曼大学
+Adnan Menderes University: 阿德南·门德雷斯大学
+Afyon Kocatepe University: 阿菲永·科卡特佩大学
+Ahi Evran University: 阿希·埃夫兰大学
+Ahvaz Jundishapur University of Medical Sciences (AJUMS): 阿瓦士·朱迪沙普尔医科大学
+Aichi Medical University: 爱知医科大学
+Air Force Engineering University: 空军工程大学
+Akita University: 秋田大学
+Aksaray University: 阿克萨赖大学
+All India Institute of Medical Sciences (AIIMS) Jodhpur: 印度全印医学科学研究所（焦特布尔）
+Alzahra University: 阿尔扎赫拉大学
+Anhui Jianzhu University: 安徽建筑大学
+Anhui University of Chinese Medicine: 安徽中医药大学
+Annamalai University: 安纳马来大学
+Anyang Normal University: 安阳师范学院
+Arak University: 阿拉克大学
+Army Engineering University of PLA: 解放军陆军工程大学
+Asian Institute of Technology: 亚洲理工学院
+Balikesir University: 巴勒克希尔大学
+Bangladesh Agricultural University (BAU): 孟加拉国农业大学
+Bartin University: 巴尔廷大学
+Baskent University: 巴什肯特大学
+Beijing Institute of Petrochemical Technology: 北京石油化工学院
+Beijing University of Agriculture: 北京农学院
+Bengbu Medical College: 蚌埠医学院
+Beykent University: 贝肯特大学
+Can Tho University: 芹苴大学
+Canakkale Onsekiz Mart University: 恰纳卡莱三月十八大学
+Capital University of Science & Technology: 资本科学技术大学
+Chang Gung University of Science & Technology: 长庚科技大学
+Changchun University of Chinese Medicine: 长春中医药大学
+Changshu Institute of Technology: 常熟理工学院
+Changwon National University: 昌原国立大学
+Changzhou University: 常州大学
+Chaoyang University of Technology: 朝阳科技大学
+Chengdu Medical College: 成都医学院
+Chosun University: 朝鲜大学
+Chubu University: 中部大学
+Chuo University: 中央大学
+Cochin University Science & Technology: 科钦科技大学
+Cumhuriyet University: 库穆尔耶特大学
+Dali University: 大理大学
+Dalian Jiaotong University: 大连交通大学
+Dalian Minzu University: 大连民族大学
+Dalian Ocean University: 大连海洋大学
+Dalian University: 大连大学
+Dicle University: 第基里大学
+Dokkyo Medical University: 独协医科大学
+Dong A University: 东亚大学
+Dongbei University of Finance & Economics: 东北财经大学
+Doshisha University: 同志社大学
+Dow University of Health Sciences: 道尔健康科学大学
+Dr B R Ambedkar National Institute of Technology Jalandhar: 德拉·巴尔·安贝德卡尔国立技术学院
+Dr. Babasaheb Ambedkar Marathwada University (BAMU): 巴巴萨赫布·安贝德卡尔马拉蒂大学
+Erzincan Binali Yildirim University: 埃尔津詹比纳利耶尔德勒姆大学
+Eskisehir Technical University: 埃斯基谢希尔技术大学
+Eulji University: 乙支大学
+European University Cyprus: 塞浦路斯欧洲大学
+Fujian University of Traditional Chinese Medicine: 福建中医药大学
+Fukushima Medical University: 福岛医科大学
+Gandhi Institute of Technology & Management (GITAM): 甘地科技与管理学院
+Gannan Medical University: 赣南医学院
+Gannan Normal University: 赣南师范大学
+Gansu Agricultural University: 甘肃农业大学
+Georgian Technical University: 格鲁吉亚技术大学
+GLA University: 格勒大学
+Golestan University of Medical Sciences: 戈莱斯坦医科大学
+Guangdong Medical University: 广东医科大学
+Guangdong Pharmaceutical University: 广东药科大学
+Guangxi Medical University: 广西医科大学
+Guangxi Minzu University: 广西民族大学
+Guangxi University of Chinese Medicine: 广西中医药大学
+Guangxi University of Science & Technology: 广西科技大学
+Guilin Medical University: 桂林医学院
+Guilin University of Electronic Technology: 桂林电子科技大学
+Guizhou Normal University: 贵州师范大学
+Hainan Medical University: 海南医学院
+Hainan Normal University: 海南师范大学
+Hamamatsu University School of Medicine: 滨松医科大学
+Hanbat National University: 韩巴国立大学
+Hangzhou City University: 杭州城市大学
+Hangzhou Medical College: 杭州医学院
+Hanoi Medical University: 河内医科大学
+Hebei Normal University: 河北师范大学
+Hebei University of Engineering: 河北工程大学
+Hebei University of Science & Technology: 河北科技大学
+Heilongjiang Bayi Agricultural University: 黑龙江八一农垦大学
+Henan Institute of Science & Technology: 河南科技学院
+Henan University of Traditional Chinese Medicine: 河南中医药大学
+Hirosaki University: 弘前大学
+Hiroshima Institute of Technology: 广岛工学院大学
+Hitotsubashi University: 一桥大学
+Ho Chi Minh City University Economics: 胡志明市经济大学
+Ho Chi Minh City University of Technology (HUTECH): 胡志明市科技大学
+Hongik University: 弘益大学
+Hubei University of Arts & Science: 湖北文理学院
+Hubei University of Chinese Medicine: 湖北中医药大学
+Hubei University of Medicine: 湖北医药学院
+Hunan Institute of Science & Technology: 湖南理工学院
+Hunan University of Chinese Medicine: 湖南中医药大学
+Hyogo College of Medicine: 兵库医科大学
+I. K. Gujral Punjab Technical University: I.K.古吉拉特旁遮普技术大学
+Ibaraki University: 茨城大学
+Ilam University: 伊拉姆大学
+Indian Institute of Engineering Science Technology Shibpur (IIEST): 印度工程科学技术学院（希布普尔）
+Indian Institute of Science Education & Research (IISER) - Bhopal: 印度科学教育与研究所（博帕尔）
+Indian Institute of Science Education & Research (IISER) - Thiruvananthapuram: 印度科学教育与研究所（蒂鲁文南特布勒姆）
+Indian Institute of Technology (IIT) - Jodhpur: 印度理工学院（焦特布尔）
+Indian Institute of Technology (IIT) - Patna: 印度理工学院（巴特那）
+Indraprastha Institute of Information Technology Delhi: 印度德里信息技术研究所
+Inner Mongolia Agricultural University: 内蒙古农业大学
+Inner Mongolia University of Science & Technology: 内蒙古科技大学
+Inner Mongolia University of Technology: 内蒙古工业大学
+Inonu University: 伊诺努大学
+Institut Teknologi Sepuluh Nopember: 十一月十日技术学院
+Institute of Post Graduate Medical Education & Research (IPGMER), Kolkata: 印度加尔各答研究生医学教育与研究所
+International Centre for Theoretical Sciences, Bengaluru: 国际理论科学中心（班加罗尔）
+International Institute of Information Technology Hyderabad: 海得拉巴国际信息技术学院
+Inter-University Accelerator Centre: 大学间加速器中心
+Inter-University Centre for Astronomy & Astrophysics: 大学间天文学与天体物理中心
+Iwate Medical University: 岩手医科大学
+Iwate University: 岩手大学
+Japan Advanced Institute of Science & Technology (JAIST): 日本先进科学技术研究所
+Jawaharlal Institute of Postgraduate Medical Education & Research: 贾瓦哈拉尔研究生医学教育与研究所
+Jawaharlal Nehru Technological University - Hyderabad: 贾瓦哈拉尔·尼赫鲁技术大学 - 海得拉巴
+Jianghan University: 江汉大学
+Jiangsu Ocean University: 江苏海洋大学
+Jiangsu University of Technology: 江苏理工学院
+Jiangxi Science & Technology Normal University: 江西科技师范大学
+Jiangxi University of Traditional Chinese Medicine: 江西中医药大学
+Jilin Institute of Chemical Technology: 吉林化工学院
+Jilin Jianzhu University: 吉林建筑大学
+Jingdezhen Ceramic Institute: 景德镇陶瓷学院
+Jining Medical University: 济宁医学院
+Jining University: 济宁学院
+Jishou University: 吉首大学
+JSS Academy of Higher Education & Research: JSS高等教育与研究学院
+Kafkas University: 卡夫卡斯大学
+Kahramanmaras Sutcu Imam University: 卡赫拉曼马拉什苏屈伊玛姆大学
+Kalasalingam Academy of Research & Education: 卡拉萨林加姆研究与教育学院
+Kalyani University: 加尔各答大学
+Kanagawa University: 神奈川大学
+Kanazawa Medical University: 金泽医科大学
+Kangnung Wonju National University: 江陵原州国立大学
+Kansai University: 关西大学
+Karabuk University: 卡拉布克大学
+Karnatak University: 卡纳塔克大学
+Karunya Institute of Technology & Sciences: 卡鲁尼亚科技学院
+Kastamonu University: 卡斯塔莫努大学
+Kawasaki Medical School: 川崎医科大学
+Keimyung University: 启明大学
+Kermanshah University of Technology: 克尔曼沙阿技术大学
+King George's Medical University: 乔治王医科大学
+King Mongkut's Institute of Technology Ladkrabang: 国王科技学院拉卡邦
+King Mongkuts University of Technology North Bangkok: 国王科技大学北曼谷
+King Mongkuts University of Technology Thonburi: 国王科技大学通布里
+Kirikkale University: 克里克拉尔大学
+Koneru Lakshmaiah Education Foundation (K L Deemed to be University): 科纳鲁拉克什马亚教育基金会（K L 视为大学）
+Kongju National University: 公州国立大学
+Kookmin University: 国民大学
+Korea Maritime & Ocean University: 韩国海事大学
+Korea National University of Transportation: 韩国交通大学
+Kumoh National University Technology: 金乌国立技术大学
+Kunsan National University: 群山国立大学
+Kurdistan University of Medical Sciences: 库尔德斯坦医科大学
+Kurukshetra University: 库鲁克谢特拉大学
+Kyonggi University: 庆熙大学
+Kyoto Institute of Technology: 京都工艺纤维大学
+Kyoto University of Education: 京都教育大学
+Lanzhou Jiaotong University: 兰州交通大学
+Liaoning Petrochemical University: 辽宁石化大学
+Liaoning Technical University: 辽宁工程技术大学
+Liaoning University of Technology: 辽宁科技大学
+Lorestan University of Medical Sciences: 洛雷斯坦医科大学
+Lucknow University: 拉克瑙大学
+Luoyang Normal University: 洛阳师范学院
+Madurai Kamaraj University: 马杜赖卡马拉大学
+Mae Fah Luang University: 湄发仑大学
+Maharaja Sayajirao University Baroda: 巴罗达马哈拉贾赛亚吉拉奥大学
+Mangalore University: 曼加罗尔大学
+Manisa Celal Bayar Universitesi: 马尼萨杰拉尔巴亚尔大学
+Mehmet Akif Ersoy University: 穆罕默德阿基夫厄尔索伊大学
+Meijo University: 名城大学
+Mimar Sinan Guzel Sanatlar University: 米马尔·锡南美术大学
+Ming Chi University of Technology: 明志科技大学
+Motilal Nehru National Institute of Technology: 莫蒂拉尔·尼赫鲁国立技术学院
+Mugla Sitki Kocman University: 穆拉西特科克曼大学
+Multimedia University: 多媒体大学
+Mustafa Kemal University: 穆斯塔法·凯末尔大学
+Myongji University: 明知大学
+Nagasaki Institute of Applied Science: 长崎应用科学大学
+Nanchang Hangkong University: 南昌航空大学
+Nanning Normal University: 南宁师范大学
+Nanyang Normal College: 南阳师范学院
+Nara Medical University: 奈良医科大学
+Nara Womens University: 奈良女子大学
+Naresuan University: 那黎宣大学
+National Changhua University of Education: 国立彰化师范大学
+National Chiayi University: 国立嘉义大学
+National Chin-Yi University of Technology: 国立勤益科技大学
+National Defense Medical Center: 国防医学院
+National Defense Medical College - Japan: 日本国防医学院
+National Institute of Technology Calicut: 卡利卡特国立理工学院
+National Institute of Technology Durgapur: 杜尔加普尔国立理工学院
+National Institute of Technology Hamirpur: 哈米尔布尔国立理工学院
+National Institute of Technology Kurukshetra: 库鲁克谢特拉国立理工学院
+National Institute of Technology Raipur: 拉伊普尔国立理工学院
+National Institute of Technology Warangal: 瓦朗加尔国立理工学院
+National Pingtung University Science & Technology: 国立屏东科技大学
+National Taipei University of Nursing & Health Science (NTUNHS): 国立台北护理健康大学
+Ned University of Engineering & Technology: 内德工程与技术大学
+Netaji Subhas University of Technology: 内塔吉·苏巴斯技术大学
+Nigde Omer Halisdemir University: 尼德·奥梅尔·哈利斯德米尔大学
+Ningbo University of Technology: 宁波工程学院
+Ningxia Medical University: 宁夏医科大学
+North China University of Technology: 华北理工大学
+North China University of Water Resources & Electric Power: 华北水利水电大学
+North Eastern Hill University: 东北丘陵大学
+North Sichuan Medical University: 川北医学院
+North University of China: 中北大学
+Ochanomizu University: 御茶水女子大学
+Oita University: 大分大学
+Osaka Medical & Pharmaceutical University: 大阪医科药科大学
+Pamukkale University: 帕姆卡莱大学
+Piri Reis University: 皮里雷斯大学
+PLA Information Engineering University: 解放军信息工程大学
+Prince Mohammad Bin Fahd University: 穆罕默德·本·法赫德国王大学
+Providence University - Taiwan: 静宜大学
+Public Authority for Applied Education & Training (PAAET) - Kuwait: 科威特应用教育与培训公共管理局
+Qazvin University of Medical Sciences (QUMS): 卡兹温医科大学
+Qinghai University: 青海大学
+Qiqihar University: 齐齐哈尔大学
+Recep Tayyip Erdogan University: 雷杰普·塔伊普·埃尔多安大学
+Reichman University: 雷克曼大学
+Rocket Force University of Engineering: 火箭军工程大学
+Sahand University of Technology: 沙赫德理工大学
+Saint Marianna University: 圣玛丽安娜大学
+Saitama Medical University: 埼玉医科大学
+Sapporo Medical University: 札幌医科大学
+Sathyabama Institute of Science & Technology: 萨蒂亚巴马科学与技术学院
+Semnan University of Medical Sciences: 赛姆南医科大学
+Seth Gordhandas Sunderdas Medical College & King Edward Memorial Hospital: 戈尔丹达斯·桑德达斯医学院和爱德华国王纪念医院
+Shaanxi University of Technology: 陕西理工大学
+Shahed University: 沙希德大学
+Shahid Rajaee Teacher Training University (SRTTU): 沙希德·拉贾伊师范大学
+Shahrekord University Medical Sciences: 沙赫雷库尔德医科大学
+Shandong Jianzhu University: 山东建筑大学
+Shandong Second Medical University: 山东第二医科大学
+Shandong University of Traditional Chinese Medicine: 山东中医药大学
+Shanghai Institute of Technology: 上海应用技术大学
+Shanghai University of Medicine & Health Sciences: 上海健康医学院
+Shangqiu Normal University: 商丘师范学院
+Shanxi Agricultural University: 山西农业大学
+Shanxi Medical University: 山西医科大学
+Shanxi Normal University: 山西师范大学
+Shenyang Aerospace University: 沈阳航空航天大学
+Shenyang Jianzhu University: 沈阳建筑大学
+Shenyang Normal University: 沈阳师范大学
+Shenyang University of Chemical Technology: 沈阳化工大学
+Shiga University of Medical Science: 滋贺医科大学
+Shihezi University: 石河子大学
+Shijiazhuang Tiedao University: 石家庄铁道大学
+Shivaji University: 希瓦吉大学
+Soonchunhyang University: 顺天乡大学
+Southwest Forestry University - China: 西南林业大学
+Sree Chitra Tirunal Institute for Medical Sciences Technology (SCTIMST): 斯里·奇特拉·蒂鲁纳尔医科技术学院
+SSN Engineering College: SSN工程学院
+Sukkur IBA University: 萨克尔IBA大学
+Sunchon National University: 顺天国立大学
+SVKM's NMIMS (Deemed to be University): SVKM的NMIMS（视为大学）
+Tezpur University: 泰兹浦尔大学
+Tianjin Chengjian University: 天津城建大学
+Tianjin University of Traditional Chinese Medicine: 天津中医药大学
+Tianjin University Science & Technology: 天津科技大学
+TOBB University of Economics and Technology: TOBB经济技术大学
+Tokyo Dental College: 东京齿科大学
+Tokyo University of Agriculture: 东京农工大学
+Tokyo University of Pharmacy & Life Sciences: 东京药科大学
+Tokyo Women's Medical University: 东京女子医科大学
+Toyohashi University of Technology: 丰桥技术科学大学
+Trakya University: 色雷斯大学
+Tzu Chi University: 慈济大学
+UCSI University: UCSI大学
+Universiti Malaysia Perlis: 马来西亚玻璃市大学
+Universiti Tenaga Nasional: 马来西亚国能大学
+University Kashan: 卡尚大学
+University of Aizu: 会津大学
+University of Birjand: 比尔詹德大学
+University of Engineering & Technology Peshawar: 白沙瓦工程技术大学
+University of Fukui: 福井大学
+University of Health Sciences Turkey: 土耳其健康科学大学
+University of Hyogo: 兵库大学
+University of Jammu: 查谟大学
+University of Karachi: 卡拉奇大学
+University of Kerala: 喀拉拉大学
+University of Kurdistan: 库尔德斯坦大学
+University of Maragheh: 马拉盖大学
+University of Mumbai: 孟买大学
+University of Shizuoka: 静冈大学
+University of Sistan & Baluchestan: 锡斯坦和俾路支大学
+University Zanjan: 贾赞大学
+Visvesvaraya National Institute of Technology, Nagpur: 纳格浦尔维斯维萨拉亚国家理工学院
+Wannan Medical College: 皖南医学院
+Wonkwang University: 圆光大学
+Xiamen University of Technology: 厦门理工学院
+Xi'an Medical University: 西安医学院
+Xi'an Polytechnic University: 西安工程大学
+Xi'an Shiyou University: 西安石油大学
+Xijing University: 西京大学
+Xinjiang Agricultural University: 新疆农业大学
+Xinjiang Medical University: 新疆医科大学
+Xinyang Normal University: 信阳师范学院
+Yanan University: 延安大学
+Yanbian University: 延边大学
+Yangtze Normal University: 长江师范学院
+Yangtze University: 长江大学
+Yildirim Beyazit University: 耶尔德勒姆·拜亚泽特大学
+Yuan Ze University: 元智大学
+Yunnan Agricultural University: 云南农业大学
+Yunnan Normal University: 云南师范大学
+Yuzuncu Yil University: 玉兹温丘·伊尔大学
+Zhejiang Chinese Medical University: 浙江中医药大学
+Zhongyuan University of Technology: 中原工学院
+Zonguldak Bulent Ecevit Universitesi: 宗古尔达克比伦特·埃杰维特大学
+Zunyi Medical University: 遵义医科大学
+King Mongkut's University of Technology Thonburi: 孟固国王科技大学通武里
+Manisa Celal Bayar Universitesi: 马尼萨切莱尔巴亚尔大学
+Sam Houston State University: 山姆休斯顿州立大学
+Sofia University "St. Kliment Ohridski": 索非亚大学“克里门特·奥赫里德斯基”
+SSN College of Engineering: SSN工程学院
+Tianjin University of Science & Technology: 天津科技大学
+TOBB University of Economics and Technology: TOBB经济技术大学
+UCSI University: UCSI大学
+Universidade Federal do Piauí: 皮奥伊联邦大学
+University of Kashan: 卡尚大学
+University of Massachusetts Dartmouth: 马萨诸塞大学达特茅斯分校
+University of the West of England: 西英格兰大学
+University of the West Indies at Mona, Jamaica: 牙买加莫纳西印度群岛大学
+GH Asachi Technical University: GH 阿萨基技术大学
+Guangxi Medical University: 广西医科大学
+King Mongkut's University of Technology North Bangkok: 孟固国王科技大学北曼谷分校
+King Mongkut's University of Technology Thonburi: 孟固国王科技大学通武里分校
+Manisa Celal Bayar Universitesi: 马尼萨切莱尔巴亚尔大学
+Sam Houston State University: 山姆休斯顿州立大学
+Sofia University "St. Kliment Ohridski": 索非亚大学“克里门特·奥赫里德斯基”
+SSN College of Engineering: SSN工程学院
+Tianjin University of Science & Technology: 天津科技大学
+TOBB University of Economics and Technology: TOBB经济技术大学
+UCSI University: UCSI大学
+Universidade Federal do Piauí: 皮奥伊联邦大学
+University of Kashan: 卡尚大学
+University of Massachusetts Dartmouth: 马萨诸塞大学达特茅斯分校
+University of the West of England: 西英格兰大学
+University of the West Indies at Mona, Jamaica: 牙买加莫纳西印度群岛大学
+IMT Atlantique: IMT大西洋学院
+Agricultural University Krakow: 克拉科夫农业大学
+Athens University of Economics & Business: 雅典经济与商业大学
+Barcelona School of Economics: 巴塞罗那经济学院
+Bauhaus-Universitat Weimar: 魏玛包豪斯大学
+Belgorod State University: 别尔哥罗德国立大学
+BI Norwegian Business School: 挪威商学院
+Bialystok University of Technology: 比亚韦斯托克理工大学
+Bydgoszcz University of Science & Technology: 比得哥什科技大学
+Central European University: 中欧大学
+Centre of Postgraduate Medical Education - Poland: 波兰研究生医学教育中心
+Dalarna University: 达拉那大学
+Dubna State University: 杜布纳国立大学
+Dunarea De Jos University Galati: 加拉茨下多瑙河大学
+Ecole Nationale Superieure de Chimie de Rennes (ENSCR): 雷恩国立高等化学学校
+Ecole Nationale Superieure de Mecanique et d'Aerotechnique (ISAE-ENSMA): 高等机械与航空技术学院
+Edge Hill University: 埃奇希尔大学
+emlyon business school: 里昂商学院
+ESCP Business School: 欧洲高等商学院
+ESSEC Business School: 高等经济商业学院
+Foro Italico University of Rome: 罗马意大利广场大学
+George Emil Palade University of Medicine, Pharmacy, Science, & Technology of Targu Mures: 乔治·埃米尔·帕拉德塔尔古穆列什医药科学与技术大学
+German Sport University Cologne: 科隆德国体育大学
+GH Asachi Technical University: 加西·阿萨基技术大学
+Grenoble Ecole Management: 格勒诺布尔管理学院
+Gubkin Russian State University of Oil & Gas: 俄罗斯古布金石油与天然气国立大学
+Guglielmo Marconi University: 古列尔莫·马可尼大学
+Hanken School of Economics: 赫尔辛基经济学院
+Harokopio University Athens: 哈罗科皮奥大学
+Hautes Etudes Commerciales (HEC) Paris: 巴黎高等商业研究学院
+Hellenic Open University: 希腊开放大学
+Hertie School: 赫尔蒂学院
+IESEG School of Management: IESEG管理学院
+IFP Energies Nouvelles: 法国新能源研究院
+IHE代尔夫特水教育学院: IHE Delft水教育学院
+IMT大西洋: IMT大西洋学院
+Inland Norway University of Applied Sciences: 挪威内陆应用科学大学
+Institut d'Etudes Politiques Paris (Sciences Po): 巴黎政治学院
+Institut National des Sciences Appliquees de Toulouse: 图卢兹国立应用科学学院
+IPAG Business School: IPAG商学院
+Ivan Franko National University Lviv: 利沃夫伊万·弗兰科国立大学
+Ivanovo State University of Chemistry & Technology: 伊万诺沃化学与技术国立大学
+Jan Kochanowski University: 扬·科哈诺夫斯基大学
+Kazan National Research Technological University: 喀山国立研究技术大学
+Kedge Business School: KEDGE商学院
+Kuban State University: 库班国立大学
+La Rochelle Universite: 拉罗谢尔大学
+Le Mans Universite: 勒芒大学
+Lithuanian University of Health Sciences: 立陶宛健康科学大学
+Lobachevsky University: 洛巴切夫斯基大学
+Luiss Guido Carli University: 卢伊斯·圭多·卡尔利大学
+Lviv Polytechnic National University: 利沃夫理工国立大学
+Medical University of Bialystok: 比亚韦斯托克医科大学
+Medical University of Lublin: 卢布林医科大学
+Mendeleev University of Chemical Technology of Russia: 俄罗斯门捷列夫化工大学
+Military University of Technology in Warsaw: 华沙军事技术大学
+MIREA - Russian Technological University: MIREA - 俄罗斯技术大学
+Montpellier Business School: 蒙彼利埃商学院
+Norwegian School of Economics (NHH): 挪威经济学院
+Norwegian School of Sport Sciences: 挪威体育科学学院
+Novosibirsk State Technical University: 新西伯利亚国立技术大学
+Obuda University: 欧布达大学
+Open University Netherlands: 荷兰开放大学
+Paris School of Economics: 巴黎经济学院
+Pavlov First Saint Petersburg State Medical University: 巴甫洛夫第一圣彼得堡国立医科大学
+Pirogov Russian National Research Medical University: 皮罗戈夫俄罗斯国立研究型医科大学
+Plekhanov Russian University of Economics: 普列汉诺夫俄罗斯经济大学
+Prague University of Economics & Business: 布拉格经济与商业大学
+Riga Stradins University: 里加斯特拉迪尼大学
+Saint Petersburg State Electrotechnical University: 圣彼得堡国立电工大学
+Saint Petersburg State Institute of Technology: 圣彼得堡国立技术学院
+Samara State Technical University: 萨马拉国立技术大学
+San Pablo CEU University: 圣巴勃罗CEU大学
+Saratov State University: 萨拉托夫国立大学
+SKEMA Business School: SKEMA商学院
+Slovak Medical University Bratislava: 斯洛伐克医科大学（布拉迪斯拉发）
+Slovak University of Agriculture Nitra: 斯洛伐克农业大学尼特拉
+Sodertorn University: 索德尔托恩大学
+Sofia University "St. Kliment Ohridski": 索非亚大学“克利门特·奥赫里德斯基”
+Solent University: 索伦特大学
+Stockholm School of Economics: 斯德哥尔摩经济学院
+SWPS University of Social Sciences & Humanities: SWPS社会科学与人文大学
+Technical University Czestochowa: 琴斯托霍瓦理工大学
+Technical University Kosice: 科希策技术大学
+Technical University of Crete: 克里特技术大学
+Technical University Zvolen: 兹沃伦技术大学
+Technische Universitat Chemnitz: 开姆尼茨工业大学
+Tomsk State Pedagogical University: 托木斯克国立师范大学
+Tomsk State University of Control Systems & Radioelectronics: 托木斯克国立控制系统与无线电电子大学
+Ufa University of Science & Technology: 乌法科技大学
+UHI Millennium Institute: UHI千年学院
+UNINETTUNO: 国际网络大学
+Universidad de Burgos: 布尔戈斯大学
+Universidad Internacional de La Rioja (UNIR): 拉里奥哈国际大学
+Universidade dos Acores: 亚速尔大学
+Universitats Herzzentrum Freiburg: 弗莱堡大学心脏中心
+Universite Centrale de Catalonia: 加泰罗尼亚中央大学
+Universite d'Artois: 阿图瓦大学
+Universite de Toulon: 土伦大学
+Universite du Littoral-Cote-d'Opale: 海岸-奥帕莱海岸大学
+Universite Jean Monnet: 让·莫奈大学
+University of Evora: 埃武拉大学
+University of Life Sciences in Lublin: 卢布林生命科学大学
+University of Medicine and Pharmacy Grigore T Popa Iasi: 雅西格里戈尔·T·波帕医药大学
+University of Montenegro: 黑山大学
+University of Pannonia: 潘诺尼亚大学
+University of Pardubice: 帕尔杜比采大学
+University of Primorska: 普里莫尔斯卡大学
+University of Silesia in Katowice: 卡托维兹西里西亚大学
+University of Tras-os-Montes & Alto Douro: 杜罗河上游和高地大学
+University of West Attica: 西阿提卡大学
+University of West England: 西英格兰大学
+V.N. Karazin Kharkiv National University: V.N.卡拉金哈尔科夫国立大学
+Victor Babes University of Medicine & Pharmacy, Timisoara: 蒂米什瓦拉维克多·巴贝什医药大学
+Wageningen University & Research: 瓦赫宁根大学与研究中心
+Warsaw University of Life Sciences: 华沙生命科学大学
+Weizmann Institute of Science: 魏茨曼科学研究所
+West University of Timisoara: 西蒂米什瓦拉大学
+Wroclaw University of Economics and Business: 弗罗茨瓦夫经济与商业大学
+Yaroslav-the-Wise Novgorod State University: 雅罗斯拉夫-智者诺夫哥罗德国立大学
+Yerevan State Medical University: 埃里温国立医科大学
+Yildiz Technical University: 耶尔德兹技术大学
+Zagreb School of Economics and Management: 萨格勒布经济与管理学院
+Zeppelin University: 齐柏林大学
+Zurich University of Applied Sciences: 苏黎世应用科学大学
+ABC联邦大学: Federal University of ABC
+Austral University: 南方大学
+Colegio de Postgraduados - Mexico: 墨西哥研究生院
+El Colegio de la Frontera Sur (ECOSUR): 南部边境学院
+Escuela Politecnica Nacional Ecuador: 厄瓜多尔国立理工学院
+Getulio Vargas Foundation: 瓦加斯基金会
+National University of Mar del Plata: 马德普拉塔国立大学
+Universidad Adolfo Ibanez: 阿道夫·伊瓦涅斯大学
+Universidad Antonio Narino: 安东尼奥·纳里诺大学
+Universidad Autonoma de Queretaro: 克雷塔罗自治大学
+Universidad Autonoma de Yucatan: 尤卡坦自治大学
+Universidad Autonoma del Estado de Hidalgo: 伊达尔戈州自治大学
+Universidad Autonoma del Estado de Morelos: 莫雷洛斯州自治大学
+Universidad Catolica del Maule: 毛莱天主教大学
+Universidad de Guanajuato: 瓜纳华托大学
+Universidad de la Costa: 海岸大学
+Universidad de La Serena: 拉塞雷纳大学
+Universidad de los Andes - Chile: 安第斯大学 - 智利
+Universidad de Sonora: 索诺拉大学
+Universidad del Bio-Bio: 比奥比奥大学
+Universidad del Valle: 瓦列大学
+Universidad Nacional de Tucuman: 图库曼国立大学
+Universidade de Pernambuco (UPE): 佩尔南布哥大学
+Universidade Estadual de Ponta Grossa: 庞塔格罗萨州立大学
+Universidade Estadual de Santa Cruz: 圣克鲁斯州立大学
+Universidade Estadual do Ceara: 塞阿拉州立大学
+Universidade Federal de Alfenas: 阿尔费纳斯联邦大学
+Universidade Federal de Ciencias da Saude de Porto Alegre: 阿雷格里港健康科学联邦大学
+Universidade Federal de Ouro Preto: 黑金联邦大学
+Universidade Federal do Maranhao: 马拉尼昂联邦大学
+Universidade Federal do Piaui: 皮奥伊联邦大学
+Universidade Federal Rural do Rio de Janeiro (UFRRJ): 里约热内卢联邦农村大学
+Universidade Federal Rural do Semi-Arido (UFERSA): 半干旱地区联邦农村大学
+University West Indies Mona Jamaica: 西印度群岛大学摩纳牙买加分校
+Egypt-Japan University of Science & Technology: 埃及-日本科技大学
+Hawassa University: 哈瓦萨大学
+Sultan Moulay Slimane University of Beni Mellal: 苏丹穆莱斯利曼大学
+University of Limpopo: 林波波大学
+
+城市：
+Santo Andre: 圣安德烈
+Delft: 代尔夫特
+Toulouse: 图卢兹
+Sofia: 索非亚
+Tamil Nadu: 泰米尔纳德邦
+Ankara: 安卡拉
+Cheras: 车拉斯
+Dartmouth: 达特茅斯
+Boone: 布恩
+Abomey-Calavi: 阿波美-卡拉维
+Aberdeen: 阿伯丁
+Turku: 图尔库
+Thuwal: 图沃勒
+Jeddah: 吉达
+Mardan: 马尔丹
+Adelaide: 阿德莱德
+Edmonton: 埃德蒙顿
+Ardabil: 阿尔达比勒
+Riyadh: 利雅得
+Maisons-Alfort: 梅桑-阿尔福尔
+Faro: 法鲁
+Madrid: 马德里
+Almeria: 阿尔梅里亚
+Coleraine: 科尔雷恩
+Esbo: 埃斯波
+Kristiansand S: 克里斯蒂安桑
+Agadir: 阿加迪尔
+Karachi: 卡拉奇
+Akron: 阿克伦
+Fayetteville: 费耶特维尔
+Little Rock: 小石城
+Birmingham (U.S.): 伯明翰（美国）
+Huntsville: 亨茨维尔
+Tuscaloosa: 塔斯卡卢萨
+Alexandria: 亚历山大
+Maceio: 马塞约
+Prayagraj: 普拉亚格拉吉
+Karaikudi: 卡赖库迪
+Fairbanks: 费尔班克斯
+Ari'el: 阿里尔
+Aligarh: 阿里格尔
+Alicante: 阿利坎特
+Al-Ain: 艾因
+Tehran: 德黑兰
+Coimbatore: 哥印拜陀
+Amsterdam: 阿姆斯特丹
+Tepebasi: 特佩巴西
+Tabriz: 大不里士
+Birmingham (U.K.): 伯明翰（英国）
+Sahara City: 撒哈拉城
+Erzurum: 埃尔祖鲁姆
+Ahvaz: 阿瓦士
+Aveiro: 阿威罗
+Avignon: 阿维尼翁
+Ajman: 阿治曼
+Joondalup: 琼德拉普
+Erlangen: 埃尔兰根
+Alicante: 阿利坎特
+Qena Governorate: 克纳省
+New Cairo 3: 新开罗3区
+Cairo: 开罗
+Exeter: 埃克塞特
+Yerevan: 埃里温
+Atlanta: 亚特兰大
+Colchester: 科尔切斯特
+Meselik Yerleskesi: 梅塞利克
+Merida: 梅里达
+Eindhoven: 埃因霍温
+Surabaya: 泗水
+Zaria: 扎里亚
+Marseille: 马赛
+Moscow (U.S.): 莫斯科（美国）
+Edinburgh: 爱丁堡
+Galway: 戈尔韦
+Dublin: 都柏林
+Iowa City: 爱荷华城
+Ames: 艾姆斯
+Izmir: 伊兹密尔
+Mytilene: 米蒂利尼
+Tartu: 塔尔图
+Matsuyama: 松山
+Orlando: 奥兰多
+Oshawa: 奥沙瓦
+Santiago: 圣地亚哥
+Antioquia: 安提奥基亚
+Cambridge (U.K.): 剑桥（英国）
+Hefei: 合肥
+Anhui: 安徽
+Ma'anshan: 马鞍山
+Huainan: 淮南
+Wuhu: 芜湖
+Chennai: 钦奈
+Antwerp: 安特卫普
+Antofagasta: 安托法加斯塔
+Angers: 昂热
+Ile-Ife: 伊费
+Auburn: 奥本
+Opole: 奥波莱
+Aalborg: 奥尔堡
+Orleans: 奥尔良
+Augsburg: 奥格斯堡
+Augusta: 奥古斯塔
+Aarhus: 奥胡斯
+Auckland: 奥克兰
+Rochester: 罗切斯特
+罗马尼亚: Romania
+Oulu: 奥卢
+Aachen: 亚琛
+Abadia: 阿巴迪亚
+Aberystwyth: 阿伯里斯特威斯
+Abha: 阿卜哈
+Abu Dhabi: 阿布扎比
+Adana: 阿达纳
+Addis Ababa: 亚的斯亚贝巴
+Al Ahsa: 艾哈萨
+Al Fayoum: 法尤姆
+Al Kharj: 哈尔季
+Al Majma'ah: 马杰马
+Al Sharafeyah: 沙拉菲亚
+Albany: 奥尔巴尼
+Albuquerque: 阿尔伯克基
+Aleja Papieża Jana Pawła: 教皇约翰保罗大道
+Algiers: 阿尔及尔
+Almaty: 阿拉木图
+Amherst: 阿默斯特
+Amiens: 亚眠
+Ancona: 安科纳
+Ann Arbor: 安娜堡
+Anshan: 鞍山
+Arcavacata di Rende: 伦德阿卡瓦卡塔
+Armidale: 阿米代尔
+As: 阿斯
+Athens (Georgia, U.S.): 雅典（美国乔治亚州）
+Athens (Greece): 雅典（希腊）
+Athens (Ohio, U.S.): 雅典（美国俄亥俄州）
+Aurora: 奥罗拉
+Babolsar: 巴博尔萨尔
+Bajhol: 巴霍尔
+Bandung: 万隆
+Bangi Selangor: 邦宜雪兰莪
+Baoding: 保定
+Bardhaman: 伯达曼
+Baton Rouge: 巴吞鲁日
+Batu Pahat: 峇株巴辖
+BP: 298: BP: 298
+Huntsville: 亨茨维尔
+London (Canada): 伦敦（加拿大）
+15030 Yakakoy/Burdur Merkez/Burdur: 15030 雅卡科伊/布尔杜尔市中心/布尔杜尔
+Adiyaman merkez: 阿迪亚曼市中心
+Afyonkarahisar: 阿菲永卡拉希萨尔
+Aizuwakamatsu: 会津若松
+Akita City: 秋田市
+Aksaray: 阿克萨赖
+Annamalai nagar: 安纳玛莱纳格尔
+Antakya/Hatay: 安塔基亚/哈塔伊
+Anyang: 安阳
+Arak: 阿拉克
+Asan: 牙山
+Aurangabad: 奥兰加巴德
+Aydin: 艾登
+Balıkesir: 巴勒克埃西尔
+Baotou: 包头
+Bengaluru: 班加罗尔
+Bengbu, Anhui: 蚌埠，安徽
+Bhopal: 博帕尔
+Bolu: 博卢
+Bor Yolu Uzeri 51240 Nigde Center/Nigde: Bor Yolu Uzeri 51240 尼代中心/尼代
+Can Tho city: 芹苴市
+Changhua City: 彰化市
+Changsha City: 长沙市
+Changwon: 昌原
+Chiang Rai: 清莱
+Chiayi City: 嘉义市
+Chungcheongnam-d: 忠清南道
+Cyberjaya: 赛城
+Dali: 大理
+Dharwad: 达尔瓦德
+Edirne: 艾迪尔内
+Erzincan merkez: 埃尔津詹市中心
+Esenyurt / İstanbul: 艾森尤特 / 伊斯坦布尔
+Eskisehir: 埃斯基谢希尔
+Finkikli: 芬克利克
+Fujian: 福建
+Fukui: 福井
+Fukushima City: 福岛市
+Gangneung: 江陵
+Ganzhou: 赣州
+Gorgan: 戈尔甘
+Guangdong Province: 广东省
+Gunsan: 群山
+Gyeongbuk: 庆北
+Gyeonggi-do: 京畿道
+Hainan: 海南
+Hamamatsu: 滨松
+Hamirpur: 哈米尔普尔
+Handan: 邯郸
+Hantai District: 邯台区
+Haryana: 哈里亚纳邦
+Henan: 河南
+Herzliya: 赫兹利亚
+Hirosaki: 弘前
+Howrah: 豪拉
+Hualien: 花莲
+Hubei: 湖北
+Hunan: 湖南
+Iksan: 益山
+Ilam: 伊拉姆
+Iruma: 入间市
+Jalandhar: 贾朗达尔
+Jammu Tawi: 查谟
+Jeollanam-do, Suncheon-si: 全罗南道，顺天市
+Jiangsu: 江苏
+Jingdezhen: 景德镇
+Jingzhou: 荆州
+Jinzhong: 晋中
+Jinzhou District: 金州区
+Jodhpur: 乔德普尔
+Kahoku: 加贺市
+Kapurthala: 卡普尔塔拉
+Karwar Jheepasani: 卡瓦尔吉帕萨尼
+Kashihara: 橿原
+Kastamonu: 卡斯塔莫努
+Kasugai-shi: 春日井市
+Kawasaki City: 川崎市
+Kılavuzlar/Karabük Merkez: 克拉武兹拉尔/卡拉比克市中心
+Klong Luang: 庵罗县
+Kolhapur: 科尔哈普尔
+Kozhikode: 科泽科德
+Krishnankoil Srivilliputhur: 克里希南科伊尔斯里维利普图尔
+Kukatpally: 库卡特帕利
+Kurashiki: 仓敷
+Kurukshetra: 古鲁格什特拉
+Lianyungang: 连云港
+Liaoning: 辽宁
+Liuzhou: 柳州
+Lorestan Province: 洛雷斯坦省
+Madurai: 马杜赖
+Malatya: 马拉蒂亚
+Mangaluru: 曼加罗尔
+Maragheh: 马拉盖
+Meghalaya: 梅加拉亚邦
+Menteşe/Muğla: 门特谢/穆拉
+Merkez: 中心
+merkez/Çanakkale: 中心/恰纳卡莱
+Mito: 水户
+Morioka: 盛冈市
+Mymensingh: 迈门辛
+Nagakute: 长久手市
+Nagpur: 那格浦尔
+Nanyang: 南阳
+Nara: 奈良
+New Taipei City: 新北市
+Nishinomiya: 西宫市
+Nomi: 野见市
+Oita City: 大分市
+Otsu: 大津
+Pamukkale: 帕穆克卡莱
+Patna: 巴特那
+Perlis: 玻璃市
+Phitsanulok: 彭世洛
+Pingtung: 屏东
+Qinghai: 青海
+Qiqihar: 齐齐哈尔
+Raipur: 莱布尔
+Sahir Kurutluoğlu: 萨希尔·库鲁图洛鲁
+Sanandaj: 塞南达季
+Shenghua: 盛华
+Shihezi: 石河子
+Shimotsugagun: 下都贺郡
+Shizuoka: 静冈
+Sindh: 信德省
+South Kalamassery: 南卡拉马塞里
+South Khorasan Province: 南呼罗珊省
+Sri Shivarathreeshwara Nagara Bannimantap: 斯里·希瓦拉特雷什瓦拉·纳加尔·班尼曼塔普
+Sur/Diyarbakır: 苏尔/迪亚巴克尔
+Tezpur Sonitpu: 特兹普尔
+Thiruvananthapuram: 提鲁瓦南塔普拉姆
+Tokorozawa: 所泽
+Toyohashi: 丰桥
+Türkiye: 土耳其
+Tuşba/Van: 图斯巴/凡城
+Ürümqi: 乌鲁木齐
+Uskudar: 乌斯屈达尔
+Vaddeswaram: 瓦德斯瓦拉姆
+Vadodara: 瓦多达拉
+Visakhapatnam: 维沙卡帕特南
+Vithura: 维图拉
+Wanghua: 望花
+Warangal: 瓦朗加尔
+Weifang: 潍坊
+West Bengal: 西孟加拉邦
+Xi'An City: 西安市
+Xiangyang: 襄阳
+Xinxiang: 新乡
+Xinyang: 信阳
+Yahşihan/Kırıkkale: 亚希汉/克里卡莱
+Yan'An: 延安
+Yanji: 延吉
+Yueyang: 岳阳
+Zahedan: 扎黑丹
+Zanjan: 赞詹
+Zhengzhou City: 郑州市
+Zunyi, Guizhou: 遵义，贵州
+6000 Koper: 6000 科佩尔
+76 Nitra-Chrenová: 76 尼特拉-克雷诺瓦
+Akrotiri: 阿克罗蒂里
+Arras: 阿拉斯
+Belgorod: 别尔哥罗德
+Bialystok: 比亚韦斯托克
+Burgos: 布尔戈斯
+Bydgoszcz: 比得哥什
+Calais: 加来
+Cergy: 塞尔吉
+Chasseneuil-du-Poitou: 沙斯讷伊尔-杜-普瓦图
+Chemnitz: 开姆尼茨
+Cologne: 科隆
+Czechia: 捷克
+Czestochowa: 琴斯托霍瓦
+Egaleo: 艾加莱奥
+Evora: 埃武拉
+Falun: 法伦
+Galați: 加拉茨
+Guy de Collongue: 盖·德·科隆日
+Heerlen: 海尔伦
+Huddinge: 胡丁厄
+Inverness IV2 3JH: 因弗内斯 IV2 3JH
+Ivanovo: 伊万诺沃
+Jouy-en-Josas: 茹伊昂若萨
+Kallithea: 卡利地亚
+Kharkiv: 哈尔科夫
+Kielce: 凯尔采
+Krasnodar Krai: 克拉斯诺达尔边疆区
+La Rochelle: 拉罗谢尔
+Le Mans: 勒芒
+Logroño: 洛格罗尼奥
+Lviv Oblast: 利沃夫州
+Moscow: 莫斯科
+Nizhny Novgorod: 下诺夫哥罗德
+Ormskirk: 奥姆斯柯克
+Pardubice: 帕尔杜比采
+Patra: 帕特雷
+Podgorica: 波德戈里察
+Ponta Delgada: 蓬塔
+Bayreuth: 拜罗伊特
+Bedford Park: 贝德福德公园
+Belem: 贝伦
+Belfort: 贝尔福
+Bellingham: 贝灵厄姆
+Belo Horizonte: 贝洛奥里藏特
+Belville: 贝尔维尔
+Benevento: 贝内文托
+Bentley: 本特利
+Bergamo: 贝尔加莫
+Berkeley: 伯克利
+Besançon: 贝桑松
+Bethesda: 贝塞斯达
+Bethlehem: 伯利恒
+Bhubaneswar: 布巴内斯瓦尔
+Bihar: 比哈尔
+Binghamton: 宾厄姆顿
+Olomouc: 奥洛穆茨
+Istanbul: 伊斯坦布尔
+Olso: 奥斯陆
+Hyderabad: 海得拉巴
+Osnabruck: 奥斯纳布吕克
+Ostrava: 奥斯特拉发
+Dunedin: 但尼丁
+Magdeburg: 马格德堡
+Oviedo: 奥维耶多
+Osijek: 奥西耶克
+Canberra: 堪培拉
+Mt. Helen: 海伦山
+Fremantle: 弗里曼特尔
+Melbourne (Australia): 墨尔本（澳大利亚）
+Taipa: 氹仔
+Seville: 塞维利亚
+Babol: 巴博尔
+Annaba: 安纳巴
+Baghdad: 巴格达
+Bahawalpur: 巴哈瓦尔布尔
+Multan: 木尔坦
+Bahir Dar: 巴赫达尔
+Istanbul: 伊斯坦布尔
+Nilore: 尼洛尔
+Islamabad: 伊斯兰堡
+Punjab: 旁遮普
+Curitiba: 库里提巴
+Tiruchirappalli: 提鲁吉拉伯利
+Palermo: 巴勒莫
+Salt: 索尔特
+Paris: 巴黎
+Villetaneuse: 维勒塔讷斯
+Creteil: 克雷泰伊
+Saint-Aubin: 圣奥班
+Marne-la-Vallee: 马恩拉瓦莱
+Bari: 巴里
+Palma de Mallorca: 帕尔马
+Valladolid: 巴利亚多利德
+Valencia: 瓦伦西亚
+Basel: 巴塞尔
+Barcelona: 巴塞罗那
+Bath: 巴斯
+Leioa: 莱奥亚
+Potenza: 波坦察
+Brasilia: 巴西利亚
+Ramat Gan: 拉马特甘
+Cruz Das Almas: 克鲁兹达斯阿尔马斯
+Minsk: 明斯克
+Peshawar: 白沙瓦
+Berlin: 柏林
+Bamberg: 班贝格
+Bangor: 班戈
+Benha: 班哈
+Robina: 罗比纳
+Montpellier: 蒙彼利埃
+Muncie: 芒西
+Bergen: 卑尔根
+Grand Forks: 大福克斯
+Fargo: 法戈
+Yinchuan: 银川
+Sapporo: 札幌
+Bodø: 博德
+Beijing: 北京
+Greensboro: 格林斯伯勒
+Raleigh: 罗利
+Natal: 纳塔尔
+Tokyo: 东京
+Flagstaff: 弗拉格斯塔夫
+Belfast: 贝尔法斯特
+Belgrade: 贝尔格莱德
+Houston: 休斯顿
+Beirut: 贝鲁特
+Beni Suef: 贝尼苏韦夫
+Puducherry: 本地治里
+Beer-Sheva: 贝尔谢巴
+Pilani: 皮拉尼
+Ranchi: 兰契
+Bielefeld: 比勒费尔德
+Pisa: 比萨
+Białystok: 比亚韦斯托克
+Temuco: 特木科
+Philadelphia: 费城
+University Park: 大学城
+Shandong: 山东
+Reykjavik: 雷克雅未克
+Potsdam (Germany): 波茨坦（德国）
+Bonn: 波恩
+Talence: 塔朗斯
+Porto: 波尔图
+Bolzano: 博尔扎诺
+Szczecin: 什切青
+Boston: 波士顿
+Chestnut Hill: 栗树山
+Portland: 波特兰
+Poznan: 波兹南
+Poole: 普尔
+Bern: 伯尔尼
+Recife: 累西腓
+Dijon: 第戎
+Waco: 韦科
+Bologna: 博洛尼亚
+Boise: 博伊西
+Yozgat: 尤兹加特
+Aachen: 亚琛
+Abadia: 阿巴迪亚
+Aberystwyth: 亚伯里斯特威斯
+Abha: 阿卜哈
+Abu Dhabi: 阿布扎比
+Adana: 阿达纳
+Addis Ababa: 亚的斯亚贝巴
+Al Ahsa: 艾哈萨
+Al Fayoum: 法尤姆
+Al Kharj: 哈尔吉
+Al Majma'ah: 马吉马
+Al Sharafeyah: 沙拉菲耶
+Albany: 奥尔巴尼
+Albuquerque: 阿尔伯克基
+Aleja Papieża Jana Pawła: 若望保罗二世大街
+Algiers: 阿尔及尔
+Almaty: 阿拉木图
+Amherst: 阿默斯特
+Amiens: 亚眠
+Ancona: 安科纳
+Ann Arbor: 安娜堡
+Anshan: 鞍山
+Arcavacata di Rende: 兰德卡瓦卡塔
+Armidale: 阿米代尔
+As: 阿斯
+Athens (Georgia, U.S.): 雅典（乔治亚州，美国）
+Athens (Greece): 雅典（希腊）
+Athens (Ohio, U.S.): 雅典（俄亥俄州，美国）
+Aurora: 奥罗拉
+Babolsar: 巴博尔萨尔
+Bajhol: 巴霍尔
+Bandung: 万隆
+Bangi Selangor: 邦吉雪兰莪
+Baoding: 保定
+Bardhaman: 伯德曼
+Baton Rouge: 巴吞鲁日
+Batu Pahat: 峇株巴辖
+Bayreuth: 拜罗伊特
+Bedford Park: 贝德福德公园
+Belem: 贝伦
+Belfort: 贝尔福
+Bellingham: 贝灵汉
+Belo Horizonte: 贝洛奥里藏特
+Belville: 贝尔维尔
+Benevento: 贝内文托
+Bentley: 本特利
+Bergamo: 贝尔加莫
+Berkeley: 伯克利
+Besançon: 贝桑松
+Bethesda: 贝塞斯达
+Bethlehem: 伯利恒
+Bhubaneswar: 布巴内斯瓦尔
+Bihar: 比哈尔
+BP: 298: BP: 298
+București: 布加勒斯特
+Florianópolis: 弗洛里亚诺波利斯
+Huntsville: 亨茨维尔
+Niigata: 新潟
+Quebec City: 魁北克市
+Quezon City: 奎松市
+Rzeszów: 热舒夫
+Tai'an: 泰安
+Binghamton: 宾厄姆顿
+Bingöl: 宾格尔
+Blacksburg: 布莱克斯堡
+Boca Raton: 博卡拉顿
+Bochum: 波鸿
+Bogor: 茂物
+Bogotá: 波哥大
+Bosnia & Herzegovina: 波斯尼亚和黑塞哥维那
+Boulder: 博尔德
+Bowling Green: 博林格林
+Bozeman: 博兹曼
+BP: 298: BP: 298
+Braga: 布拉加
+Alfenas: 阿尔费纳斯
+Barranquilla: 巴兰基亚
+Bio Bio: 比奥比奥
+Chamilpa: 查米尔帕
+Guanajuato: 瓜纳华托
+Hermosillo: 埃莫西约
+La Serena: 拉塞雷纳
+Maule: 毛勒
+Mérida: 梅里达
+Montecillo: 蒙特西略
+Ouro Preto: 黑金镇
+Pachuca: 帕丘卡
+Peñalolén: 佩尼亚洛伦
+Ponta Grossa: 大岬
+Salobrinho, Ilhéus: 萨洛布里尼奥，伊列乌斯
+San Cristobal de Las Casas: 圣克里斯托瓦尔-德拉斯卡萨斯
+San Miguel de Tucuman: 圣米格尔-德图库曼
+Santiago de Querétaro: 克雷塔罗圣地亚哥
+São Luís: 圣路易斯
+Hawassa: 阿瓦萨
+Seropedica: 塞罗佩迪卡
+Valle del Cauca: 考卡山谷
+L'vivs'ka oblast: 利沃夫州
+Puteaux: 普托
+Republic of Bashkortostan: 巴什科尔托斯坦共和国
+Rueil-Malmaison: 鲁埃-马尔迈松
+Saint-Etienne: 圣艾蒂安
+Samara Oblast: 萨马拉州
+Saratov: 萨拉托夫
+Târgu Mureș: 特尔古穆列什
+Tatarstan: 鞑靼斯坦
+Toulon: 土伦
+Vila Real: 维拉雷亚尔
+Weimar: 魏玛
+Zvolen: 兹沃伦
+Huntsville: 亨茨维尔
+Zrig Eddakhlania: 兹里格·埃德达克赫拉尼亚
+Yahşihan/Kırıkkale: 亚赫希汉/克勒卡雷
+Chiayi City: 嘉义市
+Brisbane: 布里斯班
+Polokwane: 波罗克瓦尼
+Zrig Eddakhlania: 兹里格·埃达克拉尼亚
+Brittany: 布列塔尼
+Brno: 布尔诺
+Brookings: 布鲁金斯
+Brooklyn: 布鲁克林
+Brunei: 文莱
+Bucaramanga: 布卡拉曼加
+Bucharest: 布加勒斯特
+Bucheon: 富川
+Buffalo: 布法罗
+Buraydah: 布赖代
+Burlington: 伯灵顿
+Burnaby: 本拿比
+Busan: 釜山
+Cadiz: 加的斯
+Caen: 卡昂
+Cagliari: 卡利亚里
+Calgary: 卡尔加里
+Callaghan: 卡拉汉
+Camerino: 卡梅里诺
+Campinas: 坎皮纳斯
+Campo Grande: 大坎普
+Campobasso: 坎波巴索
+Canterbury: 坎特伯雷
+Cape Coast: 开普海岸
+Cape Town: 开普敦
+Carbondale: 卡本代尔
+Cardiff: 加的夫
+Cartagena: 卡塔赫纳
+Casablanca: 卡萨布兰卡
+Caserta: 卡塞塔
+Cassino: 卡西诺
+Castellon: 卡斯特利翁
+Catania: 卡塔尼亚
+Catanzaro: 卡坦扎罗
+Cergy-Pontoise: 塞尔吉-蓬图瓦兹
+Ceske Budejovice: 捷克布杰约维采
+Chambery: 尚贝里
+Chapel Hill: 教堂山
+Charleston: 查尔斯顿
+Charlotte: 夏洛特
+Charlottesville: 夏洛茨维尔
+Chelyabins: 车里雅宾斯克
+Chengalpattu: 钦格尔普图
+Chiang Mai: 清迈
+Chiba-shi: 千叶市
+Chieti: 基耶蒂
+Chiyoda: 千代田
+Christchurch: 基督城
+Chuncheon: 春川
+Chuncheon-si: 春川市
+Cincinnati: 辛辛那提
+Claremont: 克莱蒙
+Clausthal-Zellerfeld: 克劳斯塔尔-采勒费尔德
+Clayton: 克莱顿
+Clemson: 克莱姆森
+Clermont-Ferrand: 克莱蒙费朗
+Cleveland: 克利夫兰
+Coimbra: 科英布拉
+College Park: 大学公园
+Colombo: 科伦坡
+Columbia: 哥伦比亚
+Columbus: 哥伦布
+Compiegne: 孔皮埃涅
+Concepcion: 康塞普西翁
+Coral Gables: 科勒尔盖布尔斯
+Cordoba (Argentina): 科尔多瓦（阿根廷）
+Cordoba (Spain): 科尔多瓦（西班牙）
+Cork: 科克
+Coruna: 科鲁尼亚
+Corvallis: 科瓦利斯
+Cottbus: 科特布斯
+Coventry: 考文垂
+Covilha: 科维良
+Craiova: 克拉约瓦
+Cranfield: 克兰菲尔德
+Crawley: 克劳利
+Culiacán: 库利亚坎
+Daegu: 大邱
+Damascus Hwy Zarqa: 大马士革高速公路 扎尔卡
+Darul Ehsan: 达鲁埃赫桑
+Darul Ridzuan: 达鲁里兹安
+Davis: 戴维斯
+Deagu: 大邱
+DeKalb: 德卡尔布
+Detroit: 底特律
+Dhahran: 达曼
+Dhodial: 迪迪亚尔
+Dolgoprudny: 多尔戈普鲁德内
+Dortmund: 多特蒙德
+Durham (New Hampshire, U.S.): 达勒姆（新罕布什尔州，美国）
+Durham (North Carolina, U.S.): 达勒姆（北卡罗来纳州，美国）
+Durham (U.K.): 达勒姆（英国）
+East Lansing: 东兰辛
+East Lismore: 东利斯莫尔
+Ecully: 埃库利
+Egham: 埃格姆
+Ekaterinburg: 叶卡捷琳堡
+El Salam City: 和平城
+Elazig: 埃拉泽
+Elsene: 伊克塞尔
+Enschede: 恩斯赫德
+Esch-sur-Alzette: 埃施苏尔阿尔泽特
+Essen: 埃森
+Eugene: 尤金
+Evanston: 埃文斯顿
+Fairfax: 费尔法克斯
+Faisalabad: 费萨拉巴德
+Ferrara: 费拉拉
+Fes-Menkes: 菲斯-梅克内斯
+Fife: 法夫
+Fisciano: 菲斯奇亚诺
+Florence: 佛罗伦萨
+Florianopolis: 弗洛里亚诺波利斯
+Foggia: 福贾
+Fontainebleau: 枫丹白露
+Footscray: 富茨克雷
+Fort Collins: 科林斯堡
+Fortaleza: 福塔雷萨
+Foshan: 佛山
+Fredericton: 弗雷德里顿
+Freiberg: 弗赖贝格
+Fresno: 弗雷斯诺
+Fribourg: 弗里堡
+Ft. Lauderdale: 劳德代尔堡
+Fukuoka: 福冈
+Fullerton: 富勒顿
+Gainesville: 盖恩斯维尔
+Gaziantep: 加济安泰普
+Gdańsk: 格但斯克
+Genoa: 热那亚
+Giessen: 吉森
+Gifu: 岐阜
+Hatfied (South Africa): 哈特菲尔德（南非）
+Hatfield (U.K.): 哈特菲尔德（英国）
+Hattiesburg: 哈蒂斯堡
+Hawthorn: 霍桑
+Hay Moulay Rachid Ben Guerir: 穆莱·拉希德·本·盖里尔
+Hayama: 叶山
+Hengyang: 衡阳
+Higashiosaka: 东大阪
+Hobart: 霍巴特
+Hoboken: 霍博肯
+Honolulu: 檀香山
+Houghton: 霍顿
+Hradec Kralove: 赫拉德茨-克拉洛韦
+Huaian: 淮安
+Huai'an: 淮安
+Huaibei: 淮北
+Huangshi: 黄石
+Hue City: 顺化市
+Huelva: 韦尔瓦
+Hull: 赫尔
+Huntsville: 亨茨维尔
+Huzhou: 湖州
+Iasi: 雅西
+Ikoma: 生驹
+Incheon: 仁川
+Irvine: 欧文
+Ismailia: 伊斯梅利亚
+Isparta: 伊斯帕尔塔
+Ithaca: 伊萨卡
+Jaipur: 斋浦尔
+Jazan: 贾赞
+Jeju: 济州
+Jeonju: 全州
+Jiangxi: 江西
+Jiaozuo: 焦作
+Jiaxing: 嘉兴
+Jiiangmen City: 江门市
+Jimma: 吉马
+Jinju City: 晋州市
+Jinzhou: 锦州
+Joao Pessoa: 若昂佩索阿
+Johnson City: 约翰逊城
+Johor: 柔佛
+Juiz de Fora: 茹伊斯迪福拉
+Kabupaten Sumedang: 蘇門答臘縣
+Kafr el-sheikh: 凯夫谢赫
+Kagoshima: 鹿儿岛
+Kaifeng: 开封
+Kaiserslautern: 凯泽斯劳滕
+Kalamazoo: 卡拉马祖
+Kampala: 坎帕拉
+Kampar: 金宝
+Kanazawa: 金泽
+Kansas City (Missouri, U.S.): 堪萨斯城（密苏里州，美国）
+Karaman: 卡拉曼
+Karlsruhe: 卡尔斯鲁厄
+Karlstad: 卡尔斯塔德
+Kashan: 卡尚
+Kassel: 卡塞尔
+Katowice: 卡托维兹
+Kaunas: 考纳斯
+Kauno m. sav.: 考纳斯
+Kayseri: 开塞利
+Kazan: 喀山
+Kenitra: 肯尼特拉
+Kensington: 肯辛顿
+Kent: 肯特
+Kerala: 喀拉拉邦
+Kermanshah: 克尔曼沙赫
+Khartoum: 喀土穆
+Khon Kaen: 孔敬
+Khorramabad: 霍拉马巴德
+Kiel: 基尔
+Kigali: 基加利
+Kingston (Canada): 金斯敦（加拿大）
+Kingston (U.S.): 金斯敦（美国）
+Kingston 7: 金斯敦7区
+Kingston upon Thames: 泰晤士河畔金斯敦
+Kirtipur: 基尔蒂普尔
+Knoxville: 诺克斯维尔
+Kobe: 神户
+Kofu: 甲府
+Koln: 科隆
+Komotini: 科莫蒂尼
+Kongsberg: 孔斯贝格
+Konstanz: 康斯坦茨
+Kosice: 科希策
+Kota Kinabalu: 亚庇
+Kowloon: 九龙
+Kragujevac: 克拉古耶瓦茨
+Krakow: 克拉科夫
+Krasnoyarsk: 克拉斯诺亚尔斯克
+Kuala Lumpur: 吉隆坡
+Kumamoto: 熊本
+Kumasi: 库马西
+Kunigami: 国头
+Kurume: 久留米
+Kuwait City: 科威特城
+Kyiv: 基辅
+Kyoto: 京都
+La Jolla: 拉霍亚
+La Laguna: 拉古纳
+Lafayette: 拉法叶
+Lagos: 拉各斯
+Lahore: 拉合尔
+Lancaster: 兰开斯特
+Lappeenranta: 拉彭兰塔
+L'Aquila: 拉奎拉
+Laramie: 拉勒米
+Las Condes: 拉斯孔德斯
+Las Cruces: 拉斯克鲁塞斯
+Las Vegas: 拉斯维加斯
+Lausanne: 洛桑
+Lavras: 拉夫拉斯
+Lawrence: 劳伦斯
+Lecce: 莱切
+Leeds: 利兹
+Legon: 莱贡
+Leiden: 莱顿
+Leipzig: 莱比锡
+Leoben: 莱奥本
+Leon: 莱昂
+Lethbridge: 莱斯布里奇
+Leuven: 鲁汶
+Lexington: 列克星敦
+Liaocheng: 聊城
+Liberec 1: 利贝雷茨1区
+Liege: 列日
+Lille: 里尔
+Lima: 利马
+Limassol: 利马索尔
+Limerick: 利默里克
+Limoges: 利摩日
+Lincoln (New Zealand): 林肯（新西兰）
+Lincoln (U.K.): 林肯（英国）
+Lincoln (U.S.): 林肯（美国）
+Linkoping: 林雪平
+Linyi: 临沂
+Lisboa: 里斯本
+Lisbon: 里斯本
+Liverpool: 利物浦
+Ljubljana: 卢布尔雅那
+Lleida: 莱里达
+Lodz: 罗兹
+Logrono: 洛格罗尼奥
+Loma Linda: 洛马林达
+London: 伦敦
+Londrina: 隆德里纳
+Long Beach: 长滩
+Loughborough: 拉夫堡
+Louisville: 路易斯维尔
+Louvain-la-Neuve: 鲁汶拉讷沃
+Lowell: 洛厄尔
+Lubeck: 吕贝克
+Lublin: 卢布林
+Lucknow: 拉克瑙
+Ludhiana: 卢迪亚纳
+Lulea: 吕勒奥
+Lund: 隆德
+Luneburg: 吕讷堡
+Luoyang: 洛阳
+Luzhou: 泸州
+Lyon: 里昂
+Maastricht: 马斯特里赫特
+Madison: 麦迪逊
+Maebashi: 前桥
+Mahshad: 马什哈德
+Mainz: 美因茨
+Makkah: 麦加
+Malaga: 马拉加
+Malmo: 马尔默
+Manaus: 马瑙斯
+Manchester: 曼彻斯特
+Mangalore: 曼加罗尔
+Manhattan: 曼哈顿
+Manila: 马尼拉
+Manipal: 马尼帕尔
+Manisa: 马尼萨
+Mannheim: 曼海姆
+Manouba: 马努巴
+Mansoura: 曼苏拉
+Maracana: 马拉卡纳
+Marburg: 马尔堡
+Marcy-l'Etoile: 埃托勒村
+Maribor: 马里博尔
+Maringa: 马林加
+Marrakech: 马拉喀什
+Mashhad: 马什哈德
+Mato Grosso: 马托格罗索
+Matsumoto: 松本
+Maynooth: 梅努斯
+Mayur Vihar: 马尤尔维哈尔
+Medford: 梅德福
+Medina: 麦地那
+Mekelle: 梅克莱
+Melbourne (U.S.): 墨尔本（美国）
+Memphis: 孟菲斯
+Mendoza: 门多萨
+Meram: 梅拉姆
+Merced: 梅塞德
+Mersin: 梅尔辛
+Messina: 墨西拿
+Mexicali: 墨西卡利
+Mexico City: 墨西哥城
+Miami: 迈阿密
+Mianyang: 绵阳
+Middlesbrough: 米德尔斯堡
+Milan: 米兰
+Milwaukee: 密尔沃基
+Minato City: 港区
+Minneapolis: 明尼阿波利斯
+Minya: 明亚
+Mississippi State: 密西西比州立大学
+Missoula: 米苏拉
+Mobile: 莫比尔
+Modena: 摩德纳
+Monastir: 莫纳斯提尔
+Mons: 蒙斯
+Montclair: 蒙特克莱尔
+Monterrey: 蒙特雷
+Montevideo: 蒙得维的亚
+Mont-Saint-Aignan: 蒙圣艾尼昂
+Morelia: 莫雷利亚
+Morgantown: 摩根敦
+Msida: 姆西达
+Mulhouse: 米卢斯
+Munich: 慕尼黑
+Munster: 明斯特
+Murcia: 穆尔西亚
+Murdoch: 默多克
+Muscat: 马斯喀特
+Nablus: 纳布卢斯
+Nagoya: 名古屋
+Nairobi: 内罗
+Gimhae-si: 金海市
+Giresun: 吉雷松
+Girona: 赫罗纳
+Giza: 吉萨
+Glassboro: 格拉斯伯勒
+Gliwice: 格利维采
+Godollo: 戈多洛
+Golden: 戈尔登
+Gorukle: 戈吕克勒
+Grahamstown: 格拉罕姆镇
+Greenville: 格林维尔
+Gulou: 鼓楼
+Ha'il: 哈伊勒
+Halle: 哈雷
+Hamadan Province: 哈马丹省
+Hamburg: 汉堡
+Hamilton: 汉密尔顿
+Hannover: 汉诺威
+Hanoi: 河内
+Harare: 哈拉雷
+Hasselt: 哈瑟尔特
+
+Bremen: 不来梅
+Hamedan: 哈马丹
+Budapest: 布达佩斯
+Bradford: 布拉德福德
+Bratislava: 布拉迪斯拉发
+Braganca: 布拉干萨
+Brasov: 布拉索夫
+Brighton: 布莱顿
+Waltham: 沃尔瑟姆
+Providence: 普罗维登斯
+Brescia: 布雷西亚
+Bristol: 布里斯托尔
+Uxbridge: 阿克斯布里奇
+Brussels: 布鲁塞尔
+Braunschweig: 布伦瑞克
+Buenos Aires: 布宜诺斯艾利斯
+Gothenburg: 哥德堡
+Casuarina: 卡苏阿里纳
+Wagga Wagga: 瓦加瓦加
+Orange: 奥兰治
+Chandigarh: 昌迪加尔
+Chengdu: 成都
+Seoul: 首尔
+Pretoria: 比勒陀利亚
+Halifax: 哈利法克
+Dakar: 达喀尔
+Dhaka: 达卡
+Damanhour: 达曼胡尔
+Kafr Saad: 卡夫尔萨阿德
+Darmstadt: 达姆施塔特
+Hanover: 汉诺威
+Suita: 吹田
+Osaka: 大阪
+Las Palmas de Gran Canaria: 大加那利岛拉斯帕尔马斯
+Campina Granda: 大坎皮纳
+Dalian: 大连
+Dayton: 代顿
+Denver: 丹佛
+Kongens Lyngby: 京根斯吕堡
+Taipei: 台北
+Matsue: 松江
+Austin: 奥斯汀
+Tétouan: 得土安
+Durban: 德班
+Chicago: 芝加哥
+Derby: 德比
+Debrecen: 德布勒森
+Tokushima: 德岛
+Tehran: 德黑兰
+Arlington: 阿灵顿
+El Paso: 埃尔帕索
+Denton: 登顿
+Edinburg: 爱丁堡
+Galveston: 加尔维斯顿
+Fort Worth: 沃斯堡
+Lubbock: 拉伯克
+Philadelphia: 费城
+Dresden: 德累斯顿
+New Delhi: 新德里
+Delhi: 德里
+Leicester: 莱斯特
+Bilbo Bizkaia: 比尔巴鄂比斯开
+Richardson: 理查森
+San Antonio: 圣安东尼奥
+Houston: 休斯顿
+San Antonio: 圣安东尼奥
+Dallas: 达拉斯
+College Station: 学院站
+San Marcos: 圣马科斯
+Antalya: 安塔利亚
+Trieste: 的里雅斯特
+Dundee: 邓迪
+Danang: 岘港
+Burwood: 柏伍德
+London (U.K.): 伦敦（英国）
+Tokyo: 东京
+Moscow (Russia): 莫斯科（俄罗斯）
+Tilburg: 蒂尔堡
+Timisoara: 蒂米什瓦拉
+Santiago: 圣地亚哥
+Norwich: 诺里奇
+Boston: 波士顿
+Sendai: 仙台
+Shenyang: 沈阳
+Jilin City: 吉林市
+Harbin: 哈尔滨
+Changchun: 长春
+Daqing: 大庆
+Famagusta: 法马古斯塔
+Joensuu: 约恩苏
+Norfolk: 诺福克
+Dongguan: 东莞
+Seoul: 首尔
+Hiratsuka: 平冢
+Taichung City: 台中市
+Shanghai: 上海
+Toyama: 富山
+Yogyakarta: 日惹
+Seongnam: 城南
+Rawalpindi: 拉瓦尔品第
+Gondar: 贡德尔
+Okayama City: 冈山市
+Montreal: 蒙特利尔
+Guwahai: 古瓦哈提
+Kerman: 克尔曼
+Seoul: 首尔
+Kaohsiung City: 高雄市
+Kochi: 高知
+Goiania: 戈亚尼亚
+Copenhagen: 哥本哈根
+Frederiksberg: 腓特烈斯贝
+Gothenburg: 哥德堡
+Bogota: 波哥大
+Atlantico: 大西洋
+Talca: 塔尔卡
+Tallahassee: 塔拉哈西
+Tallinn: 塔林
+Tampa: 坦帕
+Tampere: 坦佩雷
+Tangshen: 唐山
+Tanta: 坦塔
+Taq-e Bostan: 塔克博斯坦
+Tarapaca: 塔拉帕卡
+Tarragona: 塔拉戈纳
+Taxila: 塔克西拉
+Tel Aviv: 特拉维夫
+Tempe: 坦佩
+Terengganu: 登嘉楼
+Teresina: 特雷西纳
+Thanjavur: 坦贾武尔
+Thessaloniki: 塞萨洛尼基
+Thunder Bay: 雷湾
+Tokat: 托卡特
+Toledo: 托莱多
+Tomsk: 汤姆斯克
+Toowoomba: 图文巴
+Torun: 托伦
+Tottori City: 鸟取市
+Tours: 图尔
+Toyoake: 丰明市
+Trento: 特伦托
+Trier: 特里尔
+Trois-Rivières: 三河市
+Tromso: 特罗姆瑟
+Trondheim: 特隆赫姆
+Troy: 特洛伊
+Tsu: 津市
+Tubingen: 图宾根
+Tucson: 图森
+Tulsa: 塔尔萨
+Tunis: 突尼斯
+Turin: 都灵
+Tuzla: 图兹拉
+Uberlandia: 乌贝兰迪亚
+Udine: 乌迪内
+Ulm: 乌尔姆
+Ulsan: 蔚山
+Ultimo: 阿尔蒂莫
+Umuttepe Yerleskesi: 乌姆特佩校区
+University: 大学城
+Uppsala: 乌普萨拉
+Urbino: 乌尔比诺
+Urmia: 乌尔米耶
+Utrecht: 乌得勒支
+Valenciennes: 瓦朗谢讷
+Valhalla: 瓦尔哈拉
+Valparaiso: 瓦尔帕莱索
+Västerås: 韦斯特罗斯
+Vaxjo: 韦克舍
+Vellore: 韦洛尔
+Venice: 威尼斯
+Vercelli: 韦尔切利
+Vermillion: 佛蒙
+Verona: 维罗纳
+Via Renato Balzarini: 雷纳托巴尔扎里尼街
+Vicosa: 维科萨
+Victoria: 维多利亚
+Vienna: 维也纳
+Vigo: 维戈
+Villanova: 维拉诺瓦
+Villeneuve d'Ascq: 维尔讷夫达斯克
+Villeurbanne: 维勒班
+Vilnius: 维尔纽斯
+Viterbo: 维泰博
+Vitoria: 维多利亚
+Volos: 沃洛斯
+Wageningen: 瓦赫宁根
+Wakayama: 和歌山
+Washington, D.C.: 华盛顿特区
+Waterloo: 滑铁卢
+Wellington: 惠灵顿
+West Lafayette: 西拉法叶
+Williamsburg: 威廉斯堡
+Windsor: 温莎
+Winnipeg: 温尼伯
+Winston-Salem: 温斯顿塞勒姆
+Winterthur: 温特图尔
+Witten: 魏滕
+Wolverhampton: 伍尔弗汉普顿
+Worcester: 伍斯特
+Wroclaw: 弗罗茨瓦夫
+Wuppertal: 伍珀塔尔
+Wurzburg: 维尔茨堡
+Xalapa: 哈拉帕
+Xi’an: 西安
+Xiangtan: 湘潭
+Xinjiang: 新疆
+Xinxiang: 新乡
+Yaan: 雅安
+Yamagata: 山形
+Yamaguchi City: 山口市
+Yaounde: 雅温得
+Yeonsu-gu: 延寿区
+Yokohama: 横滨
+Yongin: 龙仁
+Yörük: 约鲁克
+Yozgat Merkez/Yozgat: 尤兹加特中心/尤兹加特
+Zagreb: 萨格勒布
+Zaragoza: 萨拉戈萨
+Zhenjiang: 镇江
+Zhuzhou: 株洲
+Zibo: 淄博
+Zielona Góra: 绿山城
+Zigong: 自贡
+Zlín: 兹林
+Zomba: 宗巴
+Zurich: 苏黎世
+Nakhon Ratchasima: 那空叻差是玛
+Namur: 那慕尔
+Nanchang: 南昌
+Nanchang: 南昌
+Nanchong: 南充
+Nancy: 南锡
+Nankai: 南开
+Nantes: 南特
+Nantong: 南通
+Naples: 那不勒斯
+Nashville: 纳什维尔
+Nasir City: 纳赛尔市
+Natal/RN: 纳塔尔/RN
+Neubiberg: 新比堡
+Neuchatel: 纳沙泰尔
+Neuquen: 内乌肯
+New Orleans: 新奥尔良
+Newark: 纽瓦克
+Newcastle upon Tyne: 泰恩河畔纽卡斯尔
+Nice: 尼斯
+Nicosia: 尼科西亚
+Nijmegen: 奈梅亨
+Ningbo: 宁波
+Nis: 尼什
+Nishihara: 西原
+Niteroi: 尼泰罗伊
+Noida: 诺伊达
+Norman: 诺曼
+North Ryde: 北莱德
+Northridge: 诺斯里奇
+Notre Dame: 圣母
+Nottingham: 诺丁汉
+Novi Sad: 诺维萨德
+Novosibirsk: 新西伯利亚
+Nsukka: 恩苏卡
+Nur-Sultan: 努尔苏丹
+Odense: 欧登塞
+Oklahoma City: 俄克拉荷马城
+Oldenburg: 奥尔登堡
+Olsztyn: 奥尔什丁
+Omaha: 奥马哈
+Orebro: 厄勒布鲁
+Orono: 奥罗诺
+Ortahisar: 奥尔塔希萨尔
+Ostrava - Poruba: 奥斯特拉发-波鲁巴
+Ottawa: 渥太华
+Oujda: 乌季达
+Oxford: 牛津
+Paderborn: 帕德博恩
+Padua: 帕多瓦
+Pahang: 彭亨
+Palmerston North: 北帕默斯顿
+Pamplona: 潘普洛纳
+Parkville: 帕克维尔
+Parma: 帕尔马
+Pasadena: 帕萨迪纳
+Patiala: 帕蒂亚拉
+Pavia: 帕维亚
+Pecs: 佩奇
+Pelotas: 佩洛塔斯
+Penang: 槟城
+Penrith: 彭里斯
+Peradeniya: 佩拉德尼亚
+Perpignan: 佩皮尼昂
+Perugia: 佩鲁贾
+Petaling Jaya: 八打灵再也
+Peterborough: 彼得伯勒
+Phagwara: 法格瓦拉
+Phoenix: 凤凰城
+Pilsen: 比尔森
+Piscataway Township: 皮斯卡特维镇
+Pitampura: 皮坦普拉
+Pittsburgh: 匹兹堡
+Plymouth: 普利茅斯
+Pocheon: 抱川
+Pohang: 浦项
+Poitiers: 普瓦捷
+Pok Fu Lam: 薄扶林
+Pontypridd: 庞蒂普里德
+Port Elizabeth: 伊丽莎白港
+Port Said Governorate: 塞得港省
+Porto Alegre: 阿雷格里港
+Portsmouth: 朴茨茅斯
+Potchefstroom: 波切夫斯特鲁姆
+Potsdam (U.S.): 波茨坦（美国）
+Prague: 布拉格
+Prem Nagar: 普雷姆纳加尔
+Princeton: 普林斯顿
+Pudong: 浦东
+Puebla: 普埃布拉
+Pullman: 普尔曼
+Pune: 浦那
+Pyrenees-Atlantiques: 比利牛斯-大西洋省
+Qazvin: 卡兹文
+Quebec: 魁北克
+Qufu: 曲阜
+Quito: 基多
+Rabat: 拉巴特
+Rajshahi: 拉杰沙希
+Rasht: 拉什特
+Reading: 雷丁
+Real: 雷亚尔
+Regensburg: 雷根斯堡
+Reggio Calabria: 雷焦卡拉布里亚
+Regina: 里贾纳
+Rehovot: 雷霍沃特
+Reims: 兰斯
+Rennes: 雷恩
+Reno: 雷诺
+Rethymnon: 雷西姆农
+Richmond: 里士满
+Riga: 里加
+Rijeka: 里耶卡
+Rio Achaia: 里约阿恰亚
+Rio de Janeiro: 里约热内卢
+Rio Grande: 大河
+Riverside: 河滨
+Rolla: 罗拉
+Rome: 罗马
+Roskilde: 罗斯基勒
+Rostock: 罗斯托克
+Rostov-on-Don: 顿河畔罗斯托夫
+Rotterdam: 鹿特丹
+Rourkela: 鲁尔凯拉
+Rzeszow: 热舒夫
+Saarbrucken: 萨尔布吕肯
+Sacramento: 萨克拉门托
+Saint-Denis: 圣但尼
+Saitama City: 埼玉市
+Salamanca: 萨拉曼卡
+Salaya: 萨拉亚
+Salford: 索尔福德
+Salzburg: 萨尔茨堡
+Samara: 萨马拉
+Samsun: 萨姆松
+San Diego: 圣迭戈
+San Francisco: 旧金山
+San Jose: 圣何塞
+San Luis Obispo: 圣路易斯-奥比斯波
+San Pedro Montes de Oca: 圣佩德罗-蒙特斯德奥卡
+Şanlıurfa: 尚勒乌尔法
+Santa Barbara: 圣巴巴拉
+Santa Cruz: 圣克鲁斯
+Santa Fe: 圣菲
+Santa Maria: 圣玛丽亚
+Santander: 桑坦德
+Santiago de Compostela: 圣地亚哥-德孔波斯特拉
+Santiniketan: 桑提尼克坦
+Sao Carlos: 圣卡洛斯
+Sao Cristovao: 圣克里斯托旺
+Sao Joao del-Rei: 圣若昂-德尔雷伊
+Sao Paulo: 圣保罗
+Sari: 萨里
+SAS 纳加尔: SAS 纳加尔
+Saskatoon: 萨斯卡通
+Sassari: 萨萨里
+Seattle: 西雅图
+Selangor: 雪兰莪
+Selcuklu-Konya: 塞尔丘克-科尼亚
+Semnan: 塞姆南
+Serdang: 沙登
+Serdivan: 塞尔迪万
+Setif: 塞蒂夫
+Sfax: 斯法克斯
+Shaanxi: 陕西
+Shahrekord: 沙赫雷库尔德
+Shahrood: 沙赫鲁德
+Shantou: 汕头
+Shaoxing: 绍兴
+Shapingba: 沙坪坝
+Sharjah: 沙迦
+Sharjah University City: 沙迦大学城
+Shatin: 沙田
+Shebin El Koum: 谢宾库姆
+Sheffield: 谢菲尔德
+Shenzhen Guangdong: 深圳广东
+Shiraz: 设拉子
+Shreveport: 什里夫波特
+Sichuan, Chengdu: 四川，成都
+Sidi Bel Abbes: 西迪贝勒阿贝斯
+Siegen: 锡根
+Siena: 锡耶纳
+Silchar: 锡尔杰尔
+Sinop: 锡诺普
+Siping: 四平
+Skopje: 斯科普里
+Songkhla: 宋卡
+Sousse: 苏塞
+Southampton: 南安普敦
+Split: 斯普利特
+Srinagar: 斯利那加
+St. Gallen: 圣加仑
+St. John's: 圣约翰
+St. Louis: 圣路易斯
+St. Petersburg: 圣彼得堡
+Staffordshire: 斯塔福德郡
+Stanford: 斯坦福
+Staten Island: 斯塔滕岛
+Statesboro: 斯泰茨伯勒
+Stavanger: 斯塔万格
+Stellenbosch: 斯泰伦博斯
+Stillwater: 斯蒂尔沃特
+Stirling: 斯特灵
+Stockholm: 斯德哥尔摩
+Stony Brook: 斯托尼布鲁克
+Storrs: 斯托斯
+Strasbourg: 斯特拉斯堡
+Stuttgart: 斯图加特
+Sudbury: 萨德伯里
+Sulaimani: 苏莱曼尼亚
+Sundsvall: 松兹瓦尔
+Surat: 苏拉特
+Surrey: 萨里
+Suruga-ku, Shizuoka City: 清水区，静冈市
+Swansea: 斯旺西
+Sydney: 悉尼
+Syracuse: 锡拉丘兹
+Szeged: 塞格德
+Tabuk: 塔布克
+Tai Po: 大埔
+Taian: 泰安
+Taif: 泰夫
+Taiyuan: 太原
+Taizhou: 台州
+Takamatsu: 高松
+Talca: 塔
+New York City: 纽约市
+Gottingen: 哥廷根
+Gebze: 盖布泽
+Gdansk: 格但斯克
+Graz: 格拉茨
+Granada: 格拉纳达
+Glasgow: 格拉斯哥
+Greifswald: 格赖夫斯瓦尔德
+Mathura: 马图拉
+Saint-Martin-d'Heres: 圣马丹埃雷
+Grenoble: 格勒诺布尔
+Nathan: 内森
+London (U.K.): 伦敦（英国）
+Groningen: 格罗宁根
+Gent: 根特
+Paris: 巴黎
+Miyazaki City: 宫崎市
+Punjab: 旁遮普
+Amritsar: 阿姆利则
+Marne-la-Vallée: 马恩拉瓦莱
+Guadalajara: 瓜达拉哈拉
+Hyogo: 兵库
+Hirakata: 枚方市
+Punjab: 旁遮普
+Seoul: 首尔
+Gwangju: 光州
+Hiroshima: 广岛
+Guangzhou: 广州
+Zhanjiang: 湛江
+Guangdong: 广东
+Nanning: 南宁
+Guilin: 桂林
+Guelph: 圭尔夫
+Guiyang: 贵阳
+Changsha: 长沙
+Otawara: 大田原市
+Mohali: 莫哈里
+Tainan City: 台南市
+Shoufeng: 寿丰
+Ciaotou: 桥头
+Paris: 巴黎
+Hsinchu: 新竹
+Taipei City: 台北市
+Keelung City: 基隆市
+Taipei City: 台北市
+Hsinchu: 新竹
+Yunlin: 云林
+Taipei City: 台北市
+Kaohsiung: 高雄
+Taichung: 台中
+Jhongli City: 中坜市
+Min-Hsiung: 民雄
+Bangkok: 曼谷
+Huddersfield: 哈德斯菲尔德
+Jaen: 哈恩
+Harbin: 哈尔滨
+Cambridge (U.S.): 剑桥（美国）
+Varanasi: 瓦拉纳西
+Hyderabad: 海得拉巴
+Paris: 巴黎
+Harbin: 哈尔滨
+Hong Kong: 香港
+Chicago: 芝加哥
+Heidelberg: 海德堡
+Shanghai: 上海
+Helsinki: 赫尔辛基
+Canberra: 堪培拉
+Bonn: 波恩
+Oslo: 奥斯陆
+Dusseldorf: 杜塞尔多夫
+Frankfurt am Main: 美因河畔法兰克福
+Haifa: 海法
+Jakarta: 雅加达
+Warsaw: 华沙
+Johannesburg: 约翰内斯堡
+Accra: 阿克拉
+Doha: 多哈
+Vancouver: 温哥华
+Geneva: 日内瓦
+Los Angeles: 洛杉矶
+Havana: 哈瓦那
+Seoul: 首尔
+Beijing: 北京
+Freiburg: 弗赖堡
+Wollongong: 卧龙岗
+Taichung: 台中
+Singapore: 新加坡
+Shanghai: 上海
+Beijing: 北京
+Kunming: 昆明
+Yangzhou: 扬州
+Xiamen: 厦门
+Qingdao: 青岛
+Wenzhou: 温州
+Hangzhou: 杭州
+Tianjin: 天津
+Lanzhou: 兰州
+Guangzhou: 广州
+Wuhan: 武汉
+Xi'an: 西安
+Dalian: 大连
+Changsha: 长沙
+Chongqing: 重庆
+Chengdu: 成都
+Shenzhen: 深圳
+Zhuhai: 珠海
+Jinan: 济南
+Nanjing: 南京
+Hefei: 合肥
+Shanghai: 上海
+Harbin: 哈尔滨
+Wuxi: 无锡
+Shijiazhuang: 石家庄
+Changchun: 长春
+Changzhou: 常州
+Guilin: 桂林
+Beijing: 北京
+Hong Kong: 香港
+Yinchuan: 银川
+Suzhou: 苏州
+Hohhot: 呼和浩特
+Shenzhen: 深圳
+Xuzhou: 徐州
+Zhengzhou: 郑州
+Fuzhou: 福州
+Shenyang: 沈阳
+Daqing: 大庆
+Hefei: 合肥
+Tianjin: 天津
+Jilin: 吉林
+Urumqi: 乌鲁木齐
+Chongqing: 重庆
+Qingdao: 青岛
+Wenzhou: 温州
+Haikou: 海口
+Sanya: 三亚
+Guangzhou: 广州
+Wuhan: 武汉
+Dalian: 大连
+Alexandria: 亚历山德里亚
+Assiut: 阿西乌特
+Yasuj: 亚苏吉
+Suwon: 水原
+Taichung City: 台中市
+Yazd: 亚兹德
+Yantai: 烟台
+Seoul: 首尔
+Jonkoping: 延雪平
+Yancheng: 盐城
+Qinhuangdao: 秦皇岛
+Yangzhou: 扬州
+Sippy Downs: 希皮唐斯
+Provo: 普罗沃
+Istanbul: 伊斯坦布尔
+Istanbul: 伊斯坦布尔
+New Haven: 纽黑文
+Jerusalem: 耶路撒冷
+Jena: 耶拿
+Irbid: 伊尔比德
+New York City: 纽约市
+Ibadan: 伊巴丹
+Ilmenau: 伊尔梅瑙
+Baghdad: 巴格达
+Tehran: 德黑兰
+Tehran: 德黑兰
+Champaign: 香槟
+Chicago: 芝加哥
+Chicago: 芝加哥
+Normal: 诺尔默
+Tbilisi: 第比利斯
+Ilorin: 伊洛林
+Dammam: 达曼
+Isfahan: 伊斯法罕
+Isfahan: 伊斯法罕
+Isfahan: 伊斯法罕
+Tehran: 德黑兰
+Islamabad: 伊斯兰堡
+Islamabad: 伊斯兰堡
+Sefakoy-Kucukcekmece: 塞法科伊-库丘克切克梅杰
+Istanbul: 伊斯坦布尔
+Istanbul: 伊斯坦布尔
+Istanbul: 伊斯坦布尔
+Istanbul: 伊斯坦布尔
+Beykoz, İstanbul: 贝伊科兹, 伊斯坦布尔
+İstanbul: 伊斯坦布尔
+Zeytinburnu/İstanbul: 泽伊廷布尔努/伊斯坦布尔
+Tbilisi: 第比利斯
+Izmir: 伊兹密尔
+Izmir: 伊兹密尔
+Haifa: 海法
+Kaohsiung City: 高雄市
+Lugano: 卢加诺
+Innsbruck: 因斯布鲁克
+Innsbruck: 因斯布鲁克
+Bloomington: 布卢明顿
+Indianapolis: 印第安纳波利斯
+Nadia: 纳迪亚
+SAS Nagar: SAS 纳加尔
+Pashan: 帕山
+Bangalore: 班加罗尔
+Dhanbad: 丹巴德
+Argul: 阿尔古尔
+New Delhi: 新德里
+Gandhinagar: 甘地讷格尔
+Guwahati: 古瓦哈提
+Teangana: 泰兰加纳
+Kharagpur: 卡拉格普尔
+Kanpur: 坎普尔
+Roorkee: 鲁尔基
+Rupnagar: 鲁普纳加尔
+Chennai: 金奈
+Kamand: 卡曼德
+Mumbai: 孟买
+Varanasi: 瓦拉纳西
+Indore: 印多尔
+Depok: 德波
+Kolkata: 加尔各答
+New Delhi: 新德里
+Milton Keynes: 米尔顿凯恩斯
+Vancouver: 温哥华
+Varese: 瓦雷泽
+Gyeongsan: 庆山
+Cluj-Napoca: 克卢日-纳波卡
+Salt Lake City: 盐湖城
+Logan: 洛根
+Umea: 乌默奥
+Jyvaskyla: 于韦斯屈莱
+Vladivostok: 符拉迪沃斯托克
+Ioannina: 约阿尼纳
+Amman: 安曼
+Irbid: 伊尔比德
+Baltimore: 巴尔的摩
+Linz: 林茨
+Johannesburg: 约翰内斯堡
+York: 约克
+Toronto: 多伦多
+Ho Chi Minh City: 胡志明市
+Kunming: 昆明
+Lusaka: 卢萨卡
+Tokyo: 东京
+Zagazig: 扎加齐格
+Dubai: 迪拜
+Townsville City: 汤斯维尔市
+Xi'an: 西安
+Changchun: 长春
+Changchun: 长春
+Nagaoka: 长冈
+Taoyuan City: 桃园市
+Nagasaki: 长崎
+Changsha: 长沙
+Tokyo: 东京
+Hangzhou: 杭州
+Hangzhou: 杭州
+Xiasha University Town: 下沙大学城
+Hangzhou: 杭州
+Changzhi Island: 长治岛
+Hangzhou: 杭州
+Hangzhou: 杭州
+Hangzhou: 杭州
+Jinhua: 金华
+Zhengzhou: 郑州
+Zhengzhou: 郑州
+Chicago: 芝加哥
+Chicago: 芝加哥
+Tokyo: 东京
+Santiago: 圣地亚哥
+Valdivia: 瓦尔迪维亚
+Santiago: 圣地亚哥
+Santiago: 圣地亚哥
+Temuco: 特木科
+Ankara: 安卡拉
+Orlando: 奥兰多
+Wuhan: 武汉
+Qingdao: 青岛
+Hangzhou: 杭州
+Hefei: 合肥
+Beijing: 北京
+Xuzhou: 徐州
+Tianjin: 天津
+Beijing: 北京
+Beijing: 北京
+Yichang: 宜昌
+Qingdao: 青岛
+Nanjing: 南京
+Shenyang: 沈阳
+Mount Pleasant: 芒特普莱森特
+Wuhan: 武汉
+Changsha: 长沙
+Changsha: 长沙
+Wuhan: 武汉
+Guangzhou: 广州
+Taichung City: 台中市
+Beijing: 北京
+Seoul: 首尔
+Rockhampton North: 罗克汉普顿北
+Preston: 普雷斯顿
+Beijing: 北京
+Taoyuan City: 桃园市
+Cheongju: 清州
+Daejeon: 大田
+Guangzhou: 广州
+Chongqing: 重庆
+Chongqing: 重庆
+Chongqing: 重庆
+Chongqing: 重庆
+Banan: 巴南
+Chongqing: 重庆
+Yongchuan: 永川
+Yuzhong: 渝中
+Chongqing: 重庆
+Sakaka: 沙卡卡
+Bangkok: 曼谷
+Tsukuba: 筑波
+Tokyo: 东京
+Bloemfontein: 布隆方丹
+Shimotsuke: 下野市
+Saga: 佐贺
+Atlanta: 亚特兰大
+
+
+国家:
+United States: 美国
+United Kingdom: 英国
+China: 中国
+Canada: 加拿大
+Singapore: 新加坡
+Australia: 澳大利亚
+Switzerland: 瑞士
+Netherlands: 荷兰
+Hong Kong: 香港
+France: 法国
+Denmark: 丹麦
+Germany: 德国
+Belgium: 比利时
+Sweden: 瑞典
+Saudi Arabia: 沙特阿拉伯
+Spain: 西班牙
+Japan: 日本
+Norway: 挪威
+Finland: 芬兰
+South Africa: 南非
+Brazil: 巴西
+Italy: 意大利
+New Zealand: 新西兰
+South Korea: 韩国
+Israel: 以色列
+Turkey: 土耳其
+Austria: 奥地利
+Ireland: 爱尔兰
+Greece: 希腊
+Portugal: 葡萄牙
+Taiwan: 台湾
+Estonia: 爱沙尼亚
+Czech Republic: 捷克
+Vietnam: 越南
+United Arab Emirates: 阿拉伯联合酋长国
+Macau: 澳门
+Egypt: 埃及
+Iran: 伊朗
+Malaysia: 马来西亚
+Pakistan: 巴基斯坦
+Russia: 俄罗斯
+Nigeria: 尼日利亚
+Qatar: 卡塔尔
+Chile: 智利
+Lebanon: 黎巴嫩
+Poland: 波兰
+Mexico: 墨西哥
+Jordan: 约旦
+Serbia: 塞尔维亚
+Algeria: 阿尔及利亚
+Argentina: 阿根廷
+Armenia: 亚美尼亚
+Bangladesh: 孟加拉国
+Belarus: 白俄罗斯
+Benin: 贝宁
+Bosnia and Herzegovina: 波斯尼亚和黑塞哥维那
+Brunei Darussalam: 文莱
+Bulgaria: 保加利亚
+Cameroon: 喀麦隆
+Colombia: 哥伦比亚
+Costa Rica: 哥斯达黎加
+Croatia: 克罗地亚
+Cuba: 古巴
+Cyprus: 塞浦路斯
+Ecuador: 厄瓜多尔
+Ethiopia: 埃塞俄比亚
+Georgia: 格鲁吉亚
+Ghana: 加纳
+Hungary: 匈牙利
+Iceland: 冰岛
+India: 印度
+Indonesia: 印度尼西亚
+Iraq: 伊拉克
+Jamaica: 牙买加
+Kazakhstan: 哈萨克斯坦
+Kenya: 肯尼亚
+Kuwait: 科威特
+Latvia: 拉脱维亚
+Lithuania: 立陶宛
+Luxembourg: 卢森堡
+Malawi: 马拉维
+Malta: 马耳他
+Morocco: 摩洛哥
+Nepal: 尼泊尔
+North Macedonia: 北马其顿
+Oman: 阿曼
+Palestine: 巴勒斯坦
+Peru: 秘鲁
+Philippines: 菲律宾
+Romania: 罗马尼亚
+Rwanda: 卢旺达
+Senegal: 塞内加尔
+Slovakia: 斯洛伐克
+Slovenia: 斯洛文尼亚
+Sri Lanka: 斯里兰卡
+Sudan: 苏丹
+Thailand: 泰国
+Tunisia: 突尼斯
+Uganda: 乌干达
+Ukraine: 乌克兰
+Uruguay: 乌拉圭
+Zambia: 赞比亚
+Zimbabwe: 津巴布韦
+United Arab Emirates: 阿拉伯联合酋长国
+Egypt: 埃及
+Ireland: 爱尔兰
+Estonia: 爱沙尼亚
+Austria: 奥地利
+Australia: 澳大利亚
+Pakistan: 巴基斯坦
+Brazil: 巴西
+Belgium: 比利时
+Poland: 波兰
+Denmark: 丹麦
+Germany: 德国
+Russia: 俄罗斯
+France: 法国
+Finland: 芬兰
+South Korea: 韩国
+Netherlands: 荷兰
+Canada: 加拿大
+Czech Republic: 捷克
+Qatar: 卡塔尔
+Lebanon: 黎巴嫩
+Malaysia: 马来西亚
+United States: 美国
+Mexico: 墨西哥
+South Africa: 南非
+Nigeria: 尼日利亚
+Norway: 挪威
+Portugal: 葡萄牙
+Japan: 日本
+Sweden: 瑞典
+Switzerland: 瑞士
+Serbia: 塞尔维亚
+Saudi Arabia: 沙特阿拉伯
+Taiwan: 台湾
+Turkey: 土耳其
+Spain: 西班牙
+Greece: 希腊
+Hong Kong: 香港
+Singapore: 新加坡
+New Zealand: 新西兰
+Israel: 以色列
+Italy: 意大利
+United Kingdom: 英国
+Jordan: 约旦
+Vietnam: 越南
+Chile: 智利
+China: 中国
+
